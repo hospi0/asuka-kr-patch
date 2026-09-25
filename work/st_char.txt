@@ -1,0 +1,18 @@
+=== state1 36306760
+  rin       7 ['0xabf69', '0x5164fa', '0x5165a6', '0x516ffe', '0x51741e', '0x897c10']
+  ten       7 ['0xb37499', '0xb878d2', '0xbc2437', '0xbc337c', '0xbc3382', '0xbc3388']
+  jukai     1 ['0xbe6438']
+  fukai     1 ['0xbbc743']
+  kako      0 []
+  kokoni    0 []
+  kyodai    1 ['0xbd374a']
+  katachi   0 []
+=== state2 36306760
+  rin       7 ['0x26e85', '0xabf69', '0x51db1a', '0x51dbc6', '0x51e61e', '0x51ea3e']
+  ten       7 ['0x1b95d', '0x58e61b', '0x58e85b', '0x949cd1', '0x949cd9', '0x95808d']
+  jukai     1 ['0xbeda58']
+  fukai     1 ['0xbc3d63']
+  kako      0 []
+  kokoni    0 []
+  kyodai    1 ['0xbdad6a']
+  katachi   0 []

@@ -1,0 +1,12 @@
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\MN04\PVR\MN04A.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\MN04\PVR
+ENC PARAMS : -pal4 -1555 
+IMAGE SIZE : 256x256
+DATA CRC32 : 7FD00D7B
+---------------
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\MN04\PVR\MN04B.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\MN04\PVR
+ENC PARAMS : -pal4 -1555 
+IMAGE SIZE : 256x256
+DATA CRC32 : 5EC31060
+---------------

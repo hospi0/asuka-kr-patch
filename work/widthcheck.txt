@@ -1,0 +1,1208 @@
+창 폭 초과 {'DATASCR.BIN': 798, 'SSCR.BIN': 409}
+DATASCR.BIN	SCR00034	0x1974	1번째줄	22칸>20칸	銀 撤 炊哀酪循荷左 翼陰蘇挟郷.
+DATASCR.BIN	SCR00048	0x1DE7	1번째줄	22칸>20칸	裳航翼英 鳩隻察 待英…
+DATASCR.BIN	SCR00054	0x1F75	1번째줄	25칸>20칸	貫君 湯歌鶴 楯樹態殉画.
+DATASCR.BIN	SCR00055	0x1FDD	2번째줄	24칸>20칸	酪道荷左 掴似蘭丹辰.
+DATASCR.BIN	SCR00070	0x2450	2번째줄	27칸>20칸	須作探 墳阿 算亭酸 狸丹辰君……
+DATASCR.BIN	SCR00092	0x2A35	1번째줄	24칸>20칸	君刺瓶 域君 炊哀酪拓 琉.
+DATASCR.BIN	SCR00140	0x368D	1번째줄	27칸>20칸	羅 住君 粟隊句 賭程 狸郷.
+DATASCR.BIN	SCR00165	0x3C53	1번째줄	24칸>20칸	扇斬鶴 態程防程 迭倹辰 敵郷.
+DATASCR.BIN	SCR00166	0x3C9B	2번째줄	22칸>20칸	刃挑従程 喪狛 敵吊挟.
+DATASCR.BIN	SCR00184	0x417B	2번째줄	30칸>20칸	堅 家 顔挑程 肢僧馴左 猶僧恵郷.
+DATASCR.BIN	SCR00186	0x4211	1번째줄	26칸>20칸	程途探 貫宙句 肢僧馴阿 猶僧恵郷.
+DATASCR.BIN	SCR00191	0x4368	1번째줄	21칸>20칸	湯須 錦錦左庭 疑亭 集三郷挟……。
+DATASCR.BIN	SCR00192	0x43AE	2번째줄	24칸>20칸	斜洪 悪刃血狛拓 裸馴……
+DATASCR.BIN	SCR00196	0x4586	0번째줄	22칸>20칸	湿征馴酸 等 湯刃酪循英 惣辰帳……。
+DATASCR.BIN	SCR00206	0x480E	2번째줄	31칸>20칸	酪薫裸 扇 敵亭 域 粟態帳.
+DATASCR.BIN	SCR00217	0x4AF6	2번째줄	26칸>20칸	都錦 治 裸 緯拓.」
+DATASCR.BIN	SCR00218	0x4B60	1번째줄	24칸>20칸	暫蘭蘇挟郷. 「椀 家 怒君白程拓!
+DATASCR.BIN	SCR00225	0x4D44	1번째줄	22칸>20칸	関態稚笹荷 途探 読探印 暫蘭蘇挟郷.
+DATASCR.BIN	SCR00232	0x4F1D	1번째줄	22칸>20칸	凝鶴 途琉 阿画調馴馴 苔蘇挟郷.
+DATASCR.BIN	SCR00233	0x4F61	2번째줄	23칸>20칸	敵句循柴亭途書 ・集・恨蘇挟郷.
+DATASCR.BIN	SCR00238	0x50BC	1번째줄	29칸>20칸	宇群翼英 暫隊蘇挟郷. ＜影席＞
+DATASCR.BIN	SCR00244	0x526A	1번째줄	26칸>20칸	読 挑亭 書毘菓 机君 算畑阿馴郷.」
+DATASCR.BIN	SCR00247	0x535C	2번째줄	27칸>20칸	凝亭 翼共左 蜘三荷左 羅 域摘挟郷.
+DATASCR.BIN	SCR00266	0x58EF	2번째줄	26칸>20칸	誕覧程 成越羅郷競 途勢程 敵郷汽.
+DATASCR.BIN	SCR00292	0x6450	0번째줄	21칸>20칸	左頁礎伏「刃 <P>甚狛禿――――!!
+DATASCR.BIN	SCR00311	0x6B28	1번째줄	21칸>20칸	煮阿 肌稚 態橋阿?
+DATASCR.BIN	SCR00336	0x7466	0번째줄	23칸>20칸	阿 悪刃雷挟郷……。
+DATASCR.BIN	SCR00367	0x7EE0	2번째줄	23칸>20칸	家鴻飼 扱庭 薫鶴 死美 緯知帳.
+DATASCR.BIN	SCR00391	0x8AE2	2번째줄	21칸>20칸	阿集恨辰.
+DATASCR.BIN	SCR00421	0x95CE	2번째줄	32칸>20칸	羅 扇 右罪道請吊飼 翼競偶帳.
+DATASCR.BIN	SCR00457	0xB0E5	0번째줄	24칸>20칸	稚法汽 裸施挟「両両両.
+DATASCR.BIN	SCR00475	0xB5CF	2번째줄	26칸>20칸	径挟画.
+DATASCR.BIN	SCR00498	0xBEF1	1번째줄	25칸>20칸	敵辰. 怒暫 扇須翼徹態.
+DATASCR.BIN	SCR00515	0xC45D	0번째줄	21칸>20칸	稚法汽 裸施挟「適 富拓探 狂君.
+DATASCR.BIN	SCR00520	0xD096	1번째줄	21칸>20칸	整須淡 出 碗羅羅 革程 郷 敵殴枝.
+DATASCR.BIN	SCR00560	0xDC8E	2번째줄	26칸>20칸	～～～～～～～～～～～～～～～暫左
+DATASCR.BIN	SCR00562	0xDD31	2번째줄	21칸>20칸	'両洪程 尋'探世 析態貫競 緯拓.
+DATASCR.BIN	SCR00570	0xDF82	2번째줄	28칸>20칸	与航艇 狂程 貫法貫 道郷挟.
+DATASCR.BIN	SCR00573	0xE080	2번째줄	21칸>20칸	誕課 馴貫圧辰.
+DATASCR.BIN	SCR00587	0xE424	1번째줄	22칸>20칸	道調世 暇犯 道艇探印 暫亭 遺辰洪.
+DATASCR.BIN	SCR00602	0xE872	2번째줄	21칸>20칸	帳内 滞 藤鶴 諦程 机湿 斬態.
+DATASCR.BIN	SCR00608	0xEA52	2번째줄	28칸>20칸	陵喪掟 荷奪酪 渓競 印 藤態.
+DATASCR.BIN	SCR00620	0xECFD	2번째줄	25칸>20칸	誕覧 傾済阿 径辰峠郷殴~.
+DATASCR.BIN	SCR00623	0xEDE5	2번째줄	23칸>20칸	刃喪 探国峰須適競 滞 刃洪南郷殴~.
+DATASCR.BIN	SCR00624	0xEE50	2번째줄	26칸>20칸	見洪凄 薬三羅 荷浅諦馴君 時洪~.
+DATASCR.BIN	SCR00636	0xF19C	2번째줄	21칸>20칸	涙扇酪 継 抑帳阿 敵郷殴~.
+DATASCR.BIN	SCR00650	0xF5BA	2번째줄	28칸>20칸	台吊左 辰庫印 酪拓 裸馴…<P>…<P>….
+DATASCR.BIN	SCR00666	0xFC03	0번째줄	22칸>20칸	取貫字「論貞 与航艇程殴貫.
+DATASCR.BIN	SCR00685	0x1050F	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR00687	0x1058F	0번째줄	26칸>20칸	度超「悪刃雷挟郷帳~!
+DATASCR.BIN	SCR00693	0x10726	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR00730	0x10C33	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR00731	0x10C63	0번째줄	22칸>20칸	度超「士住 悪刃酪帳~!
+DATASCR.BIN	SCR00735	0x10D16	0번째줄	23칸>20칸	度超「辰洪 惜狂
+DATASCR.BIN	SCR00737	0x10D5C	0번째줄	22칸>20칸	錦天愛「家劫 緯 狸蘇洞.
+DATASCR.BIN	SCR00752	0x12312	1번째줄	24칸>20칸	辰権阿左 阿集恨辰.
+DATASCR.BIN	SCR00765	0x1265D	2번째줄	25칸>20칸	程悦 双刃察 馴覆道英 敵辰.
+DATASCR.BIN	SCR00767	0x126E4	1번째줄	23칸>20칸	墳阿 橋適羅肪 宴奏亭 宛銀洪英.
+DATASCR.BIN	SCR00786	0x12C3F	1번째줄	21칸>20칸	辰庫印 径辰集三競 域艇阿…….
+DATASCR.BIN	SCR00787	0x12C83	0번째줄	24칸>20칸	裸態集馴「鍛僧 墳阿競 滞 貫象句員阿.
+DATASCR.BIN	SCR00789	0x12CE5	2번째줄	22칸>20칸	翼競殴貫…….
+DATASCR.BIN	SCR00799	0x1302D	2번째줄	25칸>20칸	'刃程洪程王'吊左 程刃阿帳.
+DATASCR.BIN	SCR00803	0x1318F	0번째줄	25칸>20칸	態還「三受 琵党 那緯頂馴.
+DATASCR.BIN	SCR00804	0x131B8	0번째줄	24칸>20칸	陥薬「家航 顔飢探君 顧 阿適.
+DATASCR.BIN	SCR00827	0x13936	2번째줄	22칸>20칸	持礎忘逐 算道貧英 暫隊馴.
+DATASCR.BIN	SCR00829	0x139D0	2번째줄	24칸>20칸	苔隊郷英 翼銀殴貫……。
+DATASCR.BIN	SCR00830	0x13A61	1번째줄	26칸>20칸	斬程 態双郷殴!
+DATASCR.BIN	SCR00835	0x13BEF	0번째줄	21칸>20칸	誕宴 裸死「郵 鮮英 阿洪殴.
+DATASCR.BIN	SCR00851	0x140B2	2번째줄	28칸>20칸	……湯歌 湿征驚 暫程馴……。
+DATASCR.BIN	SCR00854	0x141D4	2번째줄	22칸>20칸	汝 貫競 治 翼陰競偶……。
+DATASCR.BIN	SCR00858	0x14368	0번째줄	24칸>20칸	家劫 緯 旨吊飼 使敵吊狛貫……。
+DATASCR.BIN	SCR00874	0x149C1	1번째줄	23칸>20칸	1飢 怒君 扇覧 誕覧亭言含丹馴.
+DATASCR.BIN	SCR00875	0x14A0F	2번째줄	21칸>20칸	刃甲亭 蘇宇翼緯貫 翼英 暫程拓.
+DATASCR.BIN	SCR00891	0x15688	0번째줄	25칸>20칸	覧須艇「顧 稚僧課 荷郷三陰蘇挟郷
+DATASCR.BIN	SCR00897	0x15821	0번째줄	23칸>20칸	訓程 書灯翼徹蘇挟画.
+DATASCR.BIN	SCR00919	0x15B18	0번째줄	23칸>20칸	覧須艇「悪刃雷挟郷.
+DATASCR.BIN	SCR00946	0x1829F	0번째줄	22칸>20칸	取貫字「……墳阿察 庭奏翼競 緯拓?
+DATASCR.BIN	SCR00948	0x182EC	2번째줄	21칸>20칸	程 顕庭 柳量察 馴覆宙驚 暫程拓!
+DATASCR.BIN	SCR00950	0x183E7	0번째줄	25칸>20칸	登衣 士諦 周 羅 住駄 顔狛逐.
+DATASCR.BIN	SCR00951	0x1840F	1번째줄	24칸>20칸	程 暇犯探 阿画程 阿馴 苔君差 酪.
+DATASCR.BIN	SCR00952	0x1858B	0번째줄	35칸>20칸	1飢　途………。
+DATASCR.BIN	SCR00961	0x18902	2번째줄	28칸>20칸	1飢 傾滞鶴 群態蜘 扇君 狸吊挟画.
+DATASCR.BIN	SCR00969	0x18B8E	0번째줄	23칸>20칸	橋適倹・渓根「態翼翼翼翼翼!!
+DATASCR.BIN	SCR00990	0x19645	0번째줄	21칸>20칸	紛鳴「霊暢……湿世頂郷.
+DATASCR.BIN	SCR01002	0x199F2	1번째줄	23칸>20칸	肢程稚暢港庭 薫程 笑桃辰帳.
+DATASCR.BIN	SCR01006	0x19B5C	2번째줄	25칸>20칸	道刃察 整 州程貫 司隊辰帳.
+DATASCR.BIN	SCR01022	0x1A083	0번째줄	21칸>20칸	翼態……顧 扇覧亭 郷僧 酪拓陰汽帳.
+DATASCR.BIN	SCR01025	0x1A145	0번째줄	26칸>20칸	煙畠吊僧郷飼 草循整帳.
+DATASCR.BIN	SCR01035	0x1A3F8	0번째줄	21칸>20칸	翼阿頁国 橋適「峠消競 径請貫帳?
+DATASCR.BIN	SCR01043	0x1A75C	2번째줄	23칸>20칸	敵競 須豊阿 掲 怒君摘挟郷.
+DATASCR.BIN	SCR01044	0x1A7C9	2번째줄	23칸>20칸	裸 扇 敵陰馴帳.
+DATASCR.BIN	SCR01045	0x1A832	2번째줄	23칸>20칸	料適世 君途翼印 敬挟郷.
+DATASCR.BIN	SCR01046	0x1A89B	2번째줄	33칸>20칸	家探 遺司鶴 哀稚察 酪渓整帳.
+DATASCR.BIN	SCR01078	0x1B378	2번째줄	22칸>20칸	包 宴影阿 敵郷英 準挟郷.
+DATASCR.BIN	SCR01079	0x1B3E3	2번째줄	21칸>20칸	三受党察 州酪翼英 敵郷競 域亭帳.
+DATASCR.BIN	SCR01092	0x1B7EA	0번째줄	27칸>20칸	？？？「読----------!!<P>
+DATASCR.BIN	SCR01101	0x1BAA8	0번째줄	23칸>20칸	紛鳴「程 適創 家告印競 滞 径馴!!
+DATASCR.BIN	SCR01113	0x1C150	2번째줄	22칸>20칸	「天適庭 道牝」亭 惜探 気丹郷!
+DATASCR.BIN	SCR01125	0x1C95B	2번째줄	28칸>20칸	女阿刃庭 句途程 径辰 敵辰帳.
+DATASCR.BIN	SCR01146	0x1D082	2번째줄	25칸>20칸	須豊阿 掲 怒君摘挟郷.
+DATASCR.BIN	SCR01147	0x1D0EF	2번째줄	21칸>20칸	僧裏樹競郷英 裸 扇 敵陰馴帳.
+DATASCR.BIN	SCR01148	0x1D158	2번째줄	24칸>20칸	料適世 君途翼印 敬挟郷.
+DATASCR.BIN	SCR01149	0x1D1C1	2번째줄	32칸>20칸	家探 遺司鶴 哀稚察 酪渓爽僧稚.
+DATASCR.BIN	SCR01163	0x1DE4E	2번째줄	32칸>20칸	家劫 議鶴 暢三君 楯 賭程 狸辰.
+DATASCR.BIN	SCR01180	0x1E389	2번째줄	29칸>20칸	程 量察 辰建探 融辰拓 翼君!
+DATASCR.BIN	SCR01183	0x1E499	2번째줄	29칸>20칸	暢三阿 字笹競 軌瀬倹君 敵郷英.
+DATASCR.BIN	SCR01200	0x1E993	2번째줄	29칸>20칸	滞郷英 倹辰世 酸貫鴻 宙隻.
+DATASCR.BIN	SCR01201	0x1EA00	1번째줄	22칸>20칸	家劫 遺 倹辰世 斜 翼狛英?
+DATASCR.BIN	SCR01204	0x1EAB0	0번째줄	24칸>20칸	暢蛛蛛蛛掟!
+DATASCR.BIN	SCR01237	0x1F53E	2번째줄	23칸>20칸	湯糖裸 域程 抑帳 狸印 径京挟洪……。
+DATASCR.BIN	SCR01254	0x1F97B	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR01260	0x1FAF5	0번째줄	21칸>20칸	訓程 書灯翼双 域 粟鶴偶帳.
+DATASCR.BIN	SCR01282	0x1FDF6	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR01357	0x23A2E	0번째줄	22칸>20칸	渓根「……双成羅 省庭 祠……。
+DATASCR.BIN	SCR01360	0x23ADC	2번째줄	21칸>20칸	賛隊蘇挟郷……。
+DATASCR.BIN	SCR01371	0x23DE7	0번째줄	22칸>20칸	渓根「……双成羅 省庭 祠……。
+DATASCR.BIN	SCR01384	0x24551	0번째줄	23칸>20칸	顔阿 錦釆 社 蘭馴??
+DATASCR.BIN	SCR01388	0x2531D	0번째줄	32칸>20칸	羅薬　家　湿困………。
+DATASCR.BIN	SCR01405	0x25FCC	1번째줄	21칸>20칸	取滞翼貫 馴貫阿印
+DATASCR.BIN	SCR01429	0x26714	2번째줄	24칸>20칸	裸馴 怒翼印 翼適英。
+DATASCR.BIN	SCR01432	0x2680C	2번째줄	22칸>20칸	途書 径句嶋 血惨 扇 敵英
+DATASCR.BIN	SCR01435	0x268F9	1번째줄	22칸>20칸	拾阿 州酪径飼 滞 径馴酸帳。
+DATASCR.BIN	SCR01452	0x26E29	2번째줄	22칸>20칸	程取 傾済阿 阿訣翼汽帳. 態禅汽。
+DATASCR.BIN	SCR01458	0x26FF0	2번째줄	33칸>20칸	充草 傾済 阿訣翼郷～. 態禅郷～。
+DATASCR.BIN	SCR01497	0x290C0	2번째줄	32칸>20칸	諦驚 集娘英 敵競 京缶程拓。
+DATASCR.BIN	SCR01516	0x2A751	0번째줄	21칸>20칸	態礎富＠「隻炊 態礎富＠帳。
+DATASCR.BIN	SCR01517	0x2A778	2번째줄	22칸>20칸	蜘酪競 怒溺 三受 琵党察 治 壇辰帳。
+DATASCR.BIN	SCR01521	0x2A909	0번째줄	22칸>20칸	墳帳三「書建 湯奏翼整帳。
+DATASCR.BIN	SCR01522	0x2A967	2번째줄	21칸>20칸	錦釆 辰迫酪拓 裸馴……。
+DATASCR.BIN	SCR01525	0x2AA6F	1번째줄	26칸>20칸	悪刃雷挟郷 態礎富＠狂。
+DATASCR.BIN	SCR01526	0x2AAB7	2번째줄	23칸>20칸	態礎富＠狂……書建 湯奏亭。
+DATASCR.BIN	SCR01527	0x2AB1E	1번째줄	22칸>20칸	那緯潮 琵党察 貧克辰帳。
+DATASCR.BIN	SCR01533	0x2AD03	2번째줄	29칸>20칸	「党荷庭 州」濡 剰荷郷挟……。
+DATASCR.BIN	SCR01537	0x2AE3E	2번째줄	29칸>20칸	髭助羅 男込程 霞倹洞。
+DATASCR.BIN	SCR01549	0x2B171	2번째줄	21칸>20칸	画馴庭 句途艇偶
+DATASCR.BIN	SCR01551	0x2B20D	2번째줄	28칸>20칸	途降亭 撤 肉拓 雷挟郷。
+DATASCR.BIN	SCR01552	0x2B275	1번째줄	25칸>20칸	盾・灯適 旗旗掟 遜馴酸
+DATASCR.BIN	SCR01554	0x2B2F3	1번째줄	25칸>20칸	脈扇羅 嘉賓程 敵競 井挟郷。
+DATASCR.BIN	SCR01556	0x2B399	0번째줄	22칸>20칸	家 寿探 柴亭 印 敵貫帳?
+DATASCR.BIN	SCR01558	0x2B3FB	1번째줄	23칸>20칸	墳阿 算亭探 敵辰帳。
+DATASCR.BIN	SCR01560	0x2B492	2번째줄	35칸>20칸	敵印 翼競 井挟郷。
+DATASCR.BIN	SCR01562	0x2B55D	0번째줄	26칸>20칸	羅 住 阿循精君 藤亭 緯知帳。
+DATASCR.BIN	SCR01563	0x2B587	0번째줄	22칸>20칸	家 寿探 柴亭 印 敵貫帳?
+DATASCR.BIN	SCR01567	0x2B68F	0번째줄	22칸>20칸	家 寿探 柴亭 印 敵貫帳?
+DATASCR.BIN	SCR01578	0x2B980	1번째줄	28칸>20칸	暫亭 遺辰君 極酪道馴 苔隊郷。）
+DATASCR.BIN	SCR01588	0x2BC9B	2번째줄	34칸>20칸	桐双 辰建 殴酪顔 純～
+DATASCR.BIN	SCR01594	0x2BE8B	2번째줄	21칸>20칸	南肉 義紅郷挟画。
+DATASCR.BIN	SCR01599	0x2C041	2번째줄	23칸>20칸	宴奏亭 刃狛競 顔 影類程……。
+DATASCR.BIN	SCR01610	0x2C437	0번째줄	24칸>20칸	……貫 窒途掟 猛程 契集恨辰.
+DATASCR.BIN	SCR01615	0x2C5B5	2번째줄	25칸>20칸	敵郷句偶.
+DATASCR.BIN	SCR01642	0x2CEB4	2번째줄	23칸>20칸	倹丹蘇洞. 祠顔爽舌.
+DATASCR.BIN	SCR01646	0x2D041	2번째줄	24칸>20칸	郷僧 殉 扇 敵亭馴君 字笹陰辰.
+DATASCR.BIN	SCR01686	0x2DCDE	2번째줄	29칸>20칸	陸辰馴印 径競偶家航君煙畠陰辰?
+DATASCR.BIN	SCR01687	0x2DD59	2번째줄	24칸>20칸	陸辰馴印 径競偶 家航君 煙畠陰辰?
+DATASCR.BIN	SCR01695	0x2E035	0번째줄	32칸>20칸	～潮似庭　受陳～
+DATASCR.BIN	SCR01696	0x2E069	0번째줄	27칸>20칸	潮似双　三受　狂庭　双釆。
+DATASCR.BIN	SCR01698	0x2E0BE	0번째줄	25칸>20칸	課録亭　度否郷英　途酪南郷。
+DATASCR.BIN	SCR01699	0x2E1AA	2번째줄	33칸>20칸	怒暫 悪刃雷挟郷!
+DATASCR.BIN	SCR01701	0x2E28D	2번째줄	25칸>20칸	'隅隅桐'探 稚双 遺 領男酪帳!
+DATASCR.BIN	SCR01725	0x2E6CE	0번째줄	24칸>20칸	家合 故 鳴豹察 倹 扇阿 狸徹態.
+DATASCR.BIN	SCR01726	0x2E71F	0번째줄	22칸>20칸	掟貫墳「悪刃雷挟郷!
+DATASCR.BIN	SCR01753	0x2ED71	2번째줄	22칸>20칸	暫程拓.
+DATASCR.BIN	SCR01754	0x2EDD6	2번째줄	21칸>20칸	受左 弧辰匿 肪挟画 暫程拓.
+DATASCR.BIN	SCR01761	0x2EFC2	1번째줄	22칸>20칸	涙左阿 雷影 3天 抑帳酪馴競 緯馴.
+DATASCR.BIN	SCR01773	0x2F36A	1번째줄	24칸>20칸	辿算 途探 双党夕程 貫宙郷挟画帳.
+DATASCR.BIN	SCR01774	0x2F3B2	2번째줄	24칸>20칸	句馴英 顧 箱競 鳴調融羅 左潤程馴.
+DATASCR.BIN	SCR01782	0x2F63E	2번째줄	24칸>20칸	誹英庭 探国峰須適阿 貫宙郷挟画.
+DATASCR.BIN	SCR01785	0x2F761	1번째줄	36칸>20칸	消想南 柴衣程 契集恨馴酸
+DATASCR.BIN	SCR01787	0x2F7E6	2번째줄	31칸>20칸	錦高 炊尋翼荷左 蘭郷挟画.
+DATASCR.BIN	SCR01796	0x2FAA5	2번째줄	26칸>20칸	敵競 印 態挟緯月.
+DATASCR.BIN	SCR01816	0x3009D	2번째줄	22칸>20칸	家拓暫左 湿賭庭 探国峰須適阿恵郷!!
+DATASCR.BIN	SCR01819	0x301DE	2번째줄	23칸>20칸	程 探国峰須適察 刃阿君差 翼洪.
+DATASCR.BIN	SCR01825	0x3038E	2번째줄	21칸>20칸	途 店尋亭 蔵態傷英 暫隊郷……。
+DATASCR.BIN	SCR01827	0x30446	1번째줄	22칸>20칸	探肪笹偶焦庭 須適察 刃君差 翼洪.
+DATASCR.BIN	SCR01831	0x305A0	0번째줄	25칸>20칸	探肪笹偶焦庭　須適察　惜探　気丹郷。
+DATASCR.BIN	SCR01843	0x30894	2번째줄	30칸>20칸	傾済阿 阿訣艇 域 粟汽~. 態禅郷.
+DATASCR.BIN	SCR01871	0x3111A	0번째줄	23칸>20칸	（……煮阿……程須羅 道旨宗……。）
+DATASCR.BIN	SCR01921	0x31D3D	0번째줄	21칸>20칸	歌英阿 岳 肇 集山郷殴.
+DATASCR.BIN	SCR01925	0x31DEA	1번째줄	21칸>20칸	史態 経 訓鶴 狸亭 貌偶.
+DATASCR.BIN	SCR01936	0x3253B	2번째줄	26칸>20칸	滅算畔程 敵郷競偶君.
+DATASCR.BIN	SCR01939	0x32624	1번째줄	21칸>20칸	党荷察 衣貴郷.
+DATASCR.BIN	SCR01941	0x326AB	1번째줄	21칸>20칸	党荷察 衣貴郷.
+DATASCR.BIN	SCR01945	0x32EF2	1번째줄	26칸>20칸	悪刃雷挟郷 態礎富＠ 舵.
+DATASCR.BIN	SCR01946	0x32F3A	0번째줄	22칸>20칸	紛鳴「陸陸 態縄 僧溺諦 晋程洪殴.
+DATASCR.BIN	SCR01958	0x331C5	2번째줄	23칸>20칸	程遺左 汽 暗阿 字艇 正程馴.
+DATASCR.BIN	SCR01959	0x33266	1번째줄	25칸>20칸	盾下貸亭 狸大 道君差 翼馴.
+DATASCR.BIN	SCR01960	0x332AC	2번째줄	24칸>20칸	焦狛世 盾下貸亭 鳴遠翼君差 翼馴.
+DATASCR.BIN	SCR01981	0x33916	0번째줄	21칸>20칸	霊暢……斜 程遺左 受陳競 刃洪桃郷.
+DATASCR.BIN	SCR01985	0x33AB6	0번째줄	32칸>20칸	羅薬　家　湿困……。
+DATASCR.BIN	SCR01995	0x33DF5	1번째줄	28칸>20칸	辿刷 阿世 艇愛倹程貫 井禿洪.
+DATASCR.BIN	SCR01998	0x33F67	1번째줄	25칸>20칸	怒暫左 悪刃雷挟郷.
+DATASCR.BIN	SCR02022	0x34545	0번째줄	21칸>20칸	墳帳三「緯荷淡 程告印 遜誕 敵辰帳.
+DATASCR.BIN	SCR02025	0x3461D	2번째줄	23칸>20칸	扇斬鶴 難倹亭 女豊頂郷.
+DATASCR.BIN	SCR02038	0x34B3A	2번째줄	22칸>20칸	三受 琵党庭僧溺程郷.
+DATASCR.BIN	SCR02056	0x35208	2번째줄	29칸>20칸	敵郷飼 家揮 棄辰逢 扇 狸隻.
+DATASCR.BIN	SCR02059	0x3532F	2번째줄	31칸>20칸	 使敵辰 循程競 道旨宗程郷.
+DATASCR.BIN	SCR02080	0x35BD3	1번째줄	21칸>20칸	渓根狂 書建 撤 書泡血三稚.
+DATASCR.BIN	SCR02083	0x35C94	2번째줄	22칸>20칸	家域程 党 程拶程挟画帳.
+DATASCR.BIN	SCR02085	0x35D34	2번째줄	23칸>20칸	湯歌 成河羅 殴瀬程敵辰世帳.
+DATASCR.BIN	SCR02103	0x3639C	1번째줄	21칸>20칸	粟程 偶狛阿 道飼 滞 契?
+DATASCR.BIN	SCR02107	0x3646E	2번째줄	24칸>20칸	家告印 暫翼馴 苔隊京寄.
+DATASCR.BIN	SCR02133	0x36CEE	1번째줄	23칸>20칸	諦驚 柴鴻貫競 印 辰元.
+DATASCR.BIN	SCR02158	0x37464	0번째줄	24칸>20칸	陸程馴「登君 偶狛阿 道整帳～!
+DATASCR.BIN	SCR02195	0x37F88	1번째줄	24칸>20칸	誕鴻助 確 刃道整帳～!
+DATASCR.BIN	SCR02217	0x387B4	1번째줄	30칸>20칸	誕鴻助 確 刃道整帳～!
+DATASCR.BIN	SCR02221	0x3898A	2번째줄	21칸>20칸	登都左 撤治亭 壊仰印 掲 忘.
+DATASCR.BIN	SCR02236	0x38FBC	1번째줄	23칸>20칸	持礎忘察　女鴻顔競　探国峰須適摘挟郷.
+DATASCR.BIN	SCR02238	0x39070	2번째줄	23칸>20칸	国重谷　翼競　探国峰須適摘挟郷.
+DATASCR.BIN	SCR02244	0x392E8	2번째줄	26칸>20칸	程 阿宇程 径辰集狛世……。
+DATASCR.BIN	SCR02247	0x3941A	2번째줄	22칸>20칸	医程貫 滅迫君 竪亭扇敵印径馴
+DATASCR.BIN	SCR02260	0x397D1	2번째줄	29칸>20칸	態縄 髭助翼馴 苔郷! 競 域程郷!!!
+DATASCR.BIN	SCR02267	0x39B0B	1번째줄	23칸>20칸	登君 郡印 酪道整帳!
+DATASCR.BIN	SCR02281	0x39F24	2번째줄	23칸>20칸	怒暫程馴 炎耐羅 議程丹馴酸
+DATASCR.BIN	SCR02297	0x3A3D2	2번째줄	23칸>20칸	作施娘内程 奏酪馴英 暫隊馴 煮阿.
+DATASCR.BIN	SCR02300	0x3A580	2번째줄	21칸>20칸	洪英 殴湯 怒循察 喪亭 抑帳阿 敵汽.
+DATASCR.BIN	SCR02304	0x3A6C4	2번째줄	24칸>20칸	裳三 袋狛道君差 翼印貫.
+DATASCR.BIN	SCR02310	0x3A9D9	0번째줄	22칸>20칸	家劫偶 隻馴夕程 阿訣 畑 字茸程翁.
+DATASCR.BIN	SCR02311	0x3AA01	1번째줄	22칸>20칸	家元画馴 史態渓英 敵陰汽.
+DATASCR.BIN	SCR02315	0x3AAEC	0번째줄	22칸>20칸	家劫偶 隻馴夕程 阿訣 畑 字茸程翁.
+DATASCR.BIN	SCR02316	0x3AB14	1번째줄	22칸>20칸	家元画馴 史態渓英 敵陰汽.
+DATASCR.BIN	SCR02342	0x3B251	1번째줄	22칸>20칸	艇忘記探 土席裸 抑帳阿 敵汽.
+DATASCR.BIN	SCR02357	0x3B605	2번째줄	23칸>20칸	登天 峠消察 翼英 稚印貫.
+DATASCR.BIN	SCR02363	0x3B807	2번째줄	24칸>20칸	裳三 袋狛道君差 翼印貫.
+DATASCR.BIN	SCR02364	0x3B876	0번째줄	22칸>20칸	礎伏認「停? 殴湯 循英探 喪茂羅衣阿?
+DATASCR.BIN	SCR02366	0x3B8F3	2번째줄	22칸>20칸	怒暫左 馴調君 径陰貫?
+DATASCR.BIN	SCR02386	0x3BF02	0번째줄	22칸>20칸	斜, 羅住 循飼 掲 遺整.
+DATASCR.BIN	SCR02403	0x3C317	0번째줄	23칸>20칸	態程防亭 %d暗寿探 治 阿馴英 阿汽
+DATASCR.BIN	SCR02446	0x3CE0A	0번째줄	21칸>20칸	双宴「粒店 堅差径辰敵競 SOS庭道実鶴
+DATASCR.BIN	SCR02448	0x3CE75	1번째줄	21칸>20칸	郷僧 殴湯裸 扇競 狸蘇挟郷.
+DATASCR.BIN	SCR02463	0x3D1FD	1번째줄	21칸>20칸	与航鶴覧 美天超探印 暫詑酪 道整帳.
+DATASCR.BIN	SCR02467	0x3D2D0	0번째줄	21칸>20칸	双宴「家合 殴湯 美需亭荷差翼陰蘇挟郷.
+DATASCR.BIN	SCR02484	0x3D680	2번째줄	24칸>20칸	湯間適察 殴湯翼競 僧礎防摘挟郷.
+DATASCR.BIN	SCR02487	0x3D727	0번째줄	22칸>20칸	'悪刃 道実' 程告印 3阿馴摘挟郷
+DATASCR.BIN	SCR02488	0x3D74F	2번째줄	30칸>20칸	'SOS庭 道実'程 猶僧敬挟郷.
+DATASCR.BIN	SCR02489	0x3D7BE	2번째줄	24칸>20칸	湯間桐羅 刃甲探印世 樹態 稚整帳.
+DATASCR.BIN	SCR02490	0x3D823	2번째줄	32칸>20칸	句途 摘殴画馴 程傾僧覆 血散挟郷.
+DATASCR.BIN	SCR02494	0x3D976	1번째줄	23칸>20칸	元逐 粟鶴 浜探世径甚態館挟郷.
+DATASCR.BIN	SCR02501	0x3DB6D	2번째줄	24칸>20칸	態程防庭 暗扇酸報 匿辰倹辰 集散挟郷.
+DATASCR.BIN	SCR02511	0x3DE88	1번째줄	21칸>20칸	殴湯翼鴻 逢 扇 敵印 敬挟郷酸
+DATASCR.BIN	SCR02524	0x3E227	2번째줄	21칸>20칸	2 羅 住君 刃挑翼馴 苔隊亭 域.
+DATASCR.BIN	SCR02526	0x3E2EB	2번째줄	23칸>20칸	羅住 逐 道整帳.
+DATASCR.BIN	SCR02534	0x3E4A5	2번째줄	22칸>20칸	寺隻三左 '悪刃庭 道実'亭件印敬挟郷.
+DATASCR.BIN	SCR02535	0x3E517	2번째줄	33칸>20칸	隻隻羅 須夕亭 血散挟郷.
+DATASCR.BIN	SCR02537	0x3E5ED	1번째줄	23칸>20칸	'荷法' 滞探世 陵艇裸 扇 敵蘇挟郷.
+DATASCR.BIN	SCR02546	0x3E8C7	0번째줄	22칸>20칸	%s競\r循危 扇 狸蘇挟郷.
+DATASCR.BIN	SCR02555	0x3EA9F	0번째줄	21칸>20칸	%d暗庭 扱量 鳴豹阿 倹辰 敵蘇挟郷.
+DATASCR.BIN	SCR02558	0x3EB8B	0번째줄	23칸>20칸	樹態世 与航諦荷探 荷差翼君差
+DATASCR.BIN	SCR02562	0x3ECBF	0번째줄	23칸>20칸	摘挟郷. 世継鴻 途酪 道整帳.
+DATASCR.BIN	SCR02570	0x3FE46	0번째줄	23칸>20칸	墳帳三「書建 湯奏翼整帳.
+DATASCR.BIN	SCR02571	0x3FEA4	2번째줄	21칸>20칸	錦釆 辰庫印 酪拓 裸馴……
+DATASCR.BIN	SCR02574	0x3FFAC	1번째줄	26칸>20칸	悪刃雷挟郷 態礎富＠ 舵.
+DATASCR.BIN	SCR02582	0x40240	2번째줄	21칸>20칸	敵競 '党荷庭 州'濡左 障逮荷郷挟……
+DATASCR.BIN	SCR02586	0x4037B	2번째줄	25칸>20칸	髭助羅 男込程 霞倹印 敬挟郷.
+DATASCR.BIN	SCR02600	0x4074A	2번째줄	24칸>20칸	整調拓 雷挟郷.
+DATASCR.BIN	SCR02603	0x40830	1번째줄	22칸>20칸	脈扇羅 嘉賓程 怒酪嶋 敵競 域程馴帳.
+DATASCR.BIN	SCR02609	0x409CF	2번째줄	25칸>20칸	敵君差 径辰 敵蘇挟郷.
+DATASCR.BIN	SCR02611	0x40A9A	0번째줄	25칸>20칸	羅住 阿循精君 藤亭 域 粟蘇挟郷.
+DATASCR.BIN	SCR02627	0x40EBD	1번째줄	28칸>20칸	暫亭 遺辰君 錦極酪 道馴 苔隊郷.)
+DATASCR.BIN	SCR02637	0x411D8	2번째줄	28칸>20칸	桐双 羅住 殴酪 稚洪殴～
+DATASCR.BIN	SCR02648	0x4157E	2번째줄	24칸>20칸	宴奏亭 歓狛句 顔 影類程……
+DATASCR.BIN	SCR02659	0x41974	0번째줄	26칸>20칸	……貫 猛程 径辰集恨辰.
+DATASCR.BIN	SCR02664	0x41AF2	2번째줄	22칸>20칸	敵郷英 翼句偶.
+DATASCR.BIN	SCR02695	0x4257E	2번째줄	25칸>20칸	郷僧 殉 扇 敵亭馴君 字笹陰辰.
+DATASCR.BIN	SCR02731	0x43037	2번째줄	24칸>20칸	出糖程 敵郷挟画. 桐双犯合 暫程拓.
+DATASCR.BIN	SCR02735	0x4321B	2번째줄	28칸>20칸	陸辰馴印 径競偶家航君煙畠陰辰?
+DATASCR.BIN	SCR02736	0x43296	2번째줄	23칸>20칸	陸辰馴印 径競偶 家航君 煙畠陰辰?
+DATASCR.BIN	SCR02744	0x43572	0번째줄	35칸>20칸	～潮似貸～
+DATASCR.BIN	SCR02745	0x435A6	0번째줄	27칸>20칸	潮似双　三受　狂庭　双釆。
+DATASCR.BIN	SCR02747	0x435FB	0번째줄	25칸>20칸	課録亭　度否郷英　途酪南郷。
+DATASCR.BIN	SCR02748	0x436E7	2번째줄	31칸>20칸	怒暫 悪刃雷挟郷!
+DATASCR.BIN	SCR02750	0x437CA	2번째줄	23칸>20칸	「隅隅桐」探 稚双 遺 領男酪帳!
+DATASCR.BIN	SCR02774	0x43C0B	0번째줄	26칸>20칸	家合 故 鳴豹察 治 倹徹態.
+DATASCR.BIN	SCR02775	0x43C5C	0번째줄	22칸>20칸	掟貫墳「悪刃雷挟郷!
+DATASCR.BIN	SCR02789	0x43E6F	0번째줄	21칸>20칸	国重谷程 滞 径競 字茸程汽.
+DATASCR.BIN	SCR02803	0x44313	2번째줄	23칸>20칸	受左 弧血惨 肪挟画帳.
+DATASCR.BIN	SCR02810	0x444FF	1번째줄	24칸>20칸	粟鶴 涙左阿 雷影 3天 抑帳酪嶋帳.
+DATASCR.BIN	SCR02822	0x448A7	1번째줄	24칸>20칸	辿算 途探 双党夕程 貫宙緯月帳.
+DATASCR.BIN	SCR02823	0x448EF	2번째줄	23칸>20칸	句嶋世競 箱競 鳴調融羅 左潤程探帳.
+DATASCR.BIN	SCR02831	0x44B7B	2번째줄	26칸>20칸	誹英庭 探国峰須適阿 貫宙辰帳.
+DATASCR.BIN	SCR02834	0x44C9E	1번째줄	32칸>20칸	旭程 貫阿競 柴衣程 径辰集恨馴酸帳
+DATASCR.BIN	SCR02836	0x44D23	2번째줄	31칸>20칸	錦高 炊尋翼荷左 蘭辰帳.
+DATASCR.BIN	SCR02844	0x44F96	1번째줄	23칸>20칸	探肪笹偶焦庭 呪礎察 窒成僧分郷飼世帳.
+DATASCR.BIN	SCR02845	0x44FE2	2번째줄	24칸>20칸	酸倹 扇 敵競 印 態挟緯月帳.
+DATASCR.BIN	SCR02863	0x45582	0번째줄	22칸>20칸	窒成恵 関!! 程郷~!!!!!
+DATASCR.BIN	SCR02865	0x455DA	2번째줄	22칸>20칸	家拓暫左 湿賭庭 探国峰須適阿恵郷!!
+DATASCR.BIN	SCR02868	0x4571B	2번째줄	23칸>20칸	程 探国峰須適察 刃阿君差 翼洪.
+DATASCR.BIN	SCR02876	0x45983	1번째줄	23칸>20칸	探肪笹偶焦庭 呪礎察 刃君差 翼洪.
+DATASCR.BIN	SCR02880	0x45ADD	0번째줄	25칸>20칸	探肪笹偶焦庭　呪礎察　惜探　気丹郷。
+DATASCR.BIN	SCR02897	0x45E88	0번째줄	21칸>20칸	歌英阿 岳 肇集恨殴枝.
+DATASCR.BIN	SCR02901	0x45F35	1번째줄	21칸>20칸	史態経 訓鶴 狸亭 貌偶.
+DATASCR.BIN	SCR02931	0x4729C	0번째줄	21칸>20칸	助似 僧愛程 遺三英 敵競 印馴帳.
+DATASCR.BIN	SCR02965	0x48087	1번째줄	23칸>20칸	双宴探印 柴辰循競 印 藤亭 域程稚.
+DATASCR.BIN	SCR02981	0x48633	1번째줄	24칸>20칸	掟擢蛛蛛蛛蛛蛛!!!
+DATASCR.BIN	SCR02982	0x486CF	0번째줄	21칸>20칸	洪翁「斜 <P>斜 <P>斜 <P>斜????
+DATASCR.BIN	SCR02983	0x48726	0번째줄	21칸>20칸	洪翁「母釣 <P>母稚稚稚稚稚!!
+DATASCR.BIN	SCR02999	0x48C44	2번째줄	21칸>20칸	銅辰集山驚 暫程拓!
+DATASCR.BIN	SCR03018	0x49C64	1번째줄	28칸>20칸	程拓荷蘭郷.
+DATASCR.BIN	SCR03028	0x4A2A4	1번째줄	25칸>20칸	登君 郡印 酪 道爽舌!
+DATASCR.BIN	SCR03051	0x4A9FD	2번째줄	24칸>20칸	敵郷飼 治 楯 班裸 扇狸蘇挟郷.
+DATASCR.BIN	SCR03054	0x4AB24	2번째줄	31칸>20칸	 使敵辰 循程競 道旨宗程郷.
+DATASCR.BIN	SCR03064	0x4AE80	2번째줄	23칸>20칸	殴湯 怒循察 喪亭 抑帳阿 敵郷.
+DATASCR.BIN	SCR03068	0x4AFC4	2번째줄	25칸>20칸	辰世 袋狛道狛湿貫.
+DATASCR.BIN	SCR03074	0x4B2D9	0번째줄	22칸>20칸	羅偶 隻馴夕程 阿訣 畑 字茸程殴枝.
+DATASCR.BIN	SCR03075	0x4B301	1번째줄	23칸>20칸	家元画馴 史態渓英 敵吊算.
+DATASCR.BIN	SCR03079	0x4B3EC	0번째줄	22칸>20칸	羅偶 隻馴夕程 阿訣 畑 字茸程殴枝.
+DATASCR.BIN	SCR03080	0x4B414	1번째줄	23칸>20칸	家元画馴 史態渓英 敵吊算.
+DATASCR.BIN	SCR03106	0x4BB51	1번째줄	21칸>20칸	記探 土席翼競 域程 抑帳翼郷汽.
+DATASCR.BIN	SCR03121	0x4BF05	2번째줄	22칸>20칸	整程捷 峠消察 酪世 稚僧印.
+DATASCR.BIN	SCR03127	0x4C107	2번째줄	25칸>20칸	辰世 袋狛道狛湿貫.
+DATASCR.BIN	SCR03128	0x4C176	0번째줄	23칸>20칸	礎伏認「停? 殴湯 循英探 喪茂蘭貫?
+DATASCR.BIN	SCR03130	0x4C1F3	2번째줄	22칸>20칸	怒暫左 馴調君 径陰貫?
+DATASCR.BIN	SCR03139	0x4C4B6	2번째줄	23칸>20칸	記探 団渦裸 抑帳阿 敵汽酸.
+DATASCR.BIN	SCR03150	0x4C802	0번째줄	22칸>20칸	斜, 羅住 甚約循印貫.
+DATASCR.BIN	SCR03158	0x4C9F4	2번째줄	25칸>20칸	草循飼 鋭 袋印 掲 域程郷.
+DATASCR.BIN	SCR03167	0x4CC17	0번째줄	23칸>20칸	態程防亭 %d暗寿探 治 阿馴英 阿汽
+DATASCR.BIN	SCR03210	0x4D70A	0번째줄	22칸>20칸	双宴「粒店 堅差径辰敵競 SOS 道実鶴
+DATASCR.BIN	SCR03212	0x4D775	1번째줄	21칸>20칸	郷僧 殴湯裸 扇競 狸蘇挟郷.
+DATASCR.BIN	SCR03213	0x4D7D3	1번째줄	22칸>20칸	礎礎左察 殴湯裸 扇競 狸蘇挟郷.
+DATASCR.BIN	SCR03227	0x4DAFD	1번째줄	21칸>20칸	与航鶴覧 美天超探印 暫詑酪 道整帳.
+DATASCR.BIN	SCR03231	0x4DBD0	0번째줄	21칸>20칸	双宴「家合 殴湯 美需亭荷差翼陰蘇挟郷.
+DATASCR.BIN	SCR03248	0x4DF80	2번째줄	25칸>20칸	湯間適察 殴湯翼競 域摘挟郷.
+DATASCR.BIN	SCR03251	0x4E027	0번째줄	22칸>20칸	'悪刃 道実' 程告印 3阿馴摘挟郷
+DATASCR.BIN	SCR03252	0x4E04F	2번째줄	27칸>20칸	「SOS 道実」程 猶僧敬挟郷.
+DATASCR.BIN	SCR03254	0x4E123	2번째줄	32칸>20칸	句途 摘殴画馴 途石酪 血散挟郷.
+DATASCR.BIN	SCR03258	0x4E276	1번째줄	21칸>20칸	元逐 粟鶴 浜探世径甚態館挟郷.
+DATASCR.BIN	SCR03265	0x4E46D	2번째줄	25칸>20칸	扇酸報 匿辰倹辰 集散挟郷.
+DATASCR.BIN	SCR03275	0x4E788	1번째줄	22칸>20칸	殴湯翼鴻 逢 扇 敵印 敬挟郷酸
+DATASCR.BIN	SCR03288	0x4EB27	2번째줄	24칸>20칸	2 羅 住君 刃挑翼馴 苔隊亭 域.
+DATASCR.BIN	SCR03290	0x4EBEB	2번째줄	23칸>20칸	羅住 逐道整帳.
+DATASCR.BIN	SCR03299	0x4EE17	2번째줄	27칸>20칸	隻隻羅 須夕程 桐双探印 灘怒敬挟郷.
+DATASCR.BIN	SCR03301	0x4EEED	1번째줄	21칸>20칸	「荷法」 滞探世 陵艇裸 扇 敵蘇挟郷.
+DATASCR.BIN	SCR03310	0x4F1C7	0번째줄	22칸>20칸	%s競\r循危 扇 狸蘇挟郷.
+DATASCR.BIN	SCR03319	0x4F39F	0번째줄	21칸>20칸	%d暗庭 扱量 鳴豹阿 倹辰敵蘇挟郷.
+DATASCR.BIN	SCR03322	0x4F48B	0번째줄	23칸>20칸	樹態世 与航諦荷探 荷差翼君差
+DATASCR.BIN	SCR03326	0x4F5BF	0번째줄	24칸>20칸	摘挟郷. 裳三 途酪 道整帳.
+DATASCR.BIN	SCR03339	0x502E2	0번째줄	21칸>20칸	~算頁洪 受陳~
+DATASCR.BIN	SCR03340	0x50308	0번째줄	22칸>20칸	扇両双 湿洪君 狂庭 双釆.
+DATASCR.BIN	SCR03344	0x503E4	2번째줄	24칸>20칸	湿洪君 狂庭 登道 態況画.
+DATASCR.BIN	SCR03346	0x504AA	2번째줄	25칸>20칸	琵党阿 団荷径辰 集恨徹態帳.
+DATASCR.BIN	SCR03348	0x50552	2번째줄	29칸>20칸	怒暫程馴 蜘酪君 祠倹丹辰帳.
+DATASCR.BIN	SCR03361	0x5096C	0번째줄	21칸>20칸	裸施挟「家衣 程劫 程拓荷洪稚.
+DATASCR.BIN	SCR03379	0x50EC6	2번째줄	23칸>20칸	糸瀬程洪君 翼貫 肉飼 藤亭 貌偶.
+DATASCR.BIN	SCR03382	0x50FCD	0번째줄	21칸>20칸	陥適態程「位扱殴 鉄亭 緯知帳.
+DATASCR.BIN	SCR03403	0x51621	0번째줄	26칸>20칸	循拶　途　態訣羅　馴翼　牙鶴　悦。
+DATASCR.BIN	SCR03404	0x51650	2번째줄	30칸>20칸	　　　 停字阿 充辰馴英 敵丹郷……。
+DATASCR.BIN	SCR03420	0x51CAD	0번째줄	23칸>20칸	紛鳴「凍天<P>程劫<P>凍天凍天!!
+DATASCR.BIN	SCR03426	0x51E4A	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR03432	0x51FC4	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR03454	0x522D9	0번째줄	21칸>20칸	君殴度 道艇「悪刃雷挟郷.
+DATASCR.BIN	SCR03475	0x533A8	2번째줄	30칸>20칸	傾済阿 阿訣艇阿 循郷~. 態禅郷~.
+DATASCR.BIN	SCR03503	0x53C2E	0번째줄	23칸>20칸	（……柱馴……程須羅 道旨宗……。）
+DATASCR.BIN	SCR03542	0x545EB	1번째줄	28칸>20칸	抽 斬態南 遺画.
+DATASCR.BIN	SCR03544	0x5469A	1번째줄	25칸>20칸	汽湿三阿 程 算亭亭 言間 印.
+DATASCR.BIN	SCR03547	0x547A4	2번째줄	21칸>20칸	道旨宗吊左 受褐馴 暫洪英!
+DATASCR.BIN	SCR03548	0x5480C	0번째줄	21칸>20칸	驚馴貫 医 見陳 旨亭扇君狸競偶暫程拓…
+DATASCR.BIN	SCR03549	0x54837	2번째줄	23칸>20칸	辰~個 域程月~ 使敵競 道旨宗~
+DATASCR.BIN	SCR03552	0x5495A	1번째줄	35칸>20칸	湿僧桐翼競 京缶程 鉢~亭 扇 狸辰~!
+DATASCR.BIN	SCR03563	0x54CAA	1번째줄	24칸>20칸	程遺左 湯歌鶴 怒双亭 肇三陰馴.
+DATASCR.BIN	SCR03565	0x54D5D	2번째줄	26칸>20칸	桐裸陳裏程 敵郷. 湯奏翼君差.
+DATASCR.BIN	SCR03568	0x54E65	2번째줄	21칸>20칸	吊釣~ 汽湿三之鯛!!
+DATASCR.BIN	SCR03575	0x5506E	2번째줄	25칸>20칸	辰納郷 登告印 扱酪南 遺画.
+DATASCR.BIN	SCR03579	0x551FC	2번째줄	22칸>20칸	怒暫 治 甚陰郷. 槙区槙区……
+DATASCR.BIN	SCR03582	0x552F6	0번째줄	22칸>20칸	算君双 君洪礎 狂庭 双釆.
+DATASCR.BIN	SCR03583	0x55319	0번째줄	22칸>20칸	君洪礎　狂程　酸月「<01><07>創<01><02>出庭　灯適」阿
+DATASCR.BIN	SCR03584	0x55348	0번째줄	25칸>20칸	受陳左 熟羅 域程洪 途酪南郷.
+DATASCR.BIN	SCR03588	0x55487	2번째줄	32칸>20칸	湯奏翼競 印 藤亭 緯拓.
+DATASCR.BIN	SCR03596	0x55713	1번째줄	26칸>20칸	稚掟狛 祠程 恵郷競 成楠程 敵京挟洪.
+DATASCR.BIN	SCR03650	0x56A5D	0번째줄	23칸>20칸	紛鳴「凍天<P>程劫<P>凍天凍天!!
+DATASCR.BIN	SCR03654	0x57731	1번째줄	28칸>20칸	諦亭 翼狛 酪君 男 顔峰楠 苔態.
+DATASCR.BIN	SCR03657	0x577F6	2번째줄	33칸>20칸	家衣 暢三 算泣洪循郷 湿征銀洪英.
+DATASCR.BIN	SCR03661	0x57961	2번째줄	24칸>20칸	富富細 狂程 酸血双 緯挟画 暫程拓.
+DATASCR.BIN	SCR03669	0x57BE0	2번째줄	32칸>20칸	持礎忘影庭 帳墳曇貫(錦嶺店)諦 緯拓.
+DATASCR.BIN	SCR03678	0x57E93	2번째줄	22칸>20칸	阿笹蛮 道英 影双 緯拓.
+DATASCR.BIN	SCR03679	0x57F10	2번째줄	27칸>20칸	顔句嶋桃辰. 態~ 態麺郷!
+DATASCR.BIN	SCR03698	0x586C9	0번째줄	25칸>20칸	頼怒庭 双 富富細 狂庭 双釆.
+DATASCR.BIN	SCR03699	0x586F0	0번째줄	23칸>20칸	富富細 狂鶴 池関<01><07>尋<01><02>席探世 程受陳探遺狛
+DATASCR.BIN	SCR03700	0x5871F	0번째줄	22칸>20칸	適双庭　女覧亭　登道蘭郷英　羅郷。
+DATASCR.BIN	SCR03723	0x58DBC	0번째줄	25칸>20칸	覧須艇「顧 稚僧課 荷郷三陰蘇挟郷
+DATASCR.BIN	SCR03729	0x58F36	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR03751	0x59237	0번째줄	23칸>20칸	覧須艇「悪刃雷挟郷.
+DATASCR.BIN	SCR03755	0x592D7	0번째줄	22칸>20칸	錦天愛「家劫 緯 狸停郷.
+DATASCR.BIN	SCR03767	0x5A31B	2번째줄	21칸>20칸	充草 傾済阿 岳 罰汽帳. 態禅汽.
+DATASCR.BIN	SCR03772	0x5A483	2번째줄	30칸>20칸	傾済阿 岳 畑 域 粟汽~. 態禅郷.
+DATASCR.BIN	SCR03800	0x5AD09	0번째줄	24칸>20칸	（……煮阿……程須羅 道旨宗……. ）
+DATASCR.BIN	SCR03838	0x5B66A	2번째줄	28칸>20칸	1呪探 500荷砲艇偶 疾亭貌阿?
+DATASCR.BIN	SCR03852	0x5BCBD	0번째줄	22칸>20칸	橘書「程劫 尋席画馴 撤君 宙殴枝.
+DATASCR.BIN	SCR03854	0x5BD3C	0번째줄	22칸>20칸	～爆賞 受陳～
+DATASCR.BIN	SCR03855	0x5BD64	0번째줄	23칸>20칸	停創庭 双 書霊 狂庭 双釆.
+DATASCR.BIN	SCR03856	0x5BD88	0번째줄	22칸>20칸	書霊 狂鶴 家 池関 程 受陳察
+DATASCR.BIN	SCR03857	0x5BDAC	0번째줄	24칸>20칸	爆<01><07>賞<01><02>程洪 肌哀翼英 柴辰工丹郷英 羅郷.
+DATASCR.BIN	SCR03863	0x5BF88	2번째줄	27칸>20칸	停創庭 双 書霊 狂 九助程洪汽.
+DATASCR.BIN	SCR03864	0x5BFFB	2번째줄	26칸>20칸	家 九探 旅党 途書 程劫 次難程洪汽.
+DATASCR.BIN	SCR03866	0x5C0B2	2번째줄	24칸>20칸	家遺 顔三競 印 滞 径銀洪英.
+DATASCR.BIN	SCR03867	0x5C113	1번째줄	22칸>20칸	家 畔充 樹亭 須.
+DATASCR.BIN	SCR03874	0x5C2A7	1번째줄	23칸>20칸	斜月馴 賭桐羅 印 藤鶴 緯港郷.
+DATASCR.BIN	SCR03876	0x5C370	0번째줄	26칸>20칸	吊稚稚~ 馴歌 旨辰詣拓 契~!!
+DATASCR.BIN	SCR03879	0x5C463	2번째줄	22칸>20칸	程 貫洪探君 逐道馴苔吊狛貫.
+DATASCR.BIN	SCR03890	0x5C765	1번째줄	23칸>20칸	壮辰! 確 瓶畔雲吊左 逢 緯洪汽!!
+DATASCR.BIN	SCR03897	0x5C94A	1번째줄	21칸>20칸	算湿細探印 洗凡亭　棺運汽~」
+DATASCR.BIN	SCR03927	0x5D24A	0번째줄	25칸>20칸	循拶　途　態訣羅　馴翼　牙栓羅　悦。
+DATASCR.BIN	SCR03928	0x5D279	2번째줄	31칸>20칸	　　　 停字阿 褐資馴英 敵丹郷…….
+DATASCR.BIN	SCR03931	0x5D34D	1번째줄	23칸>20칸	抑帳翼双 柴衣鶴 狸吊双阿帳?
+DATASCR.BIN	SCR03932	0x5D39F	0번째줄	25칸>20칸	覧須艇「顧 稚僧課 荷郷三陰蘇挟郷
+DATASCR.BIN	SCR03938	0x5D519	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR03960	0x5D81A	0번째줄	23칸>20칸	覧須艇「悪刃雷挟郷.
+DATASCR.BIN	SCR03988	0x5EB88	0번째줄	22칸>20칸	酎書艇鶴 貫阿道印!!
+DATASCR.BIN	SCR04002	0x5EF66	2번째줄	22칸>20칸	郷刷 算畔 議倹 見陳 出緯 態挟馴.
+DATASCR.BIN	SCR04017	0x5F3C4	1번째줄	22칸>20칸	止三 句馴飼 湯奏翼緯洪~」
+DATASCR.BIN	SCR04035	0x5F8B7	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR04041	0x5FA40	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR04063	0x5FD37	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR04084	0x61475	2번째줄	26칸>20칸	傾済阿 阿訣艇阿 循汽～. 態禅郷.
+DATASCR.BIN	SCR04112	0x61CFB	0번째줄	25칸>20칸	(……煮阿……程須羅 道旨宗……。)
+DATASCR.BIN	SCR04155	0x62802	0번째줄	26칸>20칸	酸沢 家告郷飼 挑世裸 扇 狸馴!!
+DATASCR.BIN	SCR04156	0x6283D	2번째줄	22칸>20칸	暢三察 州酪翼英 敵辰. 凍天!
+DATASCR.BIN	SCR04167	0x62B9C	2번째줄	25칸>20칸	橋適 需奔 元洪君 等 旨誕道英惣殴枝.
+DATASCR.BIN	SCR04190	0x631DF	0번째줄	24칸>20칸	態礎富＠競 200荷砲亭
+DATASCR.BIN	SCR04191	0x63202	0번째줄	23칸>20칸	惜探 気丹郷.
+DATASCR.BIN	SCR04200	0x633BC	2번째줄	25칸>20칸	琵党 循英 惣郷英 酪却英世競.
+DATASCR.BIN	SCR04212	0x63871	0번째줄	21칸>20칸	衛知刃「悪刃雷挟郷～!
+DATASCR.BIN	SCR04219	0x63A48	1번째줄	24칸>20칸	党荷察 班班 径閥英 敵郷銀翁.
+DATASCR.BIN	SCR04224	0x63BA5	2번째줄	24칸>20칸	天刃潮程 古辰馴飼 辰膿 正程寄!!
+DATASCR.BIN	SCR04226	0x63C64	0번째줄	21칸>20칸	～道牝 受陳～
+DATASCR.BIN	SCR04227	0x63C8B	0번째줄	22칸>20칸	天刃庭 双 刃富程 狂庭 双釆.
+DATASCR.BIN	SCR04228	0x63CAF	0번째줄	23칸>20칸	池関 刃富程 狂程 <01><07>訓<01><02>循郷君隻督掟誕荷句
+DATASCR.BIN	SCR04229	0x63CDE	0번째줄	24칸>20칸	道牝袋 督 翼貫洪英 羅郷.
+DATASCR.BIN	SCR04238	0x63F69	0번째줄	22칸>20칸	荷砲 句馴荷君 賭桐掟 酪拓馴.
+DATASCR.BIN	SCR04259	0x645E8	0번째줄	26칸>20칸	循拶　途　態訣羅　顕席　牙鶴　悦。
+DATASCR.BIN	SCR04260	0x64617	2번째줄	32칸>20칸	　　　 録影阿 褐資馴英 敵丹郷……。
+DATASCR.BIN	SCR04264	0x64715	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR04270	0x6488F	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR04292	0x64B90	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR04296	0x64C30	0번째줄	23칸>20칸	錦天愛「家劫 衣 狸隻.
+DATASCR.BIN	SCR04308	0x65C41	1번째줄	73칸>20칸	狸蘇挟郷.
+DATASCR.BIN	SCR04320	0x65FE7	2번째줄	21칸>20칸	家航君 家 軌瀬庭 雲暢競 斜溝画……。
+DATASCR.BIN	SCR04321	0x66054	1번째줄	25칸>20칸	程告印 糸~酪馴英 酸郷挟画……。
+DATASCR.BIN	SCR04324	0x66153	2번째줄	22칸>20칸	湿世潮 軌瀬 艇愛吊査 治 桐翼陰馴.
+DATASCR.BIN	SCR04327	0x6627E	2번째줄	24칸>20칸	君刺圧競馴 炊哀翼飼 州奏裸 扇 狸馴.
+DATASCR.BIN	SCR04329	0x6634F	0번째줄	36칸>20칸	～全受陳～
+DATASCR.BIN	SCR04330	0x66384	0번째줄	25칸>20칸	誕覧庭　双　母査　狂庭　双釆。
+DATASCR.BIN	SCR04331	0x663AF	0번째줄	23칸>20칸	母査 狂鶴 誕覧 君督 程 受陳陳探胎態
+DATASCR.BIN	SCR04332	0x663D8	0번째줄	24칸>20칸	<01><07>宗<01><02>亭 旨英 遥左察 融丹郷英 羅郷.
+DATASCR.BIN	SCR04337	0x6654B	1번째줄	22칸>20칸	'泉与庭 医'亭 径閥隊郷飼世?
+DATASCR.BIN	SCR04361	0x66B92	0번째줄	24칸>20칸	態礎富＠競 200荷砲亭
+DATASCR.BIN	SCR04362	0x66BB5	0번째줄	23칸>20칸	惜探 気丹郷.
+DATASCR.BIN	SCR04382	0x670D6	2번째줄	22칸>20칸	暢三 諦鶴 共辰酸 阿競翁.
+DATASCR.BIN	SCR04385	0x671CF	1번째줄	21칸>20칸	程 算亭亭 馴峰競 印 顔 慈程馴
+DATASCR.BIN	SCR04452	0x685FF	1번째줄	21칸>20칸	置扇扇探 礁扇画馴……。
+DATASCR.BIN	SCR04453	0x68648	0번째줄	22칸>20칸	荷錦翼英 敵丹競偶~ 吊鯛~!!
+DATASCR.BIN	SCR04455	0x686B1	0번째줄	21칸>20칸	使敵丹競偶~ 吊鯛~!!
+DATASCR.BIN	SCR04471	0x68CDE	2번째줄	22칸>20칸	鳴篠辰 道馴.
+DATASCR.BIN	SCR04488	0x69447	2번째줄	22칸>20칸	怒暫程馴 量貫競 凶鶴程左翁!!
+DATASCR.BIN	SCR04560	0x6AB3D	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR04566	0x6ACC6	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR04588	0x6AFBD	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR04604	0x6CA24	1번째줄	71칸>20칸	敵蘇挟郷.
+DATASCR.BIN	SCR04612	0x6CC8F	2번째줄	23칸>20칸	言充三英 敵郷競 只荷態挟寄.
+DATASCR.BIN	SCR04619	0x6CE76	0번째줄	23칸>20칸	君系庭 双 荷牧 狂庭 双釆.
+DATASCR.BIN	SCR04620	0x6CE9A	0번째줄	22칸>20칸	荷牧 狂程 君系楠亭 羅 芸
+DATASCR.BIN	SCR04632	0x6D1B3	2번째줄	24칸>20칸	旭貫阿競 柴衣亭 途書 剰辰阿 集恨辰.
+DATASCR.BIN	SCR04658	0x6D8BD	0번째줄	24칸>20칸	態礎富＠競 200荷砲亭
+DATASCR.BIN	SCR04659	0x6D8E0	0번째줄	23칸>20칸	惜探 気丹郷.
+DATASCR.BIN	SCR04690	0x6E17A	2번째줄	24칸>20칸	桐酪集恨辰.
+DATASCR.BIN	SCR04700	0x6E557	2번째줄	22칸>20칸	陸辰馴印径競偶家航君煙畠陰辰?
+DATASCR.BIN	SCR04725	0x6EF01	0번째줄	26칸>20칸	循拶　途　態訣羅　馴翼　牙鶴　悦。
+DATASCR.BIN	SCR04726	0x6EF30	2번째줄	31칸>20칸	　　　 録影阿 充辰馴英 敵丹郷……
+DATASCR.BIN	SCR04730	0x6F262	0번째줄	24칸>20칸	君殴度「郷停探 顧 稚僧課 荷郷散挟郷
+DATASCR.BIN	SCR04736	0x6F3DC	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+DATASCR.BIN	SCR04758	0x6F6DD	0번째줄	23칸>20칸	君殴度「悪刃雷挟郷.
+DATASCR.BIN	SCR04776	0x7047E	0번째줄	27칸>20칸	与航艇庭 祠程 径競 域程挟洪.
+DATASCR.BIN	SCR04777	0x704A8	0번째줄	21칸>20칸	家域鶴 刃替羅 祠亭賛競<01><07>州茂<01><02>泥亭似奏翼洪
+DATASCR.BIN	SCR04782	0x7065C	0번째줄	22칸>20칸	抑僧 似刺 敵競 助程僧陰馴帳.
+DATASCR.BIN	SCR04818	0x7113C	0번째줄	21칸>20칸	欺艇「郷停 惜狂鶴 脱党白 蜘画貫……。
+DATASCR.BIN	SCR04840	0x72246	1번째줄	30칸>20칸	掴根 持礎忘君 敵徹態.
+DATASCR.BIN	SCR04875	0x73108	0번째줄	21칸>20칸	紛鳴「逮<P>態礎富＠ 芸.          <P>
+DATASCR.BIN	SCR04893	0x74593	2번째줄	27칸>20칸	誕鴻 阿馴 蘭丹徹態.
+DATASCR.BIN	SCR04909	0x74B20	0번째줄	22칸>20칸	度道「適 郷倹 苦縮洪~!!!
+DATASCR.BIN	SCR04914	0x7518D	0번째줄	22칸>20칸	暇偶, 湯歌 書灯翼汽.
+DATASCR.BIN	SCR04916	0x751D0	2번째줄	30칸>20칸	滅迫洪月阿 等 銀 双雲 草拓馴.
+DATASCR.BIN	SCR04974	0x76828	2번째줄	25칸>20칸	党阿 郷 荘琉集恨極挟郷.
+DATASCR.BIN	SCR04977	0x76925	2번째줄	29칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR04978	0x7698F	2번째줄	28칸>20칸	登碗倹 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR04980	0x76A37	2번째줄	28칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR04982	0x76AC2	2번째줄	23칸>20칸	暫徹態! 怒暫程馴!!
+DATASCR.BIN	SCR04983	0x76BB5	0번째줄	22칸>20칸	尋道「適~迭雅酸!
+DATASCR.BIN	SCR04991	0x76E7D	1번째줄	26칸>20칸	藤態. 程住淡 滞 南郷.
+DATASCR.BIN	SCR05003	0x77240	1번째줄	30칸>20칸	家緯 匿印. 家合 程酸.
+DATASCR.BIN	SCR05019	0x778C1	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR05034	0x77D88	1번째줄	36칸>20칸	阿~~~訣 勢貧酪警馴!
+DATASCR.BIN	SCR05038	0x77EEB	2번째줄	28칸>20칸	途書 暢三倹 緯挟画!
+DATASCR.BIN	SCR05075	0x7911D	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵辰!
+DATASCR.BIN	SCR05095	0x798B8	0번째줄	22칸>20칸	峰翼貧「停~ 斜, 家告郷汽.
+DATASCR.BIN	SCR05102	0x79AC0	1번째줄	21칸>20칸	顧 汽湿三 家 軌瀬程 敵丹辰帳.
+DATASCR.BIN	SCR05113	0x7A001	0번째줄	22칸>20칸	画算下貌殴「撤 形汽帳.
+DATASCR.BIN	SCR05122	0x7A29A	1번째줄	24칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印.
+DATASCR.BIN	SCR05123	0x7A2E5	1번째줄	25칸>20칸	郷倹 字誕倹緯月~.
+DATASCR.BIN	SCR05130	0x7A4DE	2번째줄	24칸>20칸	論吊吊吊吊吊吊吊吊貞程郷!
+DATASCR.BIN	SCR05133	0x7AD70	2번째줄	27칸>20칸	程域登域 蘭丹徹態.
+DATASCR.BIN	SCR05154	0x7B8EE	0번째줄	21칸>20칸	暇偶, 煮阿 等 書灯羅遺.
+DATASCR.BIN	SCR05156	0x7B931	2번째줄	32칸>20칸	賭辰君 滅迫洪君 等 銀 双雲 草拓馴.
+DATASCR.BIN	SCR05214	0x7CF5F	2번째줄	25칸>20칸	党阿 途書 荘印 酸倹辰逆緯月帳.
+DATASCR.BIN	SCR05217	0x7D05C	2번째줄	28칸>20칸	党阿 途書 荘印 酸倹辰逆吊挟画帳.
+DATASCR.BIN	SCR05218	0x7D0C6	2번째줄	26칸>20칸	貫洪競 登碗倹 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR05220	0x7D16E	2번째줄	27칸>20칸	党阿 途書 荘印 酸倹辰逆吊挟画帳.
+DATASCR.BIN	SCR05223	0x7D2EC	0번째줄	22칸>20칸	尋道「適態~ 迭雅!
+DATASCR.BIN	SCR05231	0x7D5B4	1번째줄	26칸>20칸	藤態. 程住淡 滞 南郷.
+DATASCR.BIN	SCR05237	0x7D745	0번째줄	21칸>20칸	載鶴 柳隻綱 粟郷.
+DATASCR.BIN	SCR05243	0x7D977	1번째줄	23칸>20칸	肪挟 阿嶋阿洪. 家合 撤 敵辰.
+DATASCR.BIN	SCR05259	0x7DFF8	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR05274	0x7E4BF	1번째줄	35칸>20칸	哲~~~孝 勢貧酪逆郷英!
+DATASCR.BIN	SCR05278	0x7E622	2번째줄	28칸>20칸	途書 暢三 印 掲 肪挟画!
+DATASCR.BIN	SCR05315	0x7F830	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵辰!
+DATASCR.BIN	SCR05335	0x7FF8F	0번째줄	22칸>20칸	峰翼貧「停~ 斜, 家告郷汽.
+DATASCR.BIN	SCR05362	0x8096D	1번째줄	25칸>20칸	持礎忘 翼暢礎左 酸倹辰 匿印.
+DATASCR.BIN	SCR05363	0x809B8	1번째줄	22칸>20칸	郷倹 時狛逐 集山郷挟画~.
+DATASCR.BIN	SCR05370	0x80BB1	2번째줄	22칸>20칸	論吊吊吊吊吊吊吊吊吊貞程郷!
+DATASCR.BIN	SCR05384	0x81A15	2번째줄	21칸>20칸	家合 程酸 艇愛.
+DATASCR.BIN	SCR05399	0x82132	1번째줄	21칸>20칸	諦驚 柴鴻貫 殉画.
+DATASCR.BIN	SCR05430	0x82CDA	2번째줄	25칸>20칸	党阿 郷 荘印 酸倹辰 逆極挟郷.
+DATASCR.BIN	SCR05433	0x82DD7	2번째줄	27칸>20칸	党阿 郷 荘印 酸倹辰 逆吊挟画帳.
+DATASCR.BIN	SCR05434	0x82E41	2번째줄	27칸>20칸	貫洪競 登碗倹 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR05436	0x82EE9	2번째줄	26칸>20칸	党阿 郷 荘印 酸倹辰 逆吊挟画帳.
+DATASCR.BIN	SCR05447	0x8332F	1번째줄	24칸>20칸	藤隊辰. 程住淡 滞 馴陰郷.
+DATASCR.BIN	SCR05448	0x83382	0번째줄	21칸>20칸	適, 嘉賓鶴 程途円 粟郷.
+DATASCR.BIN	SCR05459	0x836F2	1번째줄	25칸>20칸	家緯 匿 肪挟 阿嶋阿. 家合 程酸.
+DATASCR.BIN	SCR05475	0x83D73	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR05490	0x8423A	1번째줄	34칸>20칸	適~~~滞孝 勢貧酪 逆郷英!
+DATASCR.BIN	SCR05494	0x8439D	2번째줄	28칸>20칸	途書 暢三倹 緯挟画!
+DATASCR.BIN	SCR05529	0x854C3	1번째줄	28칸>20칸	家 影難大 渓英 循洪馴!
+DATASCR.BIN	SCR05531	0x855D3	0번째줄	22칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵郷英!
+DATASCR.BIN	SCR05551	0x85D95	0번째줄	22칸>20칸	峰翼貧「停~ 斜, 家告郷汽.
+DATASCR.BIN	SCR05578	0x86781	1번째줄	25칸>20칸	持礎忘 翼暢礎左 酸倹辰 匿印.
+DATASCR.BIN	SCR05579	0x867CC	1번째줄	22칸>20칸	郷倹 時狛逐 集山郷挟画~.
+DATASCR.BIN	SCR05600	0x879E5	2번째줄	24칸>20칸	家合 艇愛.
+DATASCR.BIN	SCR05615	0x88102	1번째줄	21칸>20칸	諦驚 柴鴻貫 殉画.
+DATASCR.BIN	SCR05646	0x88CAA	2번째줄	29칸>20칸	党阿 郷 荘琉集恨緯月帳.
+DATASCR.BIN	SCR05649	0x88DA7	2번째줄	30칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR05650	0x88E11	2번째줄	30칸>20칸	登碗 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR05652	0x88EB9	2번째줄	29칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR05654	0x88F44	2번째줄	26칸>20칸	怒暫程馴!!
+DATASCR.BIN	SCR05663	0x892FF	1번째줄	27칸>20칸	藤態. 程住淡 滞 南郷.
+DATASCR.BIN	SCR05673	0x8960E	0번째줄	21칸>20칸	陸程馴「椀…… 貫競 猪罵程翁.
+DATASCR.BIN	SCR05675	0x896C2	1번째줄	28칸>20칸	家衣 匿 肪挟. 家合 程酸.
+DATASCR.BIN	SCR05680	0x8988E	0번째줄	22칸>20칸	羅 牝探 1000荷砲程馴酸.
+DATASCR.BIN	SCR05691	0x89D43	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR05706	0x8A20A	1번째줄	36칸>20칸	哲~~~孝 勢貧酪警郷殴!
+DATASCR.BIN	SCR05710	0x8A36D	2번째줄	30칸>20칸	途書 暢三 緯挟画!
+DATASCR.BIN	SCR05713	0x8A57A	1번째줄	22칸>20칸	馴競 暦桜羅 須艇程 掲 緯郷.
+DATASCR.BIN	SCR05732	0x8B085	1번째줄	26칸>20칸	契馴 英茸程 適創程洪君 径競 緯拓?
+DATASCR.BIN	SCR05738	0x8B1F8	2번째줄	21칸>20칸	待英 逐匿航?
+DATASCR.BIN	SCR05747	0x8B584	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵郷!
+DATASCR.BIN	SCR05765	0x8BC62	2번째줄	22칸>20칸	党 鶴艇程僧緯月帳.
+DATASCR.BIN	SCR05767	0x8BCFF	0번째줄	22칸>20칸	峰翼貧「停~ 斜, 家告驚郷.
+DATASCR.BIN	SCR05774	0x8BF07	1번째줄	23칸>20칸	顧 汽湿三 家議程 敵丹辰帳.
+DATASCR.BIN	SCR05785	0x8C448	0번째줄	22칸>20칸	画算下 貌殴「撤 形汽帳.
+DATASCR.BIN	SCR05794	0x8C6E4	1번째줄	25칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印.
+DATASCR.BIN	SCR05795	0x8C72F	1번째줄	24칸>20칸	郷倹 時狛致郷挟画.
+DATASCR.BIN	SCR05799	0x8C841	2번째줄	21칸>20칸	論-----------貞程郷!
+DATASCR.BIN	SCR05825	0x8E0C6	0번째줄	21칸>20칸	暇偶, 煮阿 等 書灯翼汽.
+DATASCR.BIN	SCR05827	0x8E109	2번째줄	33칸>20칸	賭辰君 滅迫洪君 等 銀 双雲 草拓馴.
+DATASCR.BIN	SCR05885	0x8F730	2번째줄	28칸>20칸	党阿 途書 荘琉集恨緯月帳.
+DATASCR.BIN	SCR05888	0x8F82D	2번째줄	29칸>20칸	党阿 途書 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR05889	0x8F897	2번째줄	29칸>20칸	域程 掲 肪挟画帳!
+DATASCR.BIN	SCR05891	0x8F93F	2번째줄	28칸>20칸	党阿 途書 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR05893	0x8F9CA	2번째줄	21칸>20칸	怒暫程馴 南肉!!
+DATASCR.BIN	SCR05902	0x8FD85	1번째줄	27칸>20칸	藤態. 程住淡 滞 南郷.
+DATASCR.BIN	SCR05914	0x90148	1번째줄	29칸>20칸	家衣 匿印. 家合 程酸.
+DATASCR.BIN	SCR05930	0x907C9	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR05945	0x90C90	1번째줄	33칸>20칸	棚~範 哲孝 勢貧酪 逆郷殴!
+DATASCR.BIN	SCR05949	0x90DF3	2번째줄	26칸>20칸	途書 暢三 域程 掲 肪挟画!
+DATASCR.BIN	SCR05986	0x91FFD	0번째줄	24칸>20칸	程 暇犯探 娘貫 家議程 敵郷!
+DATASCR.BIN	SCR06004	0x926AF	2번째줄	22칸>20칸	党 鶴艇程僧洞.
+DATASCR.BIN	SCR06006	0x9274C	0번째줄	21칸>20칸	峰翼貧「停～斜 家告郷汽.
+DATASCR.BIN	SCR06013	0x92954	1번째줄	22칸>20칸	顧 汽湿三 家議程 敵丹辰帳.
+DATASCR.BIN	SCR06024	0x92E95	0번째줄	22칸>20칸	画算下 貌殴「撤 形汽帳.
+DATASCR.BIN	SCR06033	0x9312A	1번째줄	24칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印.
+DATASCR.BIN	SCR06034	0x93175	1번째줄	23칸>20칸	郷倹 字誕月驚 暫程馴.
+DATASCR.BIN	SCR06041	0x9336E	2번째줄	21칸>20칸	論吊吊吊吊吊吊吊吊吊吊吊貞程郷!
+DATASCR.BIN	SCR06055	0x9407A	0번째줄	21칸>20칸	態礎富＠「李<P>逮<P>釣……。
+DATASCR.BIN	SCR06068	0x94492	1번째줄	26칸>20칸	顔 礎阻狂崖 樹鶴 似脱程 敵隻.
+DATASCR.BIN	SCR06070	0x9450D	0번째줄	35칸>20칸	1僧愛　霊……。
+DATASCR.BIN	SCR06101	0x95146	1번째줄	21칸>20칸	諦驚 柴鴻貫 殉画.
+DATASCR.BIN	SCR06132	0x95CEE	2번째줄	31칸>20칸	党阿 郷 荘琉逆緯月帳.
+DATASCR.BIN	SCR06135	0x95DEB	2번째줄	32칸>20칸	党阿 郷 荘琉逆吊挟画帳.
+DATASCR.BIN	SCR06136	0x95E55	2번째줄	28칸>20칸	登碗 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR06138	0x95EFD	2번째줄	31칸>20칸	党阿 郷 荘琉逆吊挟画帳.
+DATASCR.BIN	SCR06140	0x95F88	2번째줄	22칸>20칸	集三徹態! 態程鉢!!
+DATASCR.BIN	SCR06141	0x9607B	0번째줄	22칸>20칸	尋道「適~ 迭雅酸!
+DATASCR.BIN	SCR06143	0x96179	1번째줄	23칸>20칸	次鶴 君呪亭 態道 藤態酪世 暫程馴.
+DATASCR.BIN	SCR06149	0x96343	1번째줄	25칸>20칸	暢遜~. 程住淡 滞 南郷.
+DATASCR.BIN	SCR06161	0x96706	1번째줄	30칸>20칸	家衣 道馴. 家合 程酸.
+DATASCR.BIN	SCR06177	0x96D87	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR06192	0x9724E	1번째줄	35칸>20칸	哲~~~孝 勢貧酪逆郷英!
+DATASCR.BIN	SCR06196	0x973B1	2번째줄	29칸>20칸	途書 暢三 緯挟画!
+DATASCR.BIN	SCR06233	0x985C7	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 適創程 敵郷!
+DATASCR.BIN	SCR06251	0x98C6F	2번째줄	22칸>20칸	党 鶴艇程緯月帳.
+DATASCR.BIN	SCR06253	0x98D0C	0번째줄	22칸>20칸	峰翼貧「停~ 斜, 家劫 緯郷.
+DATASCR.BIN	SCR06260	0x98F14	1번째줄	23칸>20칸	顧 汽湿三 家議程 敵丹辰帳.
+DATASCR.BIN	SCR06265	0x9920D	1번째줄	21칸>20칸	登碗寿探 狸競偶帳.
+DATASCR.BIN	SCR06271	0x99455	0번째줄	22칸>20칸	画算下 貌殴「撤 形汽帳.
+DATASCR.BIN	SCR06275	0x99513	1번째줄	21칸>20칸	家合 途 程酸.
+DATASCR.BIN	SCR06280	0x996EA	1번째줄	28칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印.
+DATASCR.BIN	SCR06281	0x99735	1번째줄	26칸>20칸	郷~倹 字誕倹緯月.
+DATASCR.BIN	SCR06284	0x997F3	1번째줄	38칸>20칸	持礎忘 粟鶴 衣 郷~倹 字誕血挟画!
+DATASCR.BIN	SCR06285	0x99847	2번째줄	21칸>20칸	論----------貞程郷!
+DATASCR.BIN	SCR06287	0x998DA	1번째줄	38칸>20칸	持礎忘 粟鶴 衣 郷~倹 字誕血挟画!
+DATASCR.BIN	SCR06288	0x9992E	2번째줄	35칸>20칸	論----------貞程郷!
+DATASCR.BIN	SCR06340	0x9C2A9	1번째줄	21칸>20칸	諦驚 柴鴻貫 殉画.
+DATASCR.BIN	SCR06371	0x9CE51	2번째줄	29칸>20칸	党阿 郷 荘琉逆緯月帳。
+DATASCR.BIN	SCR06374	0x9CF4E	2번째줄	33칸>20칸	党阿 郷 荘琉逆吊挟画帳。
+DATASCR.BIN	SCR06375	0x9CFB8	2번째줄	35칸>20칸	登碗 域程 掲 肪挟!
+DATASCR.BIN	SCR06377	0x9D060	2번째줄	32칸>20칸	党阿 郷 荘琉逆吊挟画帳。
+DATASCR.BIN	SCR06379	0x9D0EB	2번째줄	33칸>20칸	緯 態寄! 怒暫!!
+DATASCR.BIN	SCR06380	0x9D1DE	0번째줄	22칸>20칸	尋道「適~ 迭雅酸!
+DATASCR.BIN	SCR06388	0x9D4A6	1번째줄	25칸>20칸	藤隊辰. 程住淡 滞 南郷。
+DATASCR.BIN	SCR06389	0x9D4F9	0번째줄	21칸>20칸	適, 載鶴 登住円 粟郷。
+DATASCR.BIN	SCR06392	0x9D5B6	0번째줄	21칸>20칸	陸程馴「拓 顧 翼貫?
+DATASCR.BIN	SCR06398	0x9D7B5	0번째줄	21칸>20칸	陸程馴「椀……間 猪罵程郷。
+DATASCR.BIN	SCR06400	0x9D869	1번째줄	28칸>20칸	家衣 匿印. 家合 愛郷。
+DATASCR.BIN	SCR06405	0x9DA35	0번째줄	22칸>20칸	羅 牝探 1000荷砲艇偶。
+DATASCR.BIN	SCR06416	0x9DEEA	1번째줄	26칸>20칸	500荷砲亭 剰運郷!
+DATASCR.BIN	SCR06431	0x9E3B1	1번째줄	35칸>20칸	適~滞孝 勢貧酪警馴!
+DATASCR.BIN	SCR06435	0x9E514	2번째줄	33칸>20칸	途書 暢三 緯郷!
+DATASCR.BIN	SCR06438	0x9E71A	1번째줄	24칸>20칸	暦桜羅 須艇程 掲 緯郷。
+DATASCR.BIN	SCR06455	0x9F1AE	1번째줄	21칸>20칸	滞 酪 滞 羅郷挟画!
+DATASCR.BIN	SCR06472	0x9F728	0번째줄	26칸>20칸	程 暇犯 娘貫 家議 敵郷!
+DATASCR.BIN	SCR06478	0x9FA23	2번째줄	23칸>20칸	扉洪羅 覚鶴 滞 径馴。
+DATASCR.BIN	SCR06490	0x9FDDD	2번째줄	23칸>20칸	党 鶴艇程緯月帳。
+DATASCR.BIN	SCR06493	0x9FE9F	2번째줄	24칸>20칸	厨液倹程綱鶴 宇程 郷笹汽!
+DATASCR.BIN	SCR06499	0xA0082	1번째줄	21칸>20칸	顧 汽湿三 家 軌瀬程 敵丹辰帳。
+DATASCR.BIN	SCR06510	0xA05C3	0번째줄	21칸>20칸	画算下 貌殴「撤形汽帳。
+DATASCR.BIN	SCR06519	0xA0858	1번째줄	27칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印。
+DATASCR.BIN	SCR06520	0xA08A3	1번째줄	24칸>20칸	郷~倹 字誕月郷挟画。
+DATASCR.BIN	SCR06527	0xA0A9C	2번째줄	32칸>20칸	論吊吊吊吊貞程郷!
+DATASCR.BIN	SCR06550	0xA1F45	0번째줄	21칸>20칸	暇偶, 湯歌 書灯翼汽。
+DATASCR.BIN	SCR06552	0xA1F88	2번째줄	36칸>20칸	賭辰君 滅迫 怒君 双雲 草拓馴。
+DATASCR.BIN	SCR06558	0xA2174	1번째줄	21칸>20칸	私 書三競 団殴 酪逐。
+DATASCR.BIN	SCR06588	0xA2D4B	1번째줄	22칸>20칸	阿訣 肢調警馴。
+DATASCR.BIN	SCR06591	0xA2E29	1번째줄	22칸>20칸	阿訣 肢調警馴。
+DATASCR.BIN	SCR06610	0xA35AE	2번째줄	28칸>20칸	党阿 郷 荘琉集恨緯月帳.
+DATASCR.BIN	SCR06613	0xA36AB	2번째줄	28칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR06614	0xA3715	2번째줄	32칸>20칸	登碗 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR06616	0xA37BD	2번째줄	27칸>20칸	党阿 郷 荘琉集恨吊挟画帳.
+DATASCR.BIN	SCR06619	0xA393B	0번째줄	21칸>20칸	尋豚「迭~雅 荷郷狛!
+DATASCR.BIN	SCR06627	0xA3C03	1번째줄	26칸>20칸	藤態. 程住淡 滞 南郷.
+DATASCR.BIN	SCR06636	0xA3EE5	0번째줄	21칸>20칸	陸程馴「椀……途 稚刷罵程帳.
+DATASCR.BIN	SCR06637	0xA3F12	0번째줄	22칸>20칸	陸程馴「椀……途 猪罵程帳.
+DATASCR.BIN	SCR06639	0xA3FC6	1번째줄	28칸>20칸	家緯 匿印. 家合 程酸.
+DATASCR.BIN	SCR06655	0xA4647	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR06670	0xA4B0E	1번째줄	35칸>20칸	阿~~~訣 勢貧酪警郷英!
+DATASCR.BIN	SCR06674	0xA4C71	2번째줄	29칸>20칸	途書 暢三 印 掲 肪挟画!
+DATASCR.BIN	SCR06711	0xA5E75	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵辰!
+DATASCR.BIN	SCR06729	0xA652F	2번째줄	23칸>20칸	党 鶴艇程緯月帳.
+DATASCR.BIN	SCR06749	0xA6D15	0번째줄	22칸>20칸	画算下貌殴「撤 形汽帳.
+DATASCR.BIN	SCR06758	0xA6FAA	1번째줄	24칸>20칸	持礎忘 翼暢礎左 酸倹辰匿印.
+DATASCR.BIN	SCR06766	0xA71EE	2번째줄	25칸>20칸	論吊吊吊吊吊吊吊貞程郷!
+DATASCR.BIN	SCR06801	0xA8DA3	1번째줄	28칸>20칸	暢凄 程 女革亭 棄辰世 稚君差 翼洪.
+DATASCR.BIN	SCR06840	0xAA087	1번째줄	21칸>20칸	諦驚 柴鴻貫 殉画.
+DATASCR.BIN	SCR06866	0xAAA14	0번째줄	31칸>20칸	程 民探 碗下 態程防亭 閥態拓馴……。
+DATASCR.BIN	SCR06867	0xAAAED	0번째줄	34칸>20칸	？「両糧糧糧両! 顧 庶競翁帳.
+DATASCR.BIN	SCR06870	0xAABE2	1번째줄	27칸>20칸	宛彦拓 裸 抑帳阿 敵陰汽帳.
+DATASCR.BIN	SCR06871	0xAAC2F	2번째줄	26칸>20칸	集恨緯月帳.
+DATASCR.BIN	SCR06874	0xAAD2C	2번째줄	27칸>20칸	荘琉 集恨吊挟画帳.
+DATASCR.BIN	SCR06875	0xAAD96	2번째줄	27칸>20칸	貫洪競 暢三 域程 掲 肪挟画帳!
+DATASCR.BIN	SCR06877	0xAAE3E	2번째줄	26칸>20칸	荘琉 集恨吊挟画帳.
+DATASCR.BIN	SCR06882	0xAB0BA	1번째줄	21칸>20칸	君呪程洪飼 態道 藤態酪世 暫程洞.
+DATASCR.BIN	SCR06885	0xAB18A	1번째줄	30칸>20칸	芦鳴左翁. 斜, 形辰.
+DATASCR.BIN	SCR06887	0xAB255	0번째줄	28칸>20칸	陸程馴「程劫 顧 党 肇混艇阿帳.
+DATASCR.BIN	SCR06888	0xAB284	1번째줄	26칸>20칸	程住淡 滞 南郷.
+DATASCR.BIN	SCR06893	0xAB3B6	1번째줄	32칸>20칸	君刺敏 賭程 狸驚 暫詑程拓!
+DATASCR.BIN	SCR06898	0xAB593	0번째줄	21칸>20칸	陸程馴「椀……登競 猪罵程帳.
+DATASCR.BIN	SCR06900	0xAB647	1번째줄	24칸>20칸	肪挟画 阿嶋阿. 家合 愛郷.
+DATASCR.BIN	SCR06904	0xAB7C6	1번째줄	34칸>20칸	循競 印 辰元.
+DATASCR.BIN	SCR06912	0xABB11	1번째줄	26칸>20칸	沢席錦左 匿印. 家合 愛郷!
+DATASCR.BIN	SCR06913	0xABB60	0번째줄	34칸>20칸	尋道「陸陸. 額. 家合 愛郷!
+DATASCR.BIN	SCR06914	0xABBF5	0번째줄	31칸>20칸	尋道「盤 授貞程 男 出左翁. 程濁!
+DATASCR.BIN	SCR06915	0xABC27	1번째줄	25칸>20칸	凡覧済貫 樹態 殉画.
+DATASCR.BIN	SCR06916	0xABCC8	1번째줄	24칸>20칸	500荷砲亭 君系司隊郷!
+DATASCR.BIN	SCR06917	0xABD13	1번째줄	33칸>20칸	桐酪君 君系楠程洪飼 態縄 滞 南郷殴.
+DATASCR.BIN	SCR06918	0xABD6B	1번째줄	29칸>20칸	州茂湯肇 滞 凡翼馴. 家合, 滞儀!
+DATASCR.BIN	SCR06926	0xAC06F	0번째줄	27칸>20칸	隻港「肉~滞! 郷停 浜探郷阿.
+DATASCR.BIN	SCR06931	0xAC18F	1번째줄	34칸>20칸	適滞~~~孝 勢貧酪 警郷殴!
+DATASCR.BIN	SCR06934	0xAC286	1번째줄	35칸>20칸	哲~孝 勢貧酪 警吊挟画!
+DATASCR.BIN	SCR06935	0xAC2F2	2번째줄	30칸>20칸	緯挟画!
+DATASCR.BIN	SCR06940	0xAC596	1번째줄	31칸>20칸	州酪翼洪英 暫程拓.
+DATASCR.BIN	SCR06944	0xAC726	0번째줄	29칸>20칸	紛鳴「顧! 貫競 読阿 態挟洪殴!
+DATASCR.BIN	SCR06949	0xACD83	0번째줄	21칸>20칸	娘貫「辰施 態礎富＠認!!
+DATASCR.BIN	SCR06951	0xACEC3	0번째줄	29칸>20칸	娘貫「辰元? 司凄 只荷 炊哀酪 順辰?
+DATASCR.BIN	SCR06952	0xACF03	0번째줄	25칸>20칸	取貫字「態程鉢 顧 家劫 隻三 翼英.
+DATASCR.BIN	SCR06953	0xACF2E	0번째줄	28칸>20칸	迭雅 荷郷狛 緯荷 契馴英茸程!
+DATASCR.BIN	SCR06960	0xAD0F7	0번째줄	28칸>20칸	取貫字「墳歪三暗洪挟?! 壇樹態!!!!
+DATASCR.BIN	SCR06967	0xAD2F9	0번째줄	27칸>20칸	取貫字「椀程郷 州酪径競 衣 机拓.
+DATASCR.BIN	SCR06970	0xAD416	1번째줄	29칸>20칸	渓英 循適!
+DATASCR.BIN	SCR06971	0xAD49A	0번째줄	21칸>20칸	紛鳴「!? ……程 喜図競……。
+DATASCR.BIN	SCR06972	0xAD526	0번째줄	23칸>20칸	程 暇犯探 娘貫 家 軌瀬程 敵辰!
+DATASCR.BIN	SCR06974	0xAD5E6	0번째줄	31칸>20칸	取貫字「煙畠態. 貫羅肪 史右.
+DATASCR.BIN	SCR06976	0xAD73B	0번째줄	30칸>20칸	態礎富＠認程 致 匿 袋隊競偶……。
+DATASCR.BIN	SCR06977	0xAD7BE	1번째줄	30칸>20칸	匿印. 暢霊霊霊霊霊.
+DATASCR.BIN	SCR06979	0xAD8A5	1번째줄	33칸>20칸	藤鶴 柴衣亭 渓洪英 暫酪 継印.
+DATASCR.BIN	SCR06981	0xAD931	0번째줄	26칸>20칸	娘貫「停~誕途掟 私南 誕適汽!
+DATASCR.BIN	SCR06984	0xAD9E6	1번째줄	21칸>20칸	渓洪殴.
+DATASCR.BIN	SCR06987	0xADB6E	1번째줄	34칸>20칸	敵競 悦程洪飼 喜図左 袋 扇 敵洞.
+DATASCR.BIN	SCR06990	0xADC38	2번째줄	21칸>20칸	鶴艇程爽挟郷.
+DATASCR.BIN	SCR06992	0xADCD5	0번째줄	21칸>20칸	峰翼貧「停~斜 家告郷競偶.
+DATASCR.BIN	SCR06995	0xADD96	0번째줄	30칸>20칸	峰翼貧「停~ 誕荷世 酸貫飼 詠港羅偶.
+DATASCR.BIN	SCR06998	0xADE95	1번째줄	23칸>20칸	緯帳. 喜図左 袋隊辰帳.
+DATASCR.BIN	SCR06999	0xADEDD	1번째줄	22칸>20칸	敵丹辰帳.
+DATASCR.BIN	SCR07007	0xAE2AC	0번째줄	40칸>20칸	程須翼汽. 甚虹 循艇 域 粟隊競偶.
+DATASCR.BIN	SCR07010	0xAE41E	0번째줄	22칸>20칸	画算下 貌殴「撤 形汽帳.
+DATASCR.BIN	SCR07011	0xAE443	0번째줄	26칸>20칸	峰翼貧「諦書鴻 取滞蘭郷競偶.
+DATASCR.BIN	SCR07012	0xAE46F	1번째줄	25칸>20칸	陳酪世洪飼 脱党月 凝狛蜘印帳.
+DATASCR.BIN	SCR07019	0xAE6C1	1번째줄	27칸>20칸	翼暢礎左 酸倹辰 匿印.
+DATASCR.BIN	SCR07020	0xAE70C	1번째줄	25칸>20칸	字誕倹緯月.
+DATASCR.BIN	SCR07022	0xAE77A	1번째줄	30칸>20칸	持礎忘 翼暢礎左 酸倹辰 匿印!
+DATASCR.BIN	SCR07023	0xAE7CA	1번째줄	37칸>20칸	衣 郷~倹 字誕月郷殴!
+DATASCR.BIN	SCR07024	0xAE81E	1번째줄	41칸>20칸	論--------吊貞程郷!
+DATASCR.BIN	SCR07026	0xAE8B1	1번째줄	37칸>20칸	衣 郷~倹 字誕月郷殴!
+DATASCR.BIN	SCR07027	0xAE905	2번째줄	29칸>20칸	論-----------吊貞程郷!
+DATASCR.BIN	SCR07028	0xAF377	0번째줄	23칸>20칸	態礎富＠「吊停…… 奥天羅 雲貧左翁……
+DATASCR.BIN	SCR07032	0xAF41E	2번째줄	21칸>20칸	翼共庭 男鍛
+DATASCR.BIN	SCR07035	0xAF517	2번째줄	24칸>20칸	程 顕亭 収吊狛 翼競 適阿 敵郷飼
+DATASCR.BIN	SCR07037	0xAF5A4	2번째줄	24칸>20칸	家錦探印 灘猶察 顔三三洪
+DATASCR.BIN	SCR07046	0xAF8B7	0번째줄	28칸>20칸	?「瀬牝程 双雲 滞 遜艇郷英帳?
+DATASCR.BIN	SCR07049	0xAF941	1번째줄	27칸>20칸	治酪帳. 家航君 煙畠吊整帳?
+DATASCR.BIN	SCR07052	0xAF9DA	0번째줄	30칸>20칸	？「寮僧 党阿 泣殴艇馴 臆歌翼双阿帳?
+DATASCR.BIN	SCR07067	0xAFCCC	1번째줄	36칸>20칸	暦桜羅 与航艇諦馴君 字笹陰汽帳.
+DATASCR.BIN	SCR07069	0xAFD65	0번째줄	25칸>20칸	党 算停席探競 男超掟 陥亭 緯知帳.
+DATASCR.BIN	SCR07073	0xB00F4	0번째줄	21칸>20칸	隻馴夕程 阿訣 肇世 道町 扇 狸郷.
+DATASCR.BIN	SCR07075	0xB0D49	1번째줄	21칸>20칸	程 鶴双 岡亭 扇両翼競 適左郷.
+DATASCR.BIN	SCR07085	0xB0FC4	1번째줄	21칸>20칸	家 算停程 犠素馴 苔君差……。
+DATASCR.BIN	SCR07086	0xB1203	1번째줄	32칸>20칸	　　 扱医 酸馴富捷洪察 惜探 気丹郷.
+DATASCR.BIN	SCR07087	0xB127B	0번째줄	21칸>20칸	隻馴夕程 阿訣 肇世 道町 扇 狸郷.
+DATASCR.BIN	SCR07090	0xB2464	1번째줄	24칸>20칸	成探世競 伝想印 君刺阿銀挟.
+DATASCR.BIN	SCR07091	0xB24B1	0번째줄	23칸>20칸	陸程馴「家 家衣 暫翼馴 暫態 道整帳.
+DATASCR.BIN	SCR07092	0xB24DA	1번째줄	27칸>20칸	件英 宙蘇挟郷帳.
+DATASCR.BIN	SCR07095	0xB25AF	0번째줄	26칸>20칸	辰粘月 班 純君 扇須翼挟画帳~.
+DATASCR.BIN	SCR07099	0xB267A	1번째줄	29칸>20칸	女三競~附郷港 輸諭阿 敵郷競偶~.
+DATASCR.BIN	SCR07104	0xB27D8	0번째줄	29칸>20칸	陸程馴「態宮 登碗競 態縄 時洪帳.
+DATASCR.BIN	SCR07105	0xB282E	1번째줄	36칸>20칸	悦探~帳遠算亭程洪競 悦程 敵郷競偶~
+DATASCR.BIN	SCR07106	0xB2886	0번째줄	21칸>20칸	緯荷 天左阿~棚範 呪創酪世~
+DATASCR.BIN	SCR07107	0xB28BC	1번째줄	22칸>20칸	敵郷競 隻実亭 倹丹辰帳.
+DATASCR.BIN	SCR07116	0xB2B49	1번째줄	25칸>20칸	循程陰郷競偶~!
+DATASCR.BIN	SCR07118	0xB2C3A	1번째줄	22칸>20칸	暫洪殴!
+DATASCR.BIN	SCR07123	0xB2D4F	1번째줄	33칸>20칸	看貧馴 苔君差~壇奏掟 翼洪競偶~
+DATASCR.BIN	SCR07124	0xB2DA6	1번째줄	29칸>20칸	翼競偶~. 君眺程 掲 緯洪競偶~.
+DATASCR.BIN	SCR07152	0xB4B1C	0번째줄	21칸>20칸	披天「湿<P>湿粗 暫詑程爽挟画!<P>
+DATASCR.BIN	SCR07160	0xB737A	2번째줄	34칸>20칸	　　　　　　　 敵蘇挟郷.
+DATASCR.BIN	SCR07162	0xB75A4	1번째줄	21칸>20칸	程劫 悦画馴 撤君 宙汽.
+DATASCR.BIN	SCR07197	0xB9284	1번째줄	48칸>20칸	「倫歌庭 殴笹競 群」亭 惜探 気丹郷!
+DATASCR.BIN	SCR07244	0xBA560	2번째줄	36칸>20칸	単単単単単単単!!!
+DATASCR.BIN	SCR07256	0xBAC1E	2번째줄	34칸>20칸	　　　　　　　 敵蘇挟郷.
+DATASCR.BIN	SCR07261	0xBB172	1번째줄	51칸>20칸	「滞道庭 錦倹循」察 惜探 気丹郷!
+DATASCR.BIN	SCR07307	0xBCC15	0번째줄	21칸>20칸	尋道「辰程頁 惜狂艇阿?
+DATASCR.BIN	SCR07310	0xBCCB7	2번째줄	21칸>20칸	途込吊左 想暢馴 苔亭 扇 狸郷英.
+DATASCR.BIN	SCR07312	0xBCD77	0번째줄	26칸>20칸	適 羅住 酪殉画!!
+DATASCR.BIN	SCR07314	0xBCDED	2번째줄	21칸>20칸	却英 阿拓 裸 緯郷!
+DATASCR.BIN	SCR07315	0xBCE4A	0번째줄	25칸>20칸	適 羅住 酪殉画!
+DATASCR.BIN	SCR07317	0xBD055	2번째줄	24칸>20칸	涼虹 阻書 辰元?
+DATASCR.BIN	SCR07321	0xBD325	0번째줄	24칸>20칸	尋道「辰程頁 顧 宙貫?
+DATASCR.BIN	SCR07325	0xBD46B	0번째줄	23칸>20칸	適, 羅住 酪殉画!
+DATASCR.BIN	SCR07328	0xBD6EA	2번째줄	24칸>20칸	陸陸. <P>家合 撤酪 純!
+DATASCR.BIN	SCR07329	0xBDA7E	2번째줄	23칸>20칸	「酸境 繁刃」察 惜探 気丹郷!
+DATASCR.BIN	SCR07367	0xBEB7A	2번째줄	34칸>20칸	　　　　　　　 敵蘇挟郷.
+DATASCR.BIN	SCR07385	0xBFCC7	1번째줄	58칸>20칸	'泉与庭 医'亭 惜探 気丹郷!
+DATASCR.BIN	SCR07423	0xC1357	2번째줄	34칸>20칸	　　　　　　　 敵蘇挟郷.
+DATASCR.BIN	SCR07425	0xC1669	2번째줄	23칸>20칸	南肉～ 治 暫三競 艇愛程洪挟画～.
+DATASCR.BIN	SCR07437	0xC2123	0번째줄	25칸>20칸	助酪 助酪 助酪～!!
+DATASCR.BIN	SCR07446	0xC2D81	1번째줄	52칸>20칸	'馴虜庭 盾'察 惜探 気丹郷!
+DATASCR.BIN	SCR07484	0xC4357	2번째줄	34칸>20칸	　　　　　　　 敵蘇挟郷.
+DATASCR.BIN	SCR07488	0xC460E	2번째줄	24칸>20칸	家号 哀稚程双 域 粟英帳.
+DATASCR.BIN	SCR07495	0xC4980	2번째줄	27칸>20칸	程 程衣 煮阿 撤治恵 井挟郷……。
+DATASCR.BIN	SCR07506	0xC5161	2번째줄	23칸>20칸	家合 登競 程酸 喪混翼陰蘇挟郷!
+DATASCR.BIN	SCR07508	0xC564B	2번째줄	25칸>20칸	'荘馴 苔競 道旨宗'亭 惜探 気丹郷!
+DATASCR.BIN	SCR07556	0xC747B	0번째줄	22칸>20칸	頁霊頁「知 洪翁 狂.
+DATASCR.BIN	SCR07585	0xC7EF7	0번째줄	21칸>20칸	汽湿三「辰権阿世 橘現程 書三陰馴
+DATASCR.BIN	SCR07594	0xC82F8	2번째줄	21칸>20칸	持礎忘庭 域程 掲 域程郷.
+DATASCR.BIN	SCR07598	0xC841C	0번째줄	22칸>20칸	洪翁「泣仲翼翼翼翼翼!!
+DATASCR.BIN	SCR07600	0xC8ADF	2번째줄	21칸>20칸	'潮似庭 森遥三'察 惜探 気丹郷!
+DATASCR.BIN	SCR07644	0xC9CDB	0번째줄	21칸>20칸	紛鳴「郷倹程洪挟 滅算畔 軌瀬倹?
+DATASCR.BIN	SCR07647	0xC9D6C	1번째줄	38칸>20칸	暫程誕. 煮阿 郷倹 堕艇 域算揮……
+DATASCR.BIN	SCR07699	0xCC3B5	0번째줄	22칸>20칸	貌双 従刃「適 程遺左 監程郷.
+DATASCR.BIN	SCR07711	0xCC76D	0번째줄	25칸>20칸	洪翁「馴 楠画 循寄態態態態……!!!
+DATASCR.BIN	SCR07737	0xCD2DC	0번째줄	25칸>20칸	汽湿三「態鯛 答態! 喜図貫~!!
+DATASCR.BIN	SCR07753	0xCDBD6	1번째줄	22칸>20칸	家合 郷 怒三恵 緯翁帳.
+DATASCR.BIN	SCR07787	0xD0559	2번째줄	24칸>20칸	辰建凄阿 倹鶴 賭程 敵辰.
+DATASCR.BIN	SCR07790	0xD063C	2번째줄	28칸>20칸	家元画馴競 顔阿 宛英 敵亭印.
+DATASCR.BIN	SCR07803	0xD1527	2번째줄	24칸>20칸	辰建凄阿 倹鶴 賭程 敵辰.
+DATASCR.BIN	SCR07806	0xD160A	2번째줄	28칸>20칸	家元画馴競 顔阿 宛英 敵亭印.
+DATASCR.BIN	SCR07819	0xD2527	2번째줄	24칸>20칸	辰建凄阿 倹鶴 賭程 敵辰.
+DATASCR.BIN	SCR07822	0xD260A	2번째줄	28칸>20칸	家元画馴競 顔阿 宛英 敵亭印.
+DATASCR.BIN	SCR07828	0xD3340	0번째줄	25칸>20칸	態礎富＠競　与算瀬亭　惜探　気丹郷。
+DATASCR.BIN	SCR07829	0xD3393	0번째줄	21칸>20칸	隻馴夕程 阿訣 肇世 道町 扇 狸郷.
+DATASCR.BIN	SCR07838	0xD3D28	2번째줄	24칸>20칸	辰建凄阿 倹鶴 賭程 敵辰.
+DATASCR.BIN	SCR07841	0xD3E0B	2번째줄	28칸>20칸	家元画馴競 顔阿 宛英 敵亭印.
+DATASCR.BIN	SCR07848	0xD5AFA	0번째줄	32칸>20칸	羅薬　家　湿困………。
+DATASCR.BIN	SCR07856	0xD5CC9	2번째줄	22칸>20칸	態程防亭 字態 稚航.
+DATASCR.BIN	SCR07857	0xD5D3A	2번째줄	22칸>20칸	障逮吊飼 径徹態~.
+DATASCR.BIN	SCR07866	0xD6084	2번째줄	21칸>20칸	粍撒狸競 域 粟郷.
+SSCR.BIN	SYS00053	0xBA45	0번째줄	23칸>21칸	受鏡探 頼怒程 哲孝 炊右 集恨郷!
+SSCR.BIN	SYS00055	0xBDD0	0번째줄	28칸>21칸	浜 途釆阿 惑情 倒辰 集恨郷!
+SSCR.BIN	SYS00074	0xF352	0번째줄	22칸>21칸	員 舵探印 堅差径馴 苔鶴 探国峰 左潤鶴
+SSCR.BIN	SYS00080	0xF573	0번째줄	22칸>21칸	句途吊左 群態阿荷 途探 整程捷雷挟郷
+SSCR.BIN	SYS00082	0xF5DF	0번째줄	23칸>21칸	句途 滞探世 印泥亭 督驚裸 雲暢探競
+SSCR.BIN	SYS00105	0x139D7	0번째줄	25칸>21칸	循程馴 苔句 域程 循程印 径丹郷.
+SSCR.BIN	SYS00133	0x1644F	3번째줄	35칸>21칸	馴貫貧印 鳴世 炊荷競 越旬探 道庭裸 域
+SSCR.BIN	SYS00160	0x16F68	2번째줄	37칸>21칸	（道庭! 取涙扇 柴夕鶴 刃洪難挟郷.）
+SSCR.BIN	SYS00161	0x16FF2	2번째줄	42칸>21칸	刃洪難挟郷.）
+SSCR.BIN	SYS00162	0x17071	2번째줄	41칸>21칸	左潤鶴 刃洪難挟郷.）
+SSCR.BIN	SYS00163	0x170EE	1번째줄	30칸>21칸	 凄邦翼飼 途槙阿 糖済敬挟郷.
+SSCR.BIN	SYS00165	0x1A778	0번째줄	18칸>17칸	翼馴酸 態湿域君 君系司馴苔隊郷.
+SSCR.BIN	SYS00175	0x1B7FE	0번째줄	18칸>17칸	%s競 蒲粍蒲粍 鼻亭 菱郷!
+SSCR.BIN	SYS00180	0x1C092	0번째줄	21칸>17칸	%s競 持礎忘察 女鴻奇郷!
+SSCR.BIN	SYS00185	0x1D831	0번째줄	18칸>17칸	翼馴酸 態湿域君 君系司馴苔隊郷.
+SSCR.BIN	SYS00192	0x1F2AD	0번째줄	21칸>17칸	附郷港 道旨宗程 径辰集恨郷!
+SSCR.BIN	SYS00206	0x21D44	0번째줄	19칸>17칸	拾阿 英鳴世 HP阿 匿丹郷!
+SSCR.BIN	SYS00207	0x21E2F	0번째줄	20칸>17칸	酸旬君阿 %d％阿 径辰集恨郷!
+SSCR.BIN	SYS00208	0x21E80	0번째줄	22칸>17칸	誹錦酸旬君阿 %d％阿径辰集恨郷!
+SSCR.BIN	SYS00213	0x223F5	0번째줄	19칸>17칸	州辰込程 甚虹 古辰桃郷!
+SSCR.BIN	SYS00219	0x227EC	0번째줄	18칸>17칸	実茸程 翼貫 刃洪嶋集恨郷!
+SSCR.BIN	SYS00221	0x22939	0번째줄	18칸>17칸	君歌程 戎右嶋集恨郷!
+SSCR.BIN	SYS00222	0x22A3C	0번째줄	19칸>17칸	書創径辰 沢酪嶋集恨郷.
+SSCR.BIN	SYS00224	0x22B11	0번째줄	23칸>17칸	君歌程 径辰 敵辰世 止波蘭郷!
+SSCR.BIN	SYS00239	0x264AC	0번째줄	18칸>17칸	a<0C>両美掲 三 狸競 淡稔三
+SSCR.BIN	SYS00240	0x267F8	0번째줄	20칸>17칸	%s庭 撤 件競 怜円阿刃洪桃郷.
+SSCR.BIN	SYS00244	0x28565	0번째줄	18칸>17칸	道旨宗程 径辰集恨郷!
+SSCR.BIN	SYS00258	0x2C685	0번째줄	20칸>17칸	%s競 \r成天酪世 湯歌扱酪桃郷!
+SSCR.BIN	SYS00259	0x2C6C5	0번째줄	22칸>17칸	%s競 \r銀 程須成天裸扇狸競域粟郷
+SSCR.BIN	SYS00260	0x2C6F0	0번째줄	20칸>17칸	%s競 \r麻量酪世 湯歌沢酪桃郷!
+SSCR.BIN	SYS00264	0x32F0E	0번째줄	23칸>17칸	a<0C>EN_ChkCanBirth殴創
+SSCR.BIN	SYS00280	0x354E1	0번째줄	18칸>17칸	%s競 掛 沢酪桃郷!
+SSCR.BIN	SYS00282	0x355EC	0번째줄	20칸>17칸	祠程 %d諭艇稔 古辰桃郷.
+SSCR.BIN	SYS00283	0x356B9	0번째줄	24칸>17칸	祠庭誹錦貧阿 %d諭艇稔古辰桃郷.
+SSCR.BIN	SYS00294	0x3728A	0번째줄	20칸>17칸	翼馴酸 態湿域君 裳狛倹馴苔隊郷.
+SSCR.BIN	SYS00325	0x3EBD5	0번째줄	19칸>17칸	拾阿 英鳴世 HP阿 匿丹郷!
+SSCR.BIN	SYS00344	0x43061	0번째줄	19칸>17칸	%s「潮似庭 道刃陳郷――!」
+SSCR.BIN	SYS00348	0x43252	0번째줄	20칸>17칸	%s「掟帳牧墳 球程 貫宙郷!」
+SSCR.BIN	SYS00352	0x43CCA	0번째줄	22칸>17칸	誹錦酸旬君阿 %d％阿径辰集恨郷!
+SSCR.BIN	SYS00353	0x43D1A	0번째줄	20칸>17칸	酸旬君阿 %d％阿 径辰集恨郷!
+SSCR.BIN	SYS00355	0x443CD	0번째줄	18칸>17칸	翼馴酸 態湿域君 君系司馴苔隊郷.
+SSCR.BIN	SYS00368	0x46747	0번째줄	21칸>17칸	祠程 1諭艇稔 古辰桃郷.
+SSCR.BIN	SYS00369	0x473B1	0번째줄	19칸>17칸	%s「潮似庭 道刃陳郷――!」
+SSCR.BIN	SYS00373	0x475A2	0번째줄	20칸>17칸	%s「掟帳牧墳 球程 貫宙郷!」
+SSCR.BIN	SYS00869	0x52529	5번째줄	23칸>19칸	月月羅 態翁程 掲 井挟郷
+SSCR.BIN	SYS00870	0x525FB	8번째줄	21칸>19칸	匿馴君字撮挟郷.
+SSCR.BIN	SYS00871	0x52731	1번째줄	23칸>19칸	循洪厨 渓界消馴握摘挟郷. 荷砲亭態道藤態酪世
+SSCR.BIN	SYS00873	0x52995	8번째줄	22칸>19칸	桐双探印 謙摘挟郷
+SSCR.BIN	SYS00876	0x52D0D	1번째줄	21칸>19칸	督探世競誹扱摘挟郷. 附郷港酎球吊左誹飼浅
+SSCR.BIN	SYS00877	0x52E3D	8번째줄	22칸>19칸	世諭稔酪 匿 井挟郷.
+SSCR.BIN	SYS00878	0x52F67	8번째줄	26칸>19칸	井挟郷.
+SSCR.BIN	SYS00879	0x5308F	8번째줄	32칸>19칸	態馴法牧左 馴露酪匿井挟郷.
+SSCR.BIN	SYS00882	0x5341D	2번째줄	21칸>19칸	君 誹扱庭 忘湿挟狸競遠込吊左君看察顔三蛮
+SSCR.BIN	SYS00883	0x53557	0번째줄	20칸>19칸	偶書法競契馴字蘇亭羅持礎忘摘挟郷.扉差厨
+SSCR.BIN	SYS00884	0x53689	2번째줄	20칸>19칸	偶書法 影壇 督 渓住濡左扱翼資偶書法庭
+SSCR.BIN	SYS00885	0x537C3	4번째줄	23칸>19칸	10布 台画馴洪飼 州 寿庭賭探印湯肇群亭句嶋
+SSCR.BIN	SYS00887	0x53A31	0번째줄	20칸>19칸	礎富程血航詠鶴 程王庭挑持礎忘摘挟郷阿天
+SSCR.BIN	SYS00888	0x53B6B	0번째줄	21칸>19칸	態母血航詠鶴程王庭挑持礎忘摘挟郷.持礎忘庭
+SSCR.BIN	SYS00889	0x53CA5	0번째줄	20칸>19칸	牧君 影壇 督 阿天 沢羅循洪牧君競扇督
+SSCR.BIN	SYS00891	0x53F11	0번째줄	20칸>19칸	牧君 影壇 督 誹扱艇扱繁牧君摘挟郷扇衣
+SSCR.BIN	SYS00895	0x543BF	0번째줄	20칸>19칸	循拓競 貫湿量甚亭増競持礎忘摘挟郷循拓影
+SSCR.BIN	SYS00896	0x544F7	0번째줄	21칸>19칸	墳君字 途肇競 設量甚亭増競持礎忘左循拓影
+SSCR.BIN	SYS00897	0x5462D	0번째줄	21칸>19칸	稚拓馴途肇競錦諭袋亭増競持礎忘摘挟郷.循拓
+SSCR.BIN	SYS00898	0x54761	0번째줄	20칸>19칸	擢肪豹途肇競錦諭袋亭増競拾席持礎忘摘挟郷
+SSCR.BIN	SYS00900	0x549C5	4번째줄	20칸>19칸	鶴鶴羅 至戚 吏庭 獲三左 艇荷察 慣競
+SSCR.BIN	SYS00901	0x54AF3	0번째줄	20칸>19칸	算湿細影壇程洪凧順郷阿競陳裏羅忘湿挟狸程
+SSCR.BIN	SYS00903	0x54D65	1번째줄	22칸>19칸	湿細摘挟郷.辰個越宇程月 1左雲悪翼競繁塾庭
+SSCR.BIN	SYS00904	0x54E9B	8번째줄	26칸>19칸	径辰匿域程粍撒狸蘇挟郷.
+SSCR.BIN	SYS00905	0x54FD5	0번째줄	20칸>19칸	挟荷三率印競 挟荷三取貫洪程 影壇督渓住
+SSCR.BIN	SYS00908	0x55369	0번째줄	21칸>19칸	鶴渓受競態程防吊左経握翼競持礎忘摘挟郷.糖
+SSCR.BIN	SYS00909	0x554A1	2번째줄	20칸>19칸	書怒旅 字蘇探 序鶴球庭探肪笹偶焦鶴家督
+SSCR.BIN	SYS00910	0x555D1	0번째줄	20칸>19칸	腕逢厨円 弐鶴悪厨庭書怒旅字蘇探鳴港球亭
+SSCR.BIN	SYS00911	0x556FB	0번째줄	20칸>19칸	団渓厨円循洪厨庭書怒旅字蘇探道倫章吊左章
+SSCR.BIN	SYS00912	0x5582D	0번째줄	20칸>19칸	裳愛厨円医鶴厨庭書怒旅字蘇探歌章吊左章貫
+SSCR.BIN	SYS00913	0x5595D	0번째줄	21칸>19칸	図翼濯 次探 適家算羅惜需扉差笛亭阿南稚受
+SSCR.BIN	SYS00914	0x55A95	0번째줄	23칸>19칸	図翼濯 次探 適家算羅 惜需 賭適厨笛亭阿南肢
+SSCR.BIN	SYS00915	0x55BCF	0번째줄	21칸>19칸	図翼濯 次探 適家算羅惜需医鶴笛亭阿南汽湿
+SSCR.BIN	SYS00916	0x55D05	0번째줄	21칸>19칸	富淡虚君競 途双程女革艇持礎忘摘挟郷量断扉
+SSCR.BIN	SYS00917	0x55E3F	0번째줄	21칸>19칸	賭君 態翁君 阿三馴苔英球探康競須錦察鏡貧
+SSCR.BIN	SYS00918	0x55F75	0번째줄	21칸>19칸	扉差 握畜亭 渓刷稚挟至湿睡競途王湿刃庭掴
+SSCR.BIN	SYS00919	0x560AD	0번째줄	21칸>19칸	循洪厨 握畜亭 渓刷羅寄湿睡競稚挟至湿睡影
+SSCR.BIN	SYS00922	0x5641B	8번째줄	29칸>19칸	授錦薬吊左 貫蜘 扇 敵蘇挟郷.
+SSCR.BIN	SYS00923	0x56555	8번째줄	23칸>19칸	授錦薬吊左 笑嶋貫蜘 扇敵蘇挟郷.
+SSCR.BIN	SYS00924	0x5668F	0번째줄	23칸>19칸	弐鶴 陥厨 次庭 礎細血航詠鶴牧稚晴作影壇督探
+SSCR.BIN	SYS00925	0x567C9	8번째줄	26칸>19칸	州茂庭 登 道察 適傾吊左 融辰徳挟郷
+SSCR.BIN	SYS00926	0x56903	2번째줄	20칸>19칸	渓暗庭態程防亭登道裸扇敵蘇挟郷.登道樹鶴
+SSCR.BIN	SYS00927	0x56A3D	3번째줄	22칸>19칸	態程防鶴 天消察 丞 扇 狸緯貫刃挑女阿刃挑
+SSCR.BIN	SYS00928	0x56B77	1번째줄	20칸>19칸	峰厨立試亭多暗取摘挟郷.暗取庭栓似吊左牧
+SSCR.BIN	SYS00929	0x56CAB	1번째줄	20칸>19칸	羅鳴港厨立試亭多暗取摘挟郷.暗取庭栓似吊
+SSCR.BIN	SYS00930	0x56DE5	1번째줄	20칸>19칸	立試亭多暗取摘挟郷.暗取庭栓似吊左牧寺越
+SSCR.BIN	SYS00931	0x56F17	0번째줄	20칸>19칸	阿組鳴豹阿扉差厨艇逐洪暢佑三詠鶴逐洪暢佑
+SSCR.BIN	SYS00932	0x57051	0번째줄	20칸>19칸	阿組鳴豹阿欺港厨艇算逐細佑三詠鶴逐洪暢佑
+SSCR.BIN	SYS00933	0x5718B	0번째줄	20칸>19칸	阿組鳴豹阿鳴港厨艇稚君細佑三詠鶴逐洪暢佑
+SSCR.BIN	SYS00934	0x572C5	0번째줄	20칸>19칸	阿組鳴豹阿裳愛厨艇暢法暢佑三詠鶴逐洪暢佑
+SSCR.BIN	SYS00935	0x573F1	0번째줄	20칸>19칸	論柴論柴羅翼共厨血国艇席成持礎忘取君左競
+SSCR.BIN	SYS00936	0x57529	0번째줄	21칸>19칸	論柴論柴羅 扉差 血国艇席成持礎忘印君左競
+SSCR.BIN	SYS00937	0x57661	2번째줄	20칸>19칸	州茂察犠素印酪扇怒貧察 -3翼競境込程敵
+SSCR.BIN	SYS00938	0x5779B	8번째줄	25칸>19칸	程酎探競 髭喪雷挟郷
+SSCR.BIN	SYS00939	0x578D5	8번째줄	20칸>19칸	店粒蘭蘇挟郷.
+SSCR.BIN	SYS00940	0x57A03	0번째줄	22칸>19칸	敏法洪 影壇鶴 翼蛸英 傾家港次庭持礎忘左国
+SSCR.BIN	SYS00941	0x57B37	8번째줄	22칸>19칸	家三競 獲三察 店粒蘭蘇挟郷.
+SSCR.BIN	SYS00943	0x57D93	8번째줄	24칸>19칸	字蘇吊左 熟双雷挟郷
+SSCR.BIN	SYS00948	0x5837F	3번째줄	20칸>19칸	態程防亭古辰好三印雷挟郷.酪適堅探古辰南
+SSCR.BIN	SYS00949	0x584B9	2번째줄	21칸>19칸	扱羅試契馴摘挟郷.賭亭 2布狩蛮世棄辰好狛
+SSCR.BIN	SYS00950	0x585F1	4번째줄	23칸>19칸	態程防鶴 循凡 道町 扇狸吊挟道庭阿抑帳雷挟郷
+SSCR.BIN	SYS00955	0x58BDF	2번째줄	20칸>19칸	復法暢左礎摘挟郷.鶴量甚鶴塾君賭君態翁君
+SSCR.BIN	SYS00959	0x59069	2번째줄	21칸>19칸	露渓笹競墳看三摘挟郷.盾艇径飼 20房傾滞
+SSCR.BIN	SYS00961	0x592C1	0번째줄	20칸>19칸	拾稔負緯細 影壇 督阿天沢羅拾稔負緯細競
+SSCR.BIN	SYS00962	0x593F9	8번째줄	20칸>19칸	盾亭 湿党羅 露渓撮挟郷
+SSCR.BIN	SYS00964	0x59667	1번째줄	21칸>19칸	法程緯腸両 影壇 督 阿天沢羅欺綱円医怒庭
+SSCR.BIN	SYS00965	0x5979F	2번째줄	20칸>19칸	富峰厨円 医怒庭両綱程湿怯両綱程摘挟郷.
+SSCR.BIN	SYS00966	0x598D7	2번째줄	21칸>19칸	両綱程 湿怯両綱程摘挟郷. 賭亭郷刷須錦貫
+SSCR.BIN	SYS00968	0x59B31	2번째줄	20칸>19칸	血国艇席成持礎忘摘挟郷. 危拶危拶来態世
+SSCR.BIN	SYS00969	0x59C63	8번째줄	21칸>19칸	怜円阿 敬挟郷.
+SSCR.BIN	SYS00978	0x5A626	2번째줄	20칸>19칸	住濡左 沢羅 扇督 席成 持礎忘摘挟郷.
+SSCR.BIN	SYS00979	0x5A760	2번째줄	20칸>19칸	住濡左 扱羅 扇督 席成 持礎忘摘挟郷.
+SSCR.BIN	SYS00980	0x5A89A	4번째줄	20칸>19칸	顧 家 授錦左君 巾吊資 須犯 摘鶴次君
+SSCR.BIN	SYS00981	0x5A9D2	2번째줄	20칸>19칸	営吊左泉愛程傾翼誕 HP察涙旬僧峰競消覧
+SSCR.BIN	SYS00983	0x5AC05	1번째줄	21칸>19칸	扱羅 織挑吊左鳴港馴京鴻取逐渓郷三(?)阿
+SSCR.BIN	SYS00988	0x5B193	8번째줄	26칸>19칸	苔英 偶取馴察 匿 扇 敵蘇挟郷.
+SSCR.BIN	SYS00989	0x5B2C7	8번째줄	29칸>19칸	苔英 偶取馴察 匿 扇 敵蘇挟郷.
+SSCR.BIN	SYS00990	0x5B401	8번째줄	27칸>19칸	苔英 偶取馴察 匿 扇 敵蘇挟郷.
+SSCR.BIN	SYS00991	0x5B535	2번째줄	20칸>19칸	阿飼亭 多英礎稔摘挟郷 30房酸探銅停探
+SSCR.BIN	SYS00994	0x5B8C9	3번째줄	21칸>19칸	八捜 元三競 越宇鶴 沢翼馴酸貧算態航探世
+SSCR.BIN	SYS00995	0x5B9F7	5번째줄	22칸>19칸	越宇鶴 須桐掟扱込雷挟郷.談布程貫柴蝶具程阿
+SSCR.BIN	SYS00996	0x5BB2F	3번째줄	21칸>19칸	八捜 元三競 越宇鶴 沢翼馴酸貧算態航探世
+SSCR.BIN	SYS00998	0x5BD95	8번째줄	22칸>19칸	道実鶴 督藩径英 茸君 卿挟郷
+SSCR.BIN	SYS01000	0x5BFF1	2번째줄	20칸>19칸	柴衣亭裳態倹程緯貫句嶋南柴衣亭 2住画馴
+SSCR.BIN	SYS01001	0x5C11F	3번째줄	20칸>19칸	柴衣亭 3住画馴 腎放挟郷.程元越宇込程
+SSCR.BIN	SYS01002	0x5C251	1번째줄	20칸>19칸	遠君野三武 影壇 督 渓 住濡左 扱翼資
+SSCR.BIN	SYS01005	0x5C5AA	0번째줄	31칸>19칸	図翼濯 拾探 柱馴拾較程万辰貫致鈍僧暗殴三競掴艇暗殴三影壇探世
+SSCR.BIN	SYS01007	0x5C7EA	0번째줄	25칸>19칸	鳴港 字適庭 家共字適競 家共字適 影壇督阿天沢羅
+SSCR.BIN	SYS01008	0x5C924	0번째줄	28칸>19칸	弐鶴 逢厨 字適庭 医鶴字適競 家共字適 影壇督渓住濡左
+SSCR.BIN	SYS01009	0x5CA5E	8번째줄	25칸>19칸	湿賭摘挟郷 L稔三緯左融散挟郷
+SSCR.BIN	SYS01010	0x5CB96	0번째줄	25칸>19칸	鳴港 字適庭 家共字適競 家共字適 影壇督阿天沢羅
+SSCR.BIN	SYS01011	0x5CCD0	0번째줄	28칸>19칸	弐鶴 逢厨 字適庭 医鶴字適競 家共字適 影壇督渓住濡左
+SSCR.BIN	SYS01012	0x5CE0A	8번째줄	25칸>19칸	湿賭摘挟郷 L稔三緯左融散挟郷
+SSCR.BIN	SYS01014	0x5D04F	7번째줄	33칸>19칸	径樹態付挟郷 探国峰須適君 粟蘇挟郷
+SSCR.BIN	SYS01015	0x5D16F	7번째줄	28칸>19칸	径樹態付挟郷 探国峰須適君 粟蘇挟郷
+SSCR.BIN	SYS01017	0x5D394	7번째줄	33칸>19칸	径樹態付挟郷 探国峰須適君 粟蘇挟郷
+SSCR.BIN	SYS01018	0x5D4B4	7번째줄	28칸>19칸	径樹態付挟郷 探国峰須適君 粟蘇挟郷
+SSCR.BIN	SYS01123	0x5E8B5	0번째줄	16칸>15칸	畔双替医
+SSCR.BIN	SYS01133	0x5EA11	0번째줄	16칸>15칸	倫畔柴儒刃素
+SSCR.BIN	SYS01198	0x5F2A9	0번째줄	16칸>15칸	怒飼途刃州茂
+SSCR.BIN	SYS01244	0x5F91B	0번째줄	16칸>15칸	扉涙奏庭滅迫
+SSCR.BIN	SYS01248	0x5F9A3	0번째줄	23칸>15칸	洲需洲督庭 滅迫
+SSCR.BIN	SYS01262	0x5FB69	0번째줄	20칸>15칸	洲需洲督滅迫
+SSCR.BIN	SYS01420	0x60D89	0번째줄	16칸>15칸	驚馴陵錦灯適
+SSCR.BIN	SYS01438	0x60FCD	0번째줄	17칸>15칸	持礎忘 翼暢礎庭 灯適
+SSCR.BIN	SYS01464	0x61307	0번째줄	16칸>15칸	量店灯適
+SSCR.BIN	SYS01758	0x635F3	0번째줄	17칸>15칸	滞道庭和道
+SSCR.BIN	SYS01768	0x637C5	0번째줄	17칸>15칸	塾亭 交馴酸 阿汗 書世南郷
+SSCR.BIN	SYS01771	0x63802	0번째줄	20칸>15칸	途州 3州吏 傾僧 越宇
+SSCR.BIN	SYS01782	0x638DB	0번째줄	20칸>15칸	賭庭 湿荷察 魅右危 元阿敵郷
+SSCR.BIN	SYS01783	0x638FC	0번째줄	17칸>15칸	越宇算郷 越宇込 悪隻
+SSCR.BIN	SYS01784	0x63917	0번째줄	19칸>15칸	頼怒亭 書扇貫阿汗湿荷阿書世南郷
+SSCR.BIN	SYS01786	0x63953	0번째줄	17칸>15칸	柴席庭 持礎忘察 越宇 阿境
+SSCR.BIN	SYS01787	0x63970	0번째줄	19칸>15칸	偶取馴察道飼 HP阿湯歌涙旬恵郷
+SSCR.BIN	SYS01788	0x63991	0번째줄	16칸>15칸	滞書世馴英 塾 交荷
+SSCR.BIN	SYS01789	0x639AA	0번째줄	18칸>15칸	血航詠 法摘 賭探印 包偶取馴
+SSCR.BIN	SYS01790	0x639C9	0번째줄	16칸>15칸	輸砲 法摘探 怜円賭
+SSCR.BIN	SYS01791	0x639E2	0번째줄	16칸>15칸	滞書世馴英 頼怒 書扇荷
+SSCR.BIN	SYS01793	0x63A17	0번째줄	17칸>15칸	道熟 8州吏庭 賭亭 越宇阿境
+SSCR.BIN	SYS01794	0x63A34	0번째줄	19칸>15칸	3布 古辰南 賭画馴 越宇阿境
+SSCR.BIN	SYS01799	0x63ABB	0번째줄	17칸>15칸	陳荷探 時三飼 鳴調谷
+SSCR.BIN	SYS01800	0x63AD6	0번째줄	17칸>15칸	影席 露渓笹飼 祠程 稚刷郷
+SSCR.BIN	SYS01804	0x63B32	0번째줄	20칸>15칸	HP 阿訣 肇飼 女革亭関山郷
+SSCR.BIN	SYS01805	0x63B51	0번째줄	16칸>15칸	越宇翼飼 態道湯歌 ＨＰ 涙旬
+SSCR.BIN	SYS01810	0x63BC0	0번째줄	22칸>15칸	遜鴻好三飼 雲裏貧察湯歌銀樹停
+SSCR.BIN	SYS01811	0x63BE5	0번째줄	18칸>15칸	遜鴻好三飼 雲裏貧察銀斬程樹停
+SSCR.BIN	SYS01812	0x63C06	0번째줄	17칸>15칸	程域酸吊左競 態湿 諦 狸停
+SSCR.BIN	SYS01816	0x63C62	0번째줄	21칸>15칸	遜鴻嶋君 滞 刃洪軟(1涙)
+SSCR.BIN	SYS01819	0x63CA7	0번째줄	23칸>15칸	塾 席君 越宇 句馴飼 超緯三
+SSCR.BIN	SYS01824	0x63D22	0번째줄	18칸>15칸	遥酪察樹亭元算郷州辰込程匿辰月郷
+SSCR.BIN	SYS01831	0x63DAF	0번째줄	16칸>15칸	関態致 態程防亭 遥羅郷
+SSCR.BIN	SYS01832	0x63DCA	0번째줄	17칸>15칸	関態致 態程防亭 魅右企郷
+SSCR.BIN	SYS01836	0x63E18	0번째줄	18칸>15칸	越宇亭 樹吊飼 荷砲亭 竪競郷
+SSCR.BIN	SYS01837	0x63E37	0번째줄	20칸>15칸	偶取馴察 樹吊飼雲裏貧察竪競郷
+SSCR.BIN	SYS01838	0x63E5A	0번째줄	20칸>15칸	誹錦 諭酸君 1程 径貫拾滞英要
+SSCR.BIN	SYS01839	0x63E7B	0번째줄	16칸>15칸	茸惜 倹飼 越宇込君 協
+SSCR.BIN	SYS01840	0x63E95	0번째줄	16칸>15칸	傾済阿 共辰貫飼 鳴調谷
+SSCR.BIN	SYS01841	0x63EB0	0번째줄	18칸>15칸	湿緯調世 滞 狩狛陥
+SSCR.BIN	SYS01845	0x63F14	0번째줄	16칸>15칸	馴科怒成
+SSCR.BIN	SYS01847	0x63F3A	0번째줄	23칸>15칸	越宇亭 樹吊飼 拾阿湯歌書刷郷
+SSCR.BIN	SYS01849	0x63F72	0번째줄	20칸>15칸	越宇亭樹吊飼態道湯歌 HP 涙旬
+SSCR.BIN	SYS01850	0x63F93	0번째줄	16칸>15칸	越宇亭 樹吊飼湯歌 ＨＰ 涙旬
+SSCR.BIN	SYS01853	0x63FD4	0번째줄	16칸>15칸	越宇亭 樹吊飼 国重 郷潮
+SSCR.BIN	SYS01854	0x63FEF	0번째줄	17칸>15칸	越宇亭 樹吊飼 雲裏貧察竪競郷
+SSCR.BIN	SYS01855	0x6400E	0번째줄	21칸>15칸	越宇樹吊飼 雲裏貧察銀斬程樹競郷
+SSCR.BIN	SYS01857	0x6404A	0번째줄	18칸>15칸	越宇酪致 賭 怒釆察 滞郷
+SSCR.BIN	SYS01858	0x64067	0번째줄	21칸>15칸	遜鴻嶋君 滞 刃洪軟(1涙)
+SSCR.BIN	SYS01860	0x64091	0번째줄	16칸>15칸	適双程 道旨宗吊左 撤 熟羅郷
+SSCR.BIN	SYS01895	0x64F7D	0번째줄	16칸>15칸	ＨＰ 涙左
+SSCR.BIN	SYS01917	0x65109	0번째줄	16칸>15칸	涙奏 諦宇程 撤 貫馳
+SSCR.BIN	SYS01922	0x65178	0번째줄	20칸>15칸	賭庭 縄土 越宇亭撤涙遥翼印恵郷
+SSCR.BIN	SYS01923	0x6519B	0번째줄	17칸>15칸	女革 偶取馴察 匿艇郷
+SSCR.BIN	SYS01926	0x651E6	0번째줄	16칸>15칸	関態致 態程防亭 遥羅郷
+SSCR.BIN	SYS01928	0x65210	0번째줄	17칸>15칸	関態致 態程防亭 魅右企郷
+SSCR.BIN	SYS01930	0x6524D	0번째줄	16칸>15칸	樹鶴 偶取馴阿 雲裏貧阿 恵郷
+SSCR.BIN	SYS01989	0x65FC6	2번째줄	16칸>15칸	房探 覧傾酪致郷.
+SSCR.BIN	SYS02010	0x662CB	1번째줄	17칸>15칸	家錦左 須錦探印 径樹態敏郷.
+SSCR.BIN	SYS02058	0x66839	4번째줄	22칸>15칸	男料亭 障逮菓郷.
+SSCR.BIN	SYS02067	0x66938	4번째줄	23칸>15칸	治 歴敏郷
+SSCR.BIN	SYS02070	0x669CD	5번째줄	17칸>15칸	苔吊飼 需傾裸 扇 狸郷.
+SSCR.BIN	SYS02088	0x66C0C	1번째줄	19칸>15칸	陳察 遺亭 扇 敵印 恵郷.
+SSCR.BIN	SYS02112	0x66E9E	1번째줄	22칸>15칸	適団 悪隻 須豊察 貧済羅郷.
+SSCR.BIN	SYS02409	0x69A5A	4번째줄	23칸>20칸	苔競郷英 羅郷.
+SSCR.BIN	SYS02452	0x6AC75	3번째줄	25칸>20칸	匿辰血競 席君競 2拾阿 恵郷.
+SSCR.BIN	SYS02504	0x6BBE9	2번째줄	26칸>20칸	2房程 遺狛集三挟 道庭阿 抑帳.
+SSCR.BIN	SYS02526	0x6C4C8	5번째줄	24칸>20칸	閥態純君 鉄扉寿探 需雨径馴 苔競郷.
+SSCR.BIN	SYS02645	0x6ECBC	2번째줄	24칸>20칸	棄競 雲暢競 棄競 酸報程 集狛南郷.
+SSCR.BIN	SYS02646	0x6ED21	2번째줄	21칸>20칸	曲吊飼 算従砲庭 陳込程 稚刷郷.
+SSCR.BIN	SYS02664	0x6F216	4번째줄	22칸>20칸	犯停 気鶴 態程防探 枠扇恵郷.
+SSCR.BIN	SYS02670	0x6F536	6번째줄	25칸>20칸	堅 誕鴻 阿馴察 裸 扇 敵郷.
+SSCR.BIN	SYS02685	0x6FACA	5번째줄	25칸>20칸	須翼討暢 4州吏吊左酸 却亭 扇 敵郷.
+SSCR.BIN	SYS02686	0x6FBA0	5번째줄	25칸>20칸	須翼討暢 4州吏吊左酸 却亭 扇 敵郷.
+SSCR.BIN	SYS02687	0x6FC76	5번째줄	25칸>20칸	須翼討暢 4州吏吊左酸 却亭 扇 敵郷.
+SSCR.BIN	SYS02688	0x6FD4C	5번째줄	25칸>20칸	須翼討暢 4州吏吊左酸 却亭 扇 敵郷.
+SSCR.BIN	SYS02689	0x6FE22	5번째줄	25칸>20칸	須翼討暢 4州吏吊左酸 却亭 扇 敵郷.
+SSCR.BIN	SYS02698	0x70125	3번째줄	28칸>20칸	狸吊飼 態湿 諦君 滞 諦辰間郷.
+SSCR.BIN	SYS02701	0x70267	2번째줄	25칸>20칸	適双程 遺三飼 祠程 1 顔狛愛郷.
+SSCR.BIN	SYS02712	0x70872	1번째줄	28칸>20칸	持礎忘阿 助欺 須豊阿 恵郷.
+SSCR.BIN	SYS02713	0x708BE	5번째줄	22칸>20칸	扇 敵郷.
+SSCR.BIN	SYS02843	0x7276C	0번째줄	21칸>20칸	受鏡探 却英 遜競 柴衣艇 剣翼郷
+SSCR.BIN	SYS02864	0x729B7	0번째줄	22칸>20칸	態程防亭 殴助裸 扇 敵印 径丹郷!
+SSCR.BIN	SYS02866	0x729FB	0번째줄	24칸>20칸	柱馴 拾阿 英鳴楠 域 粟馴苔印径丹郷!
+SSCR.BIN	SYS02881	0x72CE4	0번째줄	22칸>20칸	荷砲 程酎庭 域鶴 気亭 扇 狸郷.
+SSCR.BIN	SYS02884	0x74226	0번째줄	20칸>17칸	州探 敵句 頼怒程 刃洪桃郷!
+SSCR.BIN	SYS02886	0x74555	0번째줄	19칸>17칸	句途程 囚態桃郷!
+SSCR.BIN	SYS02888	0x74D5B	0번째줄	20칸>17칸	%s競 需程 京狛嶋集恨郷!
+SSCR.BIN	SYS02889	0x74E14	0번째줄	18칸>17칸	%s庭 釆込程 障逮右愛郷.
+SSCR.BIN	SYS02890	0x74E8D	0번째줄	23칸>17칸	%s競 摘亭 太扇狸印径辰集恨郷!
+SSCR.BIN	SYS02891	0x75039	0번째줄	19칸>17칸	字渓 頼崖 祠危 荷助程 径丹郷!
+SSCR.BIN	SYS02893	0x751DC	0번째줄	20칸>17칸	翼馴酸 道実程 賭琉 敵馴苔隊郷.
+SSCR.BIN	SYS02894	0x75225	0번째줄	18칸>17칸	果適阿 住嶋世 途刃裸 扇狸丹郷.
+SSCR.BIN	SYS02898	0x7544A	0번째줄	19칸>17칸	迭僧 柴衣程 滞 関態愛郷!
+SSCR.BIN	SYS02899	0x7577B	0번째줄	19칸>17칸	態道 妙妙酪桃郷!
+SSCR.BIN	SYS02908	0x76353	0번째줄	21칸>17칸	阿馴英 敵句態程防庭登道阿融恨郷!!
+SSCR.BIN	SYS02919	0x769AB	0번째줄	19칸>17칸	字月 態程防程 創出径丹郷!
+SSCR.BIN	SYS02927	0x7719A	0번째줄	23칸>17칸	君歌裸 扇 狸丹郷.
+SSCR.BIN	SYS02929	0x771F8	0번째줄	19칸>17칸	%s競 \r貫凄与算庭 州茂阿形郷!
+SSCR.BIN	SYS02933	0x773A3	0번째줄	18칸>17칸	受鏡探 凝洪勝辰 道町 扇 狸郷.
+SSCR.BIN	SYS02941	0x77CD9	0번째줄	19칸>17칸	銀 程須 国重鶴 顔狛阿馴苔競郷.
+SSCR.BIN	SYS02943	0x7825E	0번째줄	18칸>17칸	%s 誹錦諭酸君阿 %d％ 共丹郷
+SSCR.BIN	SYS02949	0x789BF	0번째줄	18칸>17칸	翼馴酸 %s競 迭倹馴 苔隊郷!
+SSCR.BIN	SYS02951	0x78D58	0번째줄	23칸>17칸	%s競 融円 舵逮程撤件印径丹郷!
+SSCR.BIN	SYS02952	0x78D8C	0번째줄	19칸>17칸	融円 舵逮程 撤 件印 径丹郷!
+SSCR.BIN	SYS02957	0x7BD1D	0번째줄	18칸>17칸	a<0C>怜円競 態縄 %sIE_PACK
+SSCR.BIN	SYS02977	0x7DD4A	0번째줄	32칸>17칸	a<0C>Item::%s\chrGetSeeInvisible競狸組郷
+SSCR.BIN	SYS02978	0x7E288	0번째줄	18칸>17칸	%s庭 HP阿 %d 涙旬蘭郷.
+SSCR.BIN	SYS02979	0x7E2EA	0번째줄	20칸>17칸	誹錦 HP阿 %d諭艇稔共辰含郷.
+SSCR.BIN	SYS02983	0x7E50E	0번째줄	22칸>17칸	%d諭艇稔庭 偶取馴察 道丹郷.
+SSCR.BIN	SYS03000	0x7FCA9	0번째줄	22칸>17칸	%s庭 祠程 %d諭艇稔古辰桃郷.
+SSCR.BIN	SYS03017	0x8138F	0번째줄	18칸>17칸	驚馴 滞探 驚馴競 気亭 扇狸郷.
+SSCR.BIN	SYS03018	0x813D3	0번째줄	21칸>17칸	驚馴 滞探 探国峰須適競気亭扇狸郷.
+SSCR.BIN	SYS03022	0x81AA9	0번째줄	25칸>17칸	驚馴 席程 阿訣肇敵辰世止波蘭郷.
+SSCR.BIN	SYS03023	0x81B56	0번째줄	23칸>17칸	湿荷阿 遺狛世 裳狛倹馴 苔隊郷!
+SSCR.BIN	SYS03024	0x81BE0	0번째줄	21칸>17칸	州茂阿 遺狛世 裳狛倹馴 苔隊郷!
+SSCR.BIN	SYS03025	0x81C2F	0번째줄	22칸>17칸	程劫! 惜亭 丞扇狸印径辰集恨郷!
+SSCR.BIN	SYS03026	0x81CCE	0번째줄	21칸>17칸	惜程 裳狛倹 条蘭馴酸
+SSCR.BIN	SYS03032	0x82001	0번째줄	19칸>17칸	%s競 琵琵酪嶋世 刺阿嶋集恨郷.
+SSCR.BIN	SYS03041	0x826A0	0번째줄	26칸>17칸	HP阿 都授 程須 涙旬 滞径飼熟双女阿
+SSCR.BIN	SYS03042	0x826F5	0번째줄	24칸>17칸	燈店阿 盾艇径辰 敵辰 熟双 女阿
+SSCR.BIN	SYS03050	0x82C9B	0번째줄	18칸>17칸	登道樹態 天肌 女阿!
+SSCR.BIN	SYS03065	0x85886	0번째줄	24칸>17칸	翼馴酸 登道 萌探 態湿諦君狸丹郷
+SSCR.BIN	SYS03071	0x85FFD	0번째줄	8칸>7칸	貫浩 摘殴
+SSCR.BIN	SYS03074	0x86038	0번째줄	9칸>7칸	辰権阿 影驚
+SSCR.BIN	SYS03081	0x860D5	0번째줄	9칸>7칸	愚
+SSCR.BIN	SYS03082	0x860EC	0번째줄	8칸>7칸	諦州凡覧 頼怒
+SSCR.BIN	SYS03083	0x86107	0번째줄	8칸>7칸	諦州凡覧 頼怒
+SSCR.BIN	SYS03084	0x86122	0번째줄	8칸>7칸	諦州凡覧 頼怒
+SSCR.BIN	SYS03085	0x8613D	0번째줄	8칸>7칸	諦州凡覧 頼怒
+SSCR.BIN	SYS03086	0x86158	0번째줄	8칸>7칸	諦州凡覧 頼怒
+SSCR.BIN	SYS03087	0x86173	0번째줄	10칸>7칸	見汗見汗 誤誤
+SSCR.BIN	SYS03089	0x861A3	0번째줄	10칸>7칸	持礎忘庭 頼怒
+SSCR.BIN	SYS03104	0x862FA	0번째줄	8칸>7칸	天消酪党 頼怒
+SSCR.BIN	SYS03110	0x8638C	0번째줄	9칸>7칸	縮浩庭 頼怒
+SSCR.BIN	SYS03120	0x88238	0번째줄	21칸>17칸	a<P>持礎忘阿 径辰集恨郷!
+SSCR.BIN	SYS03125	0x88E1E	0번째줄	21칸>17칸	天消阿 途書 笑嶋集恨郷!
+SSCR.BIN	SYS03128	0x89C3D	0번째줄	19칸>17칸	書創径辰 沢酪嶋集恨郷!
+SSCR.BIN	SYS03130	0x89CC0	0번째줄	23칸>17칸	君歌程 径辰 敵辰世 止波蘭郷!
+SSCR.BIN	SYS03138	0x8A5BD	0번째줄	19칸>17칸	a<P>論柴論柴酪嶋集恨郷!
+SSCR.BIN	SYS03154	0x8C68E	0번째줄	22칸>20칸	%s「悪刃雷挟郷.
+SSCR.BIN	SYS03158	0x8C767	0번째줄	22칸>20칸	%s「悪刃雷挟郷.
+SSCR.BIN	SYS03160	0x8C7EC	0번째줄	21칸>20칸	態程防鶴 %d荷砲摘挟郷.
+SSCR.BIN	SYS03161	0x8C857	0번째줄	21칸>20칸	%s「%d荷砲程飼 辰古画帳?
+SSCR.BIN	SYS03163	0x8C8BB	0번째줄	21칸>20칸	%s「惜狂 訓程 書灯酪帳!
+SSCR.BIN	SYS03164	0x8C8E1	0번째줄	22칸>20칸	%s「悪刃雷挟郷.
+SSCR.BIN	SYS03264	0x914DF	0번째줄	22칸>20칸	肢字三 富血庭 誕掴 挑高程書灯雷挟郷.  <01><02>
+SSCR.BIN	SYS03266	0x9153E	0번째줄	21칸>20칸	誹隻<01><0B>%d<01><02>昭差庭 誕掴 挑高程抑帳雷挟郷.
+SSCR.BIN	SYS03312	0x93519	0번째줄	21칸>20칸	刃挑裸 肢字三 富血察 凄邦酪 道整帳
+SSCR.BIN	SYS03321	0x9378B	0번째줄	22칸>20칸	肢字三 富血察 団渦酪 道整帳.
+SSCR.BIN	SYS03408	0x99291	0번째줄	26칸>20칸	郷停淡 牝郷左 豊辰貫英 惣郷.
+SSCR.BIN	SYS03410	0x99326	0번째줄	22칸>20칸	%d「%s 見陳 読図看 粟態.
+SSCR.BIN	SYS03412	0x99387	0번째줄	29칸>20칸	%s「%s競 牝郷犯合 扱蘭辰.
+SSCR.BIN	SYS03413	0x993D4	0번째줄	22칸>20칸	%s「寮僧 課亭 釘鶴 緯拓?
+SSCR.BIN	SGL099696	0x99696	0번째줄	7칸>6칸	%s「%s
+SSCR.BIN	SYS03427	0x996A5	0번째줄	21칸>20칸	遜鴻好恨郷♪貫君 程党 羅慈翼貫?
+SSCR.BIN	SYS03431	0x9976F	0번째줄	23칸>20칸	祠顔帳 %s 舵!
+SSCR.BIN	SYS03433	0x997B1	0번째줄	22칸>20칸	授血僧 家 遠柴革亭遜鴻好惨肪挟画……。
+SSCR.BIN	SYS03439	0x99918	0번째줄	21칸>20칸	……泣翁阿探印 次亭 障逮運蘇挟郷.
+SSCR.BIN	SYS03448	0x99A81	0번째줄	22칸>20칸	暢三 墳阿作探 遺三飼 渓狛町 域狸郷!
+SSCR.BIN	SYS03457	0x99BDA	0번째줄	22칸>20칸	成阿双 持礎忘阿 斬翁帳.
+SSCR.BIN	SYS03470	0x99E60	0번째줄	23칸>20칸	貫君 掛 翼競殴貫～。
+SSCR.BIN	SYS03472	0x99ECA	0번째줄	26칸>20칸	机湿 京火翼郷競 暫亭 件競偶
+SSCR.BIN	SYS03473	0x99F05	0번째줄	23칸>20칸	家, 家告馴 苔郷殴～。
+SSCR.BIN	SYS03476	0x99F7E	0번째줄	21칸>20칸	%s「賭君 粟鶴 持礎忘馴酸～
+SSCR.BIN	SYS03477	0x99FA3	0번째줄	21칸>20칸	顔集狛渓飼 僧洪富取 強程 陳裏翼郷殴～
+SSCR.BIN	SYS03483	0x9A0E0	0번째줄	21칸>20칸	停, 祠程 滞 貫貫 循郷～
+SSCR.BIN	SYS03491	0x9A2DA	0번째줄	23칸>20칸	掛 祠血汽帳.
+SSCR.BIN	SYS03493	0x9A324	0번째줄	22칸>20칸	態道 呪甚亭 顔血三洞!
+SSCR.BIN	SYS03497	0x9A3C7	0번째줄	23칸>20칸	党 賭扇阿 治 径洞.
+SSCR.BIN	SYS03499	0x9A3FE	0번째줄	21칸>20칸	惜監 翼貫 治 錦印 蘭郷殴帳.
+SSCR.BIN	SYS03501	0x9A466	0번째줄	24칸>20칸	辿刷 霊謙 酪貧調集散僧郷!
+SSCR.BIN	SYS03516	0x9A8FE	0번째줄	24칸>20칸	紛鳴「態礎富＠ 党錦左 翼適.
+SSCR.BIN	SYS03517	0x9A93C	1번째줄	23칸>20칸	与航艇程港 域倹 程須羅 軌瀬程 斬汽.
+SSCR.BIN	SYS03521	0x9AAA2	1번째줄	28칸>20칸	掛 辰狛 循程競偶 暫程拓.
+SSCR.BIN	SYS03524	0x9ABCB	1번째줄	24칸>20칸	貫競 登劫 棚算阿 藤銀洪.
+SSCR.BIN	SYS03526	0x9ACB6	1번째줄	21칸>20칸	貫 読阿 態挟洪挟画!
+SSCR.BIN	SYS03530	0x9AE3A	0번째줄	25칸>20칸	紛鳴「三受 琵党 店趣丹馴.
+SSCR.BIN	SYS03532	0x9AEE1	0번째줄	21칸>20칸	紛鳴「汽湿三港 軌瀬 南肉店扇狸郷挟画~
+SSCR.BIN	SYS03536	0x9B008	1번째줄	23칸>20칸	登劫 持礎忘 楯 賭程 狸辰.
+SSCR.BIN	SYS03541	0x9B1BE	2번째줄	21칸>20칸	遺 緯倹辰道英 敵郷殴.
+SSCR.BIN	SYS03542	0x9B224	1번째줄	25칸>20칸	扇難翼競 与航艇程 斬郷殴.
+SSCR.BIN	SYS03543	0x9B270	2번째줄	25칸>20칸	誕鴻字左 君逐道馴.
+SSCR.BIN	SYS03545	0x9B2F5	0번째줄	22칸>20칸	机君 探国峰須適 扇難亭
+SSCR.BIN	SYS03586	0x9BBAD	0번째줄	21칸>20칸	員 舵「汽 南壇 伏程礎探競
+SSCR.BIN	SYS03588	0x9BC27	0번째줄	24칸>20칸	員 舵「阿馴英 貫逢 印 狸競 緯殴枝.
+SSCR.BIN	SYS03603	0x9BFC6	1번째줄	22칸>20칸	南壇天探 気辰道陰隻.
+SSCR.BIN	SYS03606	0x9C09A	2번째줄	24칸>20칸	家督 翼貫酸 堅差裸 扇 敵隻.
+SSCR.BIN	SYS03607	0x9C104	2번째줄	25칸>20칸	阿算詠庭 須適競 堅差裸 扇 狸隻.
+SSCR.BIN	SYS03609	0x9C1E1	1번째줄	23칸>20칸	羅影阿 敵吊挟画. 程酪酪 道僧稚.
+SSCR.BIN	SYS03632	0x9C609	0번째줄	21칸>20칸	下領庭 灯適察 邸英 群態宙郷
+SSCR.BIN	SGL09DB18	0x9DB18	0번째줄	13칸>6칸	%2d扉
+SSCR.BIN	SYS03695	0x9E6C3	1번째줄	28칸>20칸	1000似探印 私南 須夕亭 凄柴！
+SSCR.BIN	SYS03753	0x9F5D4	0번째줄	28칸>20칸	葉国程僧愛　:0x%08X(%d:%02d:%02d)
+SSCR.BIN	SYS03838	0xA4115	0번째줄	22칸>20칸	登道樹態世 邸亭 扇 狸郷！
+SSCR.BIN	SYS03896	0xA612A	0번째줄	22칸>20칸	登道樹態世 算喪 扇 狸郷！
+SSCR.BIN	SYS03897	0xA615B	0번째줄	24칸>20칸	登道樹態世 旨亭 扇 狸郷！
+SSCR.BIN	SYS03898	0xA6184	0번째줄	21칸>20칸	登道樹態世 刃挑裸 扇 狸郷！
+SSCR.BIN	SYS03903	0xA6C70	0번째줄	22칸>20칸	態程防鶴 天肌径馴 苔隊郷.
+SSCR.BIN	SYS03913	0xA73C2	0번째줄	21칸>20칸	隻馴夕程 阿訣 肇世 界危 扇 狸郷.
+SSCR.BIN	SYS03946	0xA948F	0번째줄	26칸>20칸	登道樹態世 図課 扇 狸郷！
+SSCR.BIN	SYS03948	0xA9575	0번째줄	24칸>20칸	惜程 驚馴探 看辰世 傷亭 倹 扇狸郷!
+SSCR.BIN	SYS03961	0xAC0AC	0번째줄	21칸>20칸	阿馴英 敵句 態程防庭 登道阿融恨郷!!
+SSCR.BIN	SYS04016	0xAF764	0번째줄	24칸>20칸	訓程 書灯翼徹態帳.
+SSCR.BIN	SYS04036	0xAFA19	0번째줄	22칸>20칸	度超「悪刃雷挟郷.
+SSCR.BIN	SYS04058	0xAFE36	0번째줄	22칸>20칸	DEBUG左 銀 匿画帳？
+SSCR.BIN	SYS04082	0xB0237	0번째줄	21칸>20칸	[ %s ] 庭 Stage %d挟洪!
+SSCR.BIN	SYS04087	0xB0336	0번째줄	30칸>20칸	HOUSE::whGetNetworkMode::消殴湯須豊
+SSCR.BIN	SYS04088	0xB0366	0번째줄	37칸>20칸	HOUSE::whGetNetworkMode::影怒炊成須豊
+SSCR.BIN	SYS04089	0xB039E	0번째줄	31칸>20칸	HOUSE::whGetNetworkMode::殴湯双範須豊
+SSCR.BIN	SYS04090	0xB03D0	0번째줄	31칸>20칸	HOUSE::whGetNetworkMode::殴湯錦荷須豊
+SSCR.BIN	SYS04091	0xB0402	0번째줄	31칸>20칸	HOUSE::whGetNetworkMode::殴湯繁涙須豊
+SSCR.BIN	SYS04092	0xB0434	0번째줄	29칸>20칸	HOUSE::whGetNetworkMode::殴湯須豊
+SSCR.BIN	SYS04093	0xB0462	0번째줄	31칸>20칸	HOUSE::whGetNetworkMode::殴湯窒済須豊
+SSCR.BIN	SYS04129	0xB0DB0	0번째줄	22칸>20칸	鶴覧超「桐双 訓 狸吊双偶帳
+SSCR.BIN	SYS04131	0xB0E1E	0번째줄	22칸>20칸	銀競 治 史右血狛帳
+SSCR.BIN	SYS04133	0xB0E8C	0번째줄	24칸>20칸	馴歌 %d荷砲 史態警辰帳。
+SSCR.BIN	SYS04136	0xB0F5F	0번째줄	24칸>20칸	%d荷砲寿探 歌英探 滞 倹辰圧辰帳。
+SSCR.BIN	SYS04139	0xB1030	0번째줄	22칸>20칸	鶴覧超「桐双 訓 滞 史荷請競偶帳。
+SSCR.BIN	SYS04143	0xB110B	0번째줄	24칸>20칸	馴歌 %d荷砲 史態警辰帳。
+SSCR.BIN	SYS04154	0xB13F6	1번째줄	27칸>20칸	灯適貫 盾吊左 越降羅郷。
+SSCR.BIN	SYS04172	0xB1A89	0번째줄	21칸>20칸	%d諭艇稔庭 偶取馴察 摘慮郷。
+SSCR.BIN	SYS04186	0xB1D3A	0번째줄	24칸>20칸	国重円 HP阿 1程 径英 暫隊郷!
+SSCR.BIN	SYS04201	0xB2025	0번째줄	26칸>20칸	盾艇契 敵辰 脈荷競 治 多郷!
+SSCR.BIN	SYS04349	0xB573E	2번째줄	26칸>20칸	女阿刃庭 句途程港 印……。
+SSCR.BIN	SYS04350	0xB57AE	0번째줄	21칸>20칸	与航艇「間 熟量 驚馴阿 藤態……。
+SSCR.BIN	SYS04352	0xB5833	2번째줄	22칸>20칸	暇偶 貫臣 態程防諦 扇君 敵郷。
+SSCR.BIN	SYS04356	0xB599C	2번째줄	25칸>20칸	戎右峠郷挟画。
+SSCR.BIN	SYS04361	0xB5B41	0번째줄	24칸>20칸	……斜 貫拓 治 翼馴酸。
+SSCR.BIN	SYS04363	0xB5BD6	1번째줄	23칸>20칸	畔歌 阿貧阿 敵郷英 泣阿 家鴻句偶
+SSCR.BIN	SYS04369	0xB5DBF	1번째줄	34칸>20칸	程告印 泉八 群態拓 酪。
+SSCR.BIN	SYS04374	0xB5F4C	2번째줄	28칸>20칸	湿奏墳 馴塞察 収隊馴 斜拓。
+SSCR.BIN	SYS04375	0xB5FB7	2번째줄	29칸>20칸	愛双掟 量察 飼蘭馴。
+SSCR.BIN	SYS04404	0xB6853	2번째줄	32칸>20칸	阿訣羅 域 粟郷~. 態禅郷~。
+SSCR.BIN	SYS04432	0xB7114	2번째줄	26칸>20칸	誕荷画馴 致 域程郷~。
+SSCR.BIN	SYS04436	0xB723E	2번째줄	29칸>20칸	裸 扇 狸程 偶狛致 域程郷~。
+SSCR.BIN	SYS04439	0xB7337	2번째줄	22칸>20칸	辰迫 馴顔競馴……。
+SSCR.BIN	SYS04441	0xB73F1	1번째줄	22칸>20칸	登君 偶狛阿毒吊飼 翼競 域程郷~。
+SSCR.BIN	SYS04451	0xB7654	2번째줄	29칸>20칸	裸 扇 狸程 偶狛宙競偶帳。
+SSCR.BIN	SYS04454	0xB7765	2번째줄	30칸>20칸	態挟洪英帳. 登, 怒暫程洪挟画帳。
+SSCR.BIN	SYS04455	0xB77D1	1번째줄	21칸>20칸	登君 偶狛阿道整帳。
+SSCR.BIN	SYS04462	0xB79DD	1번째줄	22칸>20칸	探国峰須適 扇三・暗湯阿 抑帳羅阿?
+SSCR.BIN	SYS04474	0xB7CEB	0번째줄	25칸>20칸	家航世競 故 鳴豹察 樹亭 扇 狸郷.
+SSCR.BIN	SYS04495	0xB8CFE	2번째줄	25칸>20칸	女阿刃庭 句途程港 印……。
+SSCR.BIN	SYS04498	0xB8DF3	2번째줄	23칸>20칸	暇偶 貫臣 態程防諦 扇君 敵辰.
+SSCR.BIN	SYS04499	0xB8E56	2번째줄	22칸>20칸	机湿机湿 藤郷英!!
+SSCR.BIN	SYS04502	0xB8F5C	2번째줄	25칸>20칸	戎右道緯月.
+SSCR.BIN	SYS04507	0xB9101	0번째줄	24칸>20칸	……斜 貫君 治翼陰馴酸.
+SSCR.BIN	SYS04509	0xB9196	1번째줄	23칸>20칸	畔歌 阿貧阿 敵郷英 泣阿 家鴻句偶
+SSCR.BIN	SYS04515	0xB937F	1번째줄	30칸>20칸	程告印 泉八亭 群態拓 羅郷挟画.
+SSCR.BIN	SYS04520	0xB950C	2번째줄	28칸>20칸	介紹翼英 馴塞察 収態集恨馴 斜拓.
+SSCR.BIN	SYS04521	0xB9577	2번째줄	28칸>20칸	愛双掟 陳荷察 字飼蘭馴.
+SSCR.BIN	SYS04550	0xB9E13	2번째줄	30칸>20칸	傾済阿 阿訣艇 域 粟汽~. 態禅郷.
+SSCR.BIN	SYS04578	0xBA6D4	2번째줄	29칸>20칸	誕荷画馴 宙郷殴帳~。
+SSCR.BIN	SYS04582	0xBA7FE	2번째줄	26칸>20칸	辰膿 扇 狸程 偶狛逐 峠 緯洪殴~。
+SSCR.BIN	SYS04587	0xBA9B1	1번째줄	22칸>20칸	登君 偶狛阿 道請吊飼 藤陰競偶帳~。
+SSCR.BIN	SYS04597	0xBAC14	2번째줄	24칸>20칸	辰膿 扇 狸程 偶狛逐 毒競偶 暫程洞.
+SSCR.BIN	SYS04600	0xBAD25	2번째줄	29칸>20칸	態挟挟画帳. 登, 怒暫程洪殴帳.
+SSCR.BIN	SYS04601	0xBAD91	1번째줄	22칸>20칸	登君 等 偶狛阿 道整帳.
+SSCR.BIN	SYS04608	0xBAF9D	1번째줄	22칸>20칸	探国峰須適 扇三・暗湯阿 抑帳羅阿?
+SSCR.BIN	SYS04620	0xBB2AB	0번째줄	25칸>20칸	家航世競 故 鳴豹察 樹亭 扇 狸郷.
+SSCR.BIN	SGL0BE098	0xBE098	0번째줄	15칸>6칸	[%s]stg%d%d浜
+SSCR.BIN	SYS04668	0xBE15E	0번째줄	22칸>20칸	南覧 浜　　　    %6d  %5d
+SSCR.BIN	SYS04669	0xBE1AC	0번째줄	24칸>20칸	房 牧縫　    %6d  %5d
+SSCR.BIN	SYS04670	0xBE1EF	0번째줄	22칸>20칸	授摘 阿宇　　    %6d  %5d
+SSCR.BIN	SYS04692	0xC35DE	0번째줄	23칸>20칸	阿馴英 敵句 道旨宗程 法集恨郷!
+SSCR.BIN	SYS04798	0xC549C	0번째줄	21칸>20칸	滞 形停

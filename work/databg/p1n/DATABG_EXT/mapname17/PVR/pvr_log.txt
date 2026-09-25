@@ -1,0 +1,12 @@
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\p1n\DATABG_EXT\mapname17\PVR\mapname17A.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\p1n\DATABG_EXT\mapname17\PVR
+ENC PARAMS : -pal4 -1555 
+IMAGE SIZE : 256x256
+DATA CRC32 : CF20E31B
+---------------
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\p1n\DATABG_EXT\mapname17\PVR\mapname17B.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\p1n\DATABG_EXT\mapname17\PVR
+ENC PARAMS : -pal4 -1555 
+IMAGE SIZE : 256x256
+DATA CRC32 : 3F3EE200
+---------------

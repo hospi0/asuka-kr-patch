@@ -1,0 +1,1159 @@
+offset 0xA9F56 len 68126
+Z"e"
+j&d d!d"
+Z'e(e
+(Z)e)
+*e'd%
+n~e(e
+bZ)e)
+Z-e.e-
+e-d'
+Z'n.e
+Z"e"
+%d(d)
+Image)
+filedialog
+messageboxc
+_MEIPASS
+Exception
+path
+abspath
+join)
+relative_path
+base_path
+databg_rebuild.py
+resource_path
+d!d"
+d#d$
+d%d&
+pypvr
+1555
+4444
+yuv422
+bump
+yuv420
+8888
+p4bpp
+p8bpp)
+tw mm
+vq mm
+pal4z
+pal4 mm
+pal8z
+pal8 mm
+re mm
+st mm
+twre
+bmpz
+bmp mm
+svqz
+svq mmz
+twal mm)
+<listcomp>
+z!pypvr.twiddle.<locals>.<listcomp>c
+valr
+last_valrA
+init_tabler:
+range
+append
+extend)
+self
+index
+h_arr
+h_inc
+ratio
+cur_h_inc
+v_arrr
+twiddleo
+pypvr.twiddlec
+array
+concatenaterF
+pat2rP
+patrS
+pypvr.init_tablec
+pypvr.decodeNc
+Fz3"([^"]+\.pvr|[^"]+\.pvp)"|([^\s]+\.pvr|[^\s]+\.pvp)z
+-fmt\s+(\w+)z!-o\s+"?([^"\s]+(?:\s+[^"\s]+)*)"?z
+-flipz
+-silentz
+-log
+-dbgc
+z)pypvr.decode.__init__.<locals>.<listcomp>r
+Files: 
+Output Directory: z
+Format: 
+Flip: z
+Log: z
+Silent: z
+Debug: 
+.pvr
+.pvpz
+Checking PVR file: z
+, PVP file: z
+PVP exists: z
+, PVR exists: z
+/pvr_log.txtrK
+files_lst
+out_dir
+flip
+silent
+debug
+crc_value
+log_contentr*
+findall
+IGNORECASE
+search
+group
+stripr
+isabsr
+dirname
+exists
+makedirs
+print
+lower
+endswith
+bytearray
+load_pvp
+basename
+load_pvr
+open
+write)
+args_str
+file_pattern
+fmt_pattern
+out_dir_pattern
+flip_pattern
+silent_flag_pattern
+log_flag_pattern
+dbg_flag_pattern
+matches
+fmt_match
+out_dir_match
+flip_match
+cur_file
+full_pvr_path
+full_pvp_path
+pvp_exists
+pvr_exists
+apply_palette
+act_buffer
+__init__
+pypvr.decode.__init__c
+min)
+px_format
+color
+yuv0
+yuv1
+read_col;
+pypvr.decode.read_colc
+bytes)
+moder
+green
+blue
+alphar
+read_pal
+pypvr.decode.read_palc
+littler
+seekr:
+from_bytes
+readrF
+pixel_typer
+ttl_entries
+current_offset
+counterr
+read_pvp
+pypvr.decode.read_pvpc
+RGBr
+RGBAr 
+flipudr]
+reshape
+flatten
+tolist)
+datarK
+cmode
+pixels_lenr
+image_flip
+pypvr.decode.image_flipc
+tga)
+save_png
+save_bmp
+save_tgarp
+file_namer
+bitsrK
+paletter
+save_image
+pypvr.decode.save_imagec
+.tga
+zlib
+crc32
+upperrr
+tga_header
+pixel_data
+pixel
+tga_data
+tga_filer
+pypvr.decode.save_tgac
+PALr
+sublist
+itemr
+z)pypvr.decode.save_bmp.<locals>.<listcomp>
+RGB-PAL16c
+sublist_lengthr
+.bmpr
+file_headerr
+bpp_var
+palette_datar
+dib_header
+header
+sublists
+reversed_sublists
+bmp_data
+bmp_filer
+pypvr.decode.save_bmpc
+d d!
+)"Nr
+image_data
+returnc
+z>pypvr.decode.save_png.<locals>.encode_data.<locals>.<listcomp>)
+rowr
+encode_dataG
+z*pypvr.decode.save_png.<locals>.encode_data)
+chunk_typer
+checksumr
+calculate_checksumO
+z1pypvr.decode.save_png.<locals>.calculate_checksumc
+tuple)
+rgbr
+zGpypvr.decode.save_png.<locals>.palette_to_bytearray.<locals>.<listcomp>
+BBB)
+struct
+pack)
+byte_arrayr
+palette_to_bytearrayT
+z3pypvr.decode.save_png.<locals>.palette_to_bytearrayr
+z)pypvr.decode.save_png.<locals>.<listcomp>r
+image_bytesr
+levels
+.pngr
+IHDRs
+PLTEs
+IDATs
+IENDr?
+listr
+compressr
+Pixelr
+color_type
+bytearray_palette
+indexes
+png_array
+row_lenghtr
+compressed_data
+png_data
+ihdr_chunkr
+pypvr.decode.save_pngc
+ACTrh
+.ACTz
+w+bi
+act_dir
+file_pathrR
+act_filer
+write_act
+pypvr.decode.write_actc
+} }!
+}"}#}$}%}&}'|
+|"|#|$f
+|%|&|'f
+| |!f
+nZd"}
+}*d&d&d#
+}0|.
+|1|2d
+|1|2d
+|1|2d
+|1|2d
+qld(d
+d.d/
+d3d/
+|4|5f
+} }!|
+| |!f
+]z}2t
+]f}3t
+|4|5f
+} }!|
+| |!f
+)6N)
+pixelsr
+z+pypvr.decode.decode_pvr.<locals>.<listcomp>rc
+valuer
+RGB-PAL256)
+z6pypvr.decode.decode_pvr.<locals>.<listcomp>.<listcomp>)
+bump_to_rgbr;
+<genexpr>
+z*pypvr.decode.decode_pvr.<locals>.<genexpr>)
+tell
+yuv420_to_rgb)6rJ
+offsetr
+tex_formatr
+palette_entriesr
+new_pixels
+converted_data
+index1r
+codebook_size
+codebookr
+blockr
+pix_col
+yuv_codebookr
+pvr_dim
+mip_size
+size_adjust
+extra_mip
+mip_index
+mip_sum
+pixel_list
+bytes_to_read
+pixel_index
+image_arrayr
+decode_pvr
+pypvr.decode.decode_pvrc
+d"d#
+d$d%
+r d'n
+r4d(|
+rHd)n
+GBIXrB
+byteorderr$
+z!invalid or unsupported GBIX size:z
+GBIX found at:
+PVRTr5
+size:r=
+format:
+IMAGE FILE : rh
+TARGET DIR : z
+ENC PARAMS : 
+z(pypvr.decode.load_pvr.<locals>.<genexpr>
+ -flipz
+ -gi z
+ -gitrimz
+IMAGE SIZE : z
+DATA CRC32 : z
+---------------
+z# --> ERROR!  PVRT header not found!z
+ --> ERROR!  )!r
+px_modes
+tex_modesr
+BytesIOr
+getvalue
+findr
+splitrF
+normpathr
+PVR_filer
+f_buffer
+header_data
+gbix_offset
+gbix_size
+gbix_val1
+gbix_val2rD
+pypvr.decode.load_pvrc
+PVPLr5
+Invalid .PVP file!z
+PVP data error! )
+PVP_filer
+file_size
+PVP_checkr
+pypvr.decode.load_pvpc
+math
+cosr:
+SR_value
+pypvr.decode.bump_to_rgbc
+qTqF|
+dtyper5
+frombufferr
+uint8r
+z.pypvr.decode.yuv420_to_rgb.<locals>.<listcomp>r 
+rgb_datarK
+z-pypvr.decode.yuv420_to_rgb.<locals>.<genexpr>)
+zerosr
+kron
+ones
+clip
+astyperI
+u_offset
+v_offset
+r_factor
+g_u_factor
+g_v_factor
+b_factor
+mb_width
+mb_height
+mb_y
+mb_x
+u_block
+v_block
+y_blocks
+full_yr
+pypvr.decode.yuv420_to_rgb)
+NNNNN)
+__name__
+__module__
+__qualname__r
+decode
+d:d d!
+d"d#
+d$d%
+d&d'
+d(d)
+d*d+
+d,d-
+d;d.d/
+d<d1d2
+d3d4
+d=d5d6
+d>d7d8
+pypvr.encodeNc
+t&t"
+'d%|
+(d&d'
+q@t)
+*t+j,|
+t+j-d)
+j0d+d,
+rPt2d-
+t2d.
+t2d/
+t2d0
+sxt2d1
+t2d3
+t2d4
+r^t3
+r^d9
+rxt2d;
+t2d@
+t2dA
+dBdC
+r&t2dF
+t2dH
+rJdK
+t2dL
+rndM
+t2dN
+t2dO
+t2dP
+r>d=
+t2dN
+nNt2dF
+t2dP
+r|t3
+s|d8
+t2dP
+t2dS|
+t2dP
+t2dU
+t2dV
+r$t2dW
+t2dZ
+r\t2d]
+t2d^
+t2d_
+t2d`
+t2da
+t2db
+t2dc
+t2dd
+t2de
+t2df
+t2dg
+t2dh
+t2dj|
+)kNF)
+.gif
+.tif
+.jpg>
+twalz3([^\s]+(?:\s+[^\s]+)*\.(?:png|bmp|tga|gif|tif|jpg))r
+-o\s+([^\-]+(?:\s+[^\-]+)*)r
+z&-(\w+)(?:\s+([^\s-]+(?:\s+[^\s-]+)*))?r
+tex_mode
+gitrim
+pvpbank
+pvptrimrn
+rand
+clard
+z)Invalid or unsupported image file format.r-
+<IIIHHIIIIIIr
+BBBBc
+z)pypvr.encode.__init__.<locals>.<listcomp>rB
+maxcolorsz
+Can be square:z
+Can be rectangle:z
+Can be stride:z
+Can be YUV420:z`Invalid image size! Must be power of 2, multiple of 32 for stride, or multiple of 16 for yuv420!r5
+z?Invalid image size! Height or Width cannot be over 1024 pixels!z
+Error! Invalid combination: -rl
+, trying autor
+z*555 is for PCX converter only, using 1555!r
+z"Warning, placeholder pixel format!z!Invalid color format, using 1555!c
+z(pypvr.encode.__init__.<locals>.<genexpr>)
+Error: "-z
+" invalid color / type format!z%Cannot use VQ on non-square textures!r.
+z.SmallVQ image height cannot be > 64, using VQ!r
+z WARNING! Bitmap reserved format!z-Error! Bitmap reserved format must be square!z
+AUTO Mode: Using "-
+z$Image dimension Error: Can't Stride r=
+z7WARNING! Using stride format, bad performance, no mips!z
+WARNING! YUV420 mode!z
+mips:)
+ mmz,Can't use mipmaps on non-square textures! ( z
+Loading image: rf
+Texture Mode: z
+Pixel Mode: z
+GBIX: z
+GBTrim: z
+PVPBank: z
+PVPTrim: rg
+VQ Iteration: z
+VQ Random Seed: z
+Clean Alpha: )
+colors
+An error occurred: )9rq
+image_pathrl
+px_moder
+gbixr
+vq_iter
+vq_rseedr
+square_size
+rectangle_size
+stride_size
+yuv420_sizer*
+finditerr~
+ValueErrorr
+unpackr
+iter_unpackrG
+fromarrayr\
+sizer
+getcolors
+img_size_checkr}
+check_combination
+auto_format
+clean_alpha
+load_imager
+supported_images
+px_modes_args
+tex_modes_args
+image_pattern
+image_matchr
+arg_patternr
+last_mode
+match
+flagr/
+row_size
+pixel_arrayr
+image
+image_mode
+unique_colors
+valid_combor
+pypvr.encode.__init__c
+px_modes_list
+tex_modes_list
+matrix
+tex_index
+px_index
+resultr
+pypvr.encode.check_combinationc
+            Automatically determines the texture mode (tex_mode) and pixel mode (px_mode)
+            based on image properties such as image mode, unique colors, and size.
+            )
+z,No conversion available for this image size!Nz
+Auto Modez
+Source Image mode: z
+Number of unique colors: r
+getchannel
+getextrema
+getdatar
+min_alpha
+max_alpha
+alpha_valuesr
+pypvr.encode.auto_formatc
+is_powerof25
+z0pypvr.encode.img_size_check.<locals>.is_powerof2c
+width
+height
+is_square8
+z.pypvr.encode.img_size_check.<locals>.is_squarec
+is_rectangle;
+z1pypvr.encode.img_size_check.<locals>.is_rectanglec
+is_stride>
+z.pypvr.encode.img_size_check.<locals>.is_stridec
+is_yuv420B
+z.pypvr.encode.img_size_check.<locals>.is_yuv420T)
+pypvr.encode.img_size_checkc
+uint16
+rgb_to_rgb565O
+pypvr.encode.rgb_to_rgb565c
+rgb_to_rgb555U
+pypvr.encode.rgb_to_rgb555c
+rgbar
+rgba_to_rgba4444[
+pypvr.encode.rgba_to_rgba4444c
+rgba_to_rgba1555b
+pypvr.encode.rgba_to_rgba1555c
+?gU0*
+int32)
+rgb_to_yuv422i
+pypvr.encode.rgb_to_yuv422c
+uint32r
+rgba_to_rgba8888p
+pypvr.encode.rgba_to_rgba8888c
+arccos
+arctan2r
+rgb_to_srw
+pypvr.encode.rgb_to_src
+rgb_array
+num_channels
+px_size
+reshaped_rgb_arrayr
+yuv422_valuesr
+encode_yuv422
+pypvr.encode.encode_yuv422c
+giW!
+float32r
+emptyrF
+ravelr
+img_width
+img_heightr
+y_plane
+u_plane_full
+v_plane_full
+u_plane
+v_plane
+yuv_datarM
+y0_block
+y1_block
+y2_block
+y3_blockr
+encode_yuv420
+pypvr.encode.encode_yuv420c
+align
+new_value
+pad_lengthr
+align_data
+pypvr.encode.align_datac
+shaper
+linspace
+copyrF
+digitizer
+num_binsr
+channels
+flattened_array
+bin_edges
+quantized_array
+quantized_valuesr
+quantize_image_array
+z!pypvr.encode.quantize_image_arrayc
+.PVPr
+tobytesr
+to_bytesrl
+padding
+new_palette
+palette_arrayrS
+pal_mode
+pixel_size
+pvp_data
+pvp_headerr
+build_pvp
+pypvr.encode.build_pvpc
+loadrF
+pypvr.encode.clean_alphac
+q@n||
+axisrB
+enumerate
+stackr
+viewr
+vstack
+full)
+clustersr
+clusterr
+color_mode
+reshaped_clusterr
+yuv_coder
+sr_valuesr
+codebook_create"
+pypvr.encode.codebook_createc
+indexingr
+meshgrid
+aranger
+bit_lengthrF
+valuesr
+max_dimrS
+twiddleVQf
+pypvr.encode.twiddleVQc
+mipmapr
+z0pypvr.encode.generate_mipmaps.<locals>.<genexpr>r'
+resizer
+LANCZOS
+newr\
+crop
+tiler,
+mipmapsr
+max_height
+combined_width
+combined_image
+combined_arrayrM
+block_array
+background_array
+x_offset
+y_offsetrY
+mipmap_arrayr
+generate_mipmapsu
+pypvr.encode.generate_mipmapsc
+zeros_like)
+pvr_arrayr
+twiddled_indices
+num_bytes
+pvr_twiddled
+tw_arrayr
+handle_twiddling
+pypvr.encode.handle_twiddlingc
+pixel_valuesrl
+array_encode
+pypvr.encode.array_encodec
+current_size: z
+ x_start: rB
+transposer
+FLIP_TOP_BOTTOM
+getpaletterj
+FLIP_LEFT_RIGHT
+ROTATE_90r\
+compress_vq_bufferr
+insertr
+write_pvr)!rJ
+labels
+pvr_datar
+x_start
+current_size
+pvr_data_list
+mipmap_part
+new_pvr_data
+padr
+encode_pvr
+pypvr.encode.encode_pvrr
+blocks
+centroids
+n_samples
+n_clusters
+distancesrS
+diffr
+manual_distance4
+z.pypvr.encode.quick_vq.<locals>.manual_distancec
+random
+randintrI
+infrF
+minimum
+choice)
+n_featuresr
+first_idxr
+new_distances
+prob
+next_idxr
+kmeans_initB
+z*pypvr.encode.quick_vq.<locals>.kmeans_initc
+argmin)
+assign_labels_
+z,pypvr.encode.quick_vq.<locals>.assign_labelsc
+countsrS
+labelr
+update_centroidse
+z/pypvr.encode.quick_vq.<locals>.update_centroids)
+seedrF
+all)
+max_iterr
+new_centroidsr
+quick_vq.
+pypvr.encode.quick_vqc
+}"| |"|!<
+}#|"|
+zEVQ image dimensions must be power of 2 and no smaller than 8x8 pixelsr.
+SmallVQr
+z&SmallVQ dimensions range 8px <--> 64pxr5
+codebook size:r
+VQ Compression...)
+niterr
+constant)
+faissr
+Kmeansr,
+trainr
+log2r
+)$rJ
+kmeansr7
+mip_level
+mip_height
+mip_start
+end_index
+start_offsetrS
+end_offset
+mip_height_squared
+total_size
+mip_offset
+current_mip_height
+step
+grid
+mip_data
+indices
+labels_twiddledr
+pypvr.encode.compress_vq_bufferc
+.PVRr
+keysrV
+pvr_size
+mode_num
+tex_num
+pvr_header
+gbix_headerr
+pypvr.encode.write_pvrc
+dither)
+quantize
+convertr
+pypvr.encode.load_image)
+encode
+)WNz
+   ------------------------z
+   # PyPVR HELP AND USAGE #z
+   1. PVR   --> IMAGEz!   2. PVR   --> IMAGE - Options -z
+   3. IMAGE --> PVRz
+   4. IMAGE --> PVR - Options -z
+   5. EXAMPLESz
+   -----------------z
+   1. PVR --> IMAGE z=  Convert one or more .PVR file and save them as .PNG or BMP.z<  .PVP palette will be converted to
+ Adobe Color Table (ACT).z
+  ** Note **zc  If a .PVP and .PVR file with the same name are present, the palette will be applied to the image.z
+  Usage:z'    > pypvr.py <infile1.PVR> -<options>z
+   2. DECODE OPTIONSz1    fmt <img_format>    # Image format: png | bmpz*    o <out_dir>         # Output directoryz(   
+ flip               # Flip verticallyz*    silent              # No screen printszC    log                 # Create a pv
+r_info.txt for later re-importz$    dbg                 # Debug modez
+   ----------z
+   3. ENCODE z1  Encode an image to .PVR and .PVP if palettized.z"    > pypvr.py <infile> -<options>z
+   4. ENCODE OPTIONSz
+    <color_format>z\      * Note: YUV420 / BMP / 555 texture formats use DC/Naomi SEGA libraries for conversion.z[     -
+-------------------------------------------------------------------------------------zC      PARAM  |     COLOR TYPE    
+|                      DESCRIPTIONz[     --------|-------------------|--------------------------------------------------
+-------zO      565    | RGB               | Ideal for gradients, no transparency supportzX      1555   | ARGB 1-bit alph
+a  | Use when image has fully opaque or transparent alpha zT      4444   | ARGB 4-bit alpha  | Lower accuracy but suppor
+ts complex transparency.zV      8888   | ARGB 8-bit alpha  | Used by pal4, pal8, BMP; supports full transparencyzQ      
+yuv422 | YUV422            | Lossy format with higher perceived color gamutz=      bump   | RGB Normal map    | Height m
+ap converted to SRzB      555    | RGB PCX converter | !WARNING! Use 1555 mode insteadzP      yuv420 | YUV420 converter 
+ | !WARNING! Used by YUV converter or .SAN fileszI      p4bpp  | 4-bpp placeholder | !WARNING! Color format in palette f
+ilezI      p8bpp  | 8-bpp placeholder | !WARNING! Color format in palette filez
+    <texture_format>zT      * Note: Twiddled offers fast performance and high-fidelity colors on hardware.z\      PARAM 
+ |   TEXTURE TYPE     |   TWIDDLED   |       DESCRIPTION            |  MIPMAPS  z\     --------|--------------------|---
+------------------------------------------------------zX      tw     | Square             |   Twiddled   | Square dimens
+ions only       |    YESzX      twre   | Rectangle          |   Twiddled   | Length, width multiples      |    NO zX    
+  re     | Rectangle          | Not Twiddled | Length, width multiples      |    NO zX      st     | Stride             
+| Not Twiddled | Width multiple of 32 (32-992)|    NO zX      twal   | Alias              |   Twiddled   | Square dims. 
+and Mips <= 8x8 |    YESzX      pal4   | 16-colors palette  |   Twiddled   | Square dimensions only       |    YESzX    
+  pal8   | 256-colors palette |   Twiddled   | Square dimensions only       |    YESzX      vq     | Vector Quantized   
+|   Twiddled   | Square dimensions only       |    YESzX      svq    | Small VQ           |   Twiddled   | Square dimens
+ions <= 64x64   |    YESzX      bmp    | Bitmap             | Not Twiddled | Square dimensions only       |    YESz
+   <other_options>z%    -mm            | Generate Mipmapsz(    -flip          | Vertical image flipz8    -cla           
+| Clean unused RGB from alpha channelz.    -gi <n>        | Specify GBIX header valuez5    -gitrim        | Short GBIX h
+eader, saves 4 bytesz@    -pvptrim       | Remove unused colors of a 16 or 256 palettez>    -pvpbank <n>   | Specify PVP
+ palette bank number from 0-63zU    -vqi <n>       | VQ iterations: 10 is default value, increase for sharper detailszb 
+   -vqs <n>|rand  | VQ random seed: value or "rand", changing it will alter compression artifactsz
+   -----------z
+        ----------------------z
+  ---- | CONVERT PVR TO IMAGE |z;  Example 1 - Convert a PVR to default image format (.png):z
+    > pypvr.py "file1.PVR"zc  Example 2 - Convert all .PVR files to images, save in "c:\images", create log file for rei
+mport :z*    > pypvr.py "*.pvr" -o "c:\images" -logzT  Example 3 - Convert a PVR to image, Vertical flip, save in "c:\de
+coded" directory:z7    > pypvr.py "infile1.PVR" -png -flip -o "c:\decoded"z
+  ---- | CONVERT IMAGE TO PVR |z5  Example 1 - Convert image to PVR, default settings:z
+    > pypvr.py "test.png"zS  Example 2 - Automatically re-encode all images back to PVR(s) as per pvr_log.txt:z)    > py
+pvr.py "c:\image_dir\pvr_log.txt"z[  Example 3 - Convert all .png images to .PVR(s), save them to output folder "c:\pvr_
+dir" :z&    > pypvr.py "*.png" -o "c:\pvr_dir"zA  Example 4 - Convert image to 1555 twiddled, use Global Index 0:z)    >
+ pypvr.py "test.png" -1555 -tw -gi 0z/  Example 5 - Convert image to 565, VQ compressz"    > pypvr.py "test.png" -565 -v
+help_textC
+zbList all files matching the given pattern in the specified directory or current working directory.r
+Directory not found: )
+listdir
+FileNotFoundErrorr}
+fnmatch
+filterrG
+pattern
+directory
+matched_files
+files
+filenamer
+list_files_with_extensions
+r(zNt
+q(q(W
+7Process pvr_log.txt file and prepare encoding commands.r
+---------------
+IMAGE FILE :
+ : r
+TARGET DIR :
+ENC PARAMS :
+DATA CRC32 :ra
+Error: Image file 'z
+' not found.rj
+ -o )
+startswithr
+log_file
+encoding_commands
+file
+content
+entry
+lines
+image_file
+target_pvr
+enc_params
+data_crc32
+liner5
+calculated_crc32r
+process_pvr_log
+z,Determine file type and what to do with themz
+pvr_log.txt)
+: Unknown file format!N)
+output_dir
+extra_args
+decode_files
+base_file_name
+combined_argsr
+check_file_type
+Nz'Select Output Folder for NEW_DATABG.bin)
+title)
+withdrawr
+askdirectory
+destroy)
+root
+folderr
+select_output_folder
+Input file not found: z
+lzx.exe -ewl T)
+shell
+check
+creationflagsz
+Error executing lzx.exe: )
+isfiler
+subprocess
+CREATE_NO_WINDOW
+CalledProcessErrorr}
+input_file
+commandr
+execute_compress!
+r(zNt
+q(q(W
+    Compare two images to check if their pixel data is identical.
+    F)
+image1
+image2r
+compare_imagesh
+A.pngz
+B.png
+mapname
+The file z
+ was not found.r
+rsplitr
+paster{
+saver
+combined_image_pathr#
+base_filenamerc
+combined_height
+filename_A
+filename_B
+width_Ar
+image_A
+image_B
+width_B
+height_B_half
+image_B_left_half
+image_B_right_half
+skip_A
+skip_Br
+split_maps
+qhnB|
+DATABG_EXTz
+Missing DATABG_EXT FolderzGDATABG_EXT folder not found.
+Extract original DATABG.bin and try again.r
+segalogoA)
+logoonly)
+chunsoft)
+package)
+demo00)
+demo01)
+demo02)
+demo03)
+sfd640nb)
+mapname00)
+mapname01)
+mapname02)
+mapname03)
+mapname04)
+mapname05)
+mapname06)
+mapname07)
+mapname08)
+mapname09)
+mapname10)
+mapname11)
+mapname12)
+mapname13)
+mapname14)
+mapname15)
+mapname16)
+mapname17)
+MN00)
+MN01)
+MN02)
+MN03)
+MN04)
+MN05)
+MN06)
+MN07)
+MN08)
+MN09)
+MN10)
+MN11)
+MN12)
+MN13)
+MN14)
+MN15)
+MN16)
+MN17)
+MN18)
+MN19)
+MN20)
+MN21)
+MN22)
+MN23)
+MN24)
+MN25)
+MN26)
+MN27)
+MN28)
+MN29)
+MN30)
+MN31)
+MN32)
+MN33)
+MN34)
+MN35)
+MN36)
+MN37)
+MN38)
+MN39)
+MN40)
+MN41)
+MN42)
+MN43)
+MN44)
+MN45)
+MN46)
+MN47)
+MN48)
+MN49)
+MN50)
+MN51)
+MN52)
+MN53)
+MN54)
+MN55)
+MN56)
+MN57)
+MN58)
+MN59)
+MN60)
+MN61)
+MN62)
+MN63)
+MN64)
+MN65)
+MN66)
+MN67)
+MN68)
+MN69)
+MN70)
+MN71)
+MN72)
+MN73)
+MN74)
+MN75)
+MN76)
+MN77)
+MN78)
+MN79)
+MN80)
+MN81)
+MN82)
+MN83)
+MN84)
+MN85)
+MN86)
+MN87)
+MN88)
+MN89)
+MN90)
+MN91)
+MN92)
+MN93)
+MN94)
+MN95)
+MN96)
+MN97)
+MN98)
+MN99)
+MN9A)
+MN9B)
+MN9C)
+MN9D)
+MN9E)
+MNUM)
+MNTEMP)
+CA_16)
+CB_16ra
+PVRr
+.l40r
+utf-8r&
+A.PVRz
+B.PVR
+Error file sizez
+* z: *, skipped due to size limit.
+Try to reduce image detailsz
+Error: DATABG.bin not found.r
+showwarningr
+exitr
+out_databg_path
+input_dirr
+pointersr
+new_file_bufferrS
+start_addressr
+end_addressr
+chunk_size
+file_input_dirr
+old_img
+new_img
+temprR
+skip
+total_lengthr:
+cmp_file
+new_chunk
+max_chunk_size
+original_chunk
+current_position
+padding_lengthrK
+main
+__main__z
+DATABG_cfg.txtz
+naomi9.icoz
+Configuration Missingz&Select output file for new DATABG.bin.z
+Select DATABG.BIN File)
+DATABG.BINr
+filetypesrK
+z-# Specify output file path of new DATABG.bin
+Config file errorz#Delete DATABG_cfg.txt and try again)1
+platformr
+numpyr\
+PILr
+tkinterr
+config_filer
+iconbitmapr
+askopenfilename
+output_folderr
+cfgr
+readlinesr
+<module>

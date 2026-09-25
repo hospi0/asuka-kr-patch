@@ -1,0 +1,7 @@
+state 36306760 bytes
+tenrinkoku       -
+kyodai           -
+kakomareta       -
+tochi            -
+jukai            -
+tenrinkoku_kana  -

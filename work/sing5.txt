@@ -1,0 +1,23 @@
+SSCR.BIN     전각1글자 단독 123곳 (문자열 풀 안 10곳)
+DATASCR.BIN  전각1글자 단독 23곳 (문자열 풀 안 0곳)
+1NOSDC.BIN   전각1글자 단독 129곳 (문자열 풀 안 0곳)
+
+=== 풀 안 1글자 — 파일·글자별 ===
+   SSCR.BIN     '練'  3곳
+   SSCR.BIN     '杖'  2곳
+   SSCR.BIN     '×'  2곳
+   SSCR.BIN     '盾'  1곳
+   SSCR.BIN     '矢'  1곳
+   SSCR.BIN     '壺'  1곳
+
+=== 전부 (오프셋) ===
+   SSCR.BIN     0x05DA0A  '盾'
+   SSCR.BIN     0x05DA12  '矢'
+   SSCR.BIN     0x05DA23  '杖'
+   SSCR.BIN     0x05DA32  '壺'
+   SSCR.BIN     0x05EAD0  '杖'
+   SSCR.BIN     0x06524A  '×'
+   SSCR.BIN     0x065296  '×'
+   SSCR.BIN     0x09374E  '練'
+   SSCR.BIN     0x094061  '練'
+   SSCR.BIN     0x09424B  '練'

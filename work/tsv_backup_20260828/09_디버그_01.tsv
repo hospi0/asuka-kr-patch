@@ -1,0 +1,7 @@
+id	file	offset	budget	same_as	jp	kr
+SYS00000	SSCR.BIN	0x3A8	16		Ａボタンなの？\x01\x02	
+SYS00001	SSCR.BIN	0x3B9	18		オヤジ戦車弾発射２	
+SYS00002	SSCR.BIN	0x3CC	18		スタティックテスト	
+SYS00003	SSCR.BIN	0x508	25		a\x0C%s を手に入れた（マヴ）	
+SYS00004	SSCR.BIN	0x5DE	14		a\x0C連結しました	
+SYS00005	SSCR.BIN	0x6F2	15		a\x0Cテスト　%d,%d	

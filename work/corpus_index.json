@@ -1,0 +1,79 @@
+[
+ {
+  "category": "01_대사",
+  "items": 7890,
+  "unique": 4058,
+  "bytes": 404867,
+  "files": 30
+ },
+ {
+  "category": "02_시스템UI",
+  "items": 158,
+  "unique": 151,
+  "bytes": 5026,
+  "files": 1
+ },
+ {
+  "category": "03_전투메시지",
+  "items": 444,
+  "unique": 320,
+  "bytes": 9582,
+  "files": 1
+ },
+ {
+  "category": "04_몬스터",
+  "items": 639,
+  "unique": 533,
+  "bytes": 50403,
+  "files": 4
+ },
+ {
+  "category": "05_아이템명",
+  "items": 1354,
+  "unique": 1248,
+  "bytes": 20652,
+  "files": 3
+ },
+ {
+  "category": "06_아이템설명",
+  "items": 509,
+  "unique": 453,
+  "bytes": 39846,
+  "files": 3
+ },
+ {
+  "category": "07_함정",
+  "items": 40,
+  "unique": 5,
+  "bytes": 418,
+  "files": 1
+ },
+ {
+  "category": "08_네트워크·기타",
+  "items": 1690,
+  "unique": 1182,
+  "bytes": 43926,
+  "files": 5
+ },
+ {
+  "category": "09_디버그",
+  "items": 6,
+  "unique": 6,
+  "bytes": 106,
+  "files": 1
+ },
+ {
+  "category": "10_실행파일UI",
+  "items": 15,
+  "unique": 10,
+  "bytes": 174,
+  "files": 1
+ },
+ {
+  "category": "11_이름입력문자표",
+  "items": 17,
+  "unique": 17,
+  "bytes": 586,
+  "files": 1
+ }
+]

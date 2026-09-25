@@ -1,0 +1,8 @@
+state 36306760 bytes
+asuka      5건 ['0x21c33e', '0xc1db13', '0xc1db1a', '0xc1db23']
+mamuru     0건 []
+nofu       2건 ['0xbfb751', '0x109baf1']
+gitan      0건 []
+tenrin     0건 []
+izayoi     0건 []
+dungeon    0건 []

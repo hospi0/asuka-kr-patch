@@ -1,0 +1,40 @@
+SCR02241
+   jp repr = '風来人「しかし、\\n\u3000こんな良いエレキ箱が\\n\u3000この値段でいいのかい?'
+   kr repr = '풍래인「그런데\\n이렇게 좋은 일렉박스가\\n이 가격이라니 괜찮은건가?'
+   jp_key in jp : True
+     '엘레키 상자'     in kr : False
+     '에레키 상자'     in kr : False
+     '엘레키상자'      in kr : False
+     '에레키 박스'     in kr : False
+     '엘레키박스'      in kr : False
+     '일렉박스'       in kr : True
+     '엘레키'        in kr : False
+
+SCR02749
+   jp repr = 'ヒナコ「いらっしゃいませ、アスカ＠さん!\\n\u3000今日も当店ジマンのエレキ箱を\\n\u3000そろえておりますよっ!'
+   kr repr = '히나코「어서 오세요아스카＠님!\\n오늘도 저희 가게 자랑거리인 에레키 박스를\\n갖춰두고 있답니다!'
+   jp_key in jp : True
+     '엘레키 상자'     in kr : False
+     '에레키 상자'     in kr : False
+     '엘레키상자'      in kr : False
+     '에레키 박스'     in kr : True
+     '엘레키박스'      in kr : False
+     '일렉박스'       in kr : False
+     '엘레키'        in kr : False
+
+SCR02780
+   jp repr = '\u3000レベルアップできるエレキ箱は'
+   kr repr = '레벨업할 수 있는 에레키 박스는'
+   jp_key in jp : True
+     '엘레키 상자'     in kr : False
+     '에레키 상자'     in kr : False
+     '엘레키상자'      in kr : False
+     '에레키 박스'     in kr : True
+     '엘레키박스'      in kr : False
+     '일렉박스'       in kr : False
+     '엘레키'        in kr : False
+
+=== 백업(fix 전) ===
+SCR02241 kr = '풍래인「그런데,\\n\u3000이렇게 좋은 일렉 박스가\\n\u3000이 가격이라니 괜찮은 건가?'
+SCR02749 kr = '히나코「어서 오세요, 아스카＠님!\\n\u3000오늘도 저희 가게 자랑거리인 엘레키 박스를\\n\u3000갖춰두고 있답니다!'
+SCR02780 kr = '레벨업할 수 있는 엘레키 박스는'

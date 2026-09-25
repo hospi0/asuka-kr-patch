@@ -1,0 +1,8 @@
+=== 원본 1490944
+  head: 34 20 00 08 00 55 00 ff f1 01 ff c0 02 ff e0 ff f9 90 73 65 67 61 6c 6f 67 6f 41 00 ff f4 80 ff fe ff ff fe ff ff ff fe ff ff fe ff ff fe ff ff fe ff ff ff fe ff ff fe ff ff fe ff ff fe ff ff
+  u32x16: 0x8002034 0xff005500 0xc0ff01f1 0xffe0ff02 0x657390f9 0x6f6c6167 0x416f67 0xff80f4ff 0xfefffffe 0xfeffffff 0xfffeffff 0xfffffeff 0xfffffffe 0xfefffffe 0xfffeffff 0xfffffeff
+=== 재빌드 1490724
+  head: 34 20 00 08 00 40 20 00 08 aa 00 14 00 01 43 00 02 23 00 13 00 73 00 65 67 61 6c 6f 67 6f 41 a7 00 17 00 80 21 00 ff ff 21 00 ad 9d bd f7 ce 00 0d 06 01 62 00 8a 00 26 00 b5 d6 66 00 22 00 32
+  u32x16: 0x8002034 0x204000 0x1400aa08 0x430100 0x13002302 0x65007300 0x6f6c6167 0xa7416f67 0x80001700 0xffff0021 0x9dad0021 0xcef7bd 0x6201060d 0x26008a00 0x66d6b500 0x32002200
+원본 오름차순 항목 2개: ['0x8002034', '0xff005500'] ...
+재빌드 오름차순 항목 1개: ['0x8002034'] ...

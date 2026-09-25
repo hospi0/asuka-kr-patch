@@ -1,0 +1,2 @@
+# Specify output file path of new DATABG.bin
+C:/claude/project/asuka-kr-patch/work/databg/out/DATABG.bin

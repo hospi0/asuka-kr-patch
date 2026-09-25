@@ -1,0 +1,6 @@
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\verify\DATABG_EXT\demo00\PVR\demo00.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\verify\DATABG_EXT\demo00\PVR
+ENC PARAMS : -re -4444 
+IMAGE SIZE : 512x256
+DATA CRC32 : 952B0FD3
+---------------

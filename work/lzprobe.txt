@@ -1,0 +1,16 @@
+hdr4 litTrue msbTrue -> 실패 dist 5 out 0
+hdr4 litTrue msbFalse -> 실패 dist 5 out 0
+hdr4 litFalse msbTrue -> 실패 dist 4094 out 8
+hdr4 litFalse msbFalse -> 실패 dist 4094 out 8
+hdr5 litTrue msbTrue -> 실패 dist 4080 out 0
+hdr5 litTrue msbFalse -> 실패 dist 3871 out 1
+hdr5 litFalse msbTrue -> 실패 dist 3871 out 1
+hdr5 litFalse msbFalse -> 실패 dist 4080 out 0
+hdr6 litTrue msbTrue -> 실패 길이 5570568
+hdr6 litTrue msbFalse -> 실패 길이 5570568
+hdr6 litFalse msbTrue -> 실패 길이 5570568
+hdr6 litFalse msbFalse -> 실패 길이 5570568
+hdr8 litTrue msbTrue -> 실패 길이 16711765
+hdr8 litTrue msbFalse -> 실패 길이 16711765
+hdr8 litFalse msbTrue -> 실패 길이 16711765
+hdr8 litFalse msbFalse -> 실패 길이 16711765

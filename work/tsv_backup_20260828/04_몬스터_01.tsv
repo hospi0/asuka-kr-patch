@@ -1,0 +1,502 @@
+id	file	offset	budget	same_as	jp	kr
+SYS00380	SSCR.BIN	0x4A2A6	6		エレキ	일렉
+SYS00381	SSCR.BIN	0x4A2AD	10		モンスター	몬스터
+SYS00382	SSCR.BIN	0x4A2B8	4		ボス	보스
+SYS00383	SSCR.BIN	0x4A578	6		アスカ	아스카
+SYS00384	SSCR.BIN	0x4A5C4	8		にせもの	가짜
+SYS00385	SSCR.BIN	0x4A612	6	SYS00383	アスカ	아스카
+SYS00386	SSCR.BIN	0x4A66E	6		コッパ	콧파
+SYS00387	SSCR.BIN	0x4A6B9	8	SCR04505	ジンパチ	진파치
+SYS00388	SSCR.BIN	0x4A706	8		おにぎり	오니기리
+SYS00389	SSCR.BIN	0x4A753	6	SYS00383	アスカ	아스카
+SYS00390	SSCR.BIN	0x4A79E	14		やりすごしの壺	그냥지나침의 항아리
+SYS00391	SSCR.BIN	0x4A7F2	10		即身仏の壺	즉신불의 항아리
+SYS00392	SSCR.BIN	0x4A8E3	6	SCR04504	ミナモ	미나모
+SYS00393	SSCR.BIN	0x4A93F	8	SCR04505	ジンパチ	진파치
+SYS00394	SSCR.BIN	0x4A98C	6	SCR04506	キハチ	키하치
+SYS00395	SSCR.BIN	0x4A9D7	6	SCR04507	ヘイジ	헤이지
+SYS00396	SSCR.BIN	0x4AA22	4		番犬	번견
+SYS00397	SSCR.BIN	0x4AA6B	6		盗賊番	도적지기
+SYS00398	SSCR.BIN	0x4AABA	6		ガマラ	가마라
+SYS00399	SSCR.BIN	0x4AAF5	10		ガマグッチ	가마굿치
+SYS00400	SSCR.BIN	0x4AB34	8		ガマゴン	가마곤
+SYS00401	SSCR.BIN	0x4AB81	14		くねくねハニー	꿈틀꿈틀 허니
+SYS00402	SSCR.BIN	0x4ABD8	6		ゲイズ	게이즈
+SYS00403	SSCR.BIN	0x4AC13	14		スーパーゲイズ	슈퍼게이즈
+SYS00404	SSCR.BIN	0x4AC56	14		ハイパーゲイズ	하이퍼게이즈
+SYS00405	SSCR.BIN	0x4ACAD	10		シューベル	슈베르
+SYS00406	SSCR.BIN	0x4ACEC	10		メンベルス	멘벨스
+SYS00407	SSCR.BIN	0x4AD2B	12		ベルトーベン	벨토벤
+SYS00408	SSCR.BIN	0x4AD80	8		タウロス	타우로스
+SYS00409	SSCR.BIN	0x4ADBD	12		ミノタウロス	미노타우로스
+SYS00410	SSCR.BIN	0x4ADFE	12		メガタウロス	메가타우로스
+SYS00411	SSCR.BIN	0x4AE53	8		デブータ	데부타
+SYS00412	SSCR.BIN	0x4AE90	10		デブーチョ	데부초
+SYS00413	SSCR.BIN	0x4AECF	10		デブートン	데부톤
+SYS00414	SSCR.BIN	0x4AF22	8		ドラゴン	드래곤
+SYS00415	SSCR.BIN	0x4AF5F	14		スカイドラゴン	스카이드래곤
+SYS00416	SSCR.BIN	0x4AFA2	14		アークドラゴン	아크드래곤
+SYS00417	SSCR.BIN	0x4AFF9	10		ぬすっトド	도둑토도
+SYS00418	SSCR.BIN	0x4B038	10		みどりトド	초록토도
+SYS00419	SSCR.BIN	0x4B077	12		アイアントド	아이언토도
+SYS00420	SSCR.BIN	0x4B0CC	12		パコレプキン	파코레프킨
+SYS00421	SSCR.BIN	0x4B10D	14		パコレプキーナ	파코레프키나
+SYS00422	SSCR.BIN	0x4B150	14		パコレプキング	파코레프킹
+SYS00423	SSCR.BIN	0x4B1A3	8		ボウヤー	보우야
+SYS00424	SSCR.BIN	0x4B1EE	12		 \tコドモ戦車	\t꼬마 전차
+SYS00425	SSCR.BIN	0x4B23F	12		!\tオヤジ戦車	!\t아저씨 전차
+SYS00426	SSCR.BIN	0x4B27E	14		"\tイッテツ戦車	"\t고집불통 전차
+SYS00427	SSCR.BIN	0x4B2D3	8		#\tマムル	#\t마무루
+SYS00428	SSCR.BIN	0x4B30E	16		$\tあなぐらマムル	$\t굴속 마무루
+SYS00429	SSCR.BIN	0x4B351	12		%\t洞窟マムル	%\t동굴 마무루
+SYS00430	SSCR.BIN	0x4B3A3	16		&\tしろがねマムル	&\t은빛 마무루
+SYS00431	SSCR.BIN	0x4B3E6	16		'\tおうごんマムル	'\t황금 마무루
+SYS00432	SSCR.BIN	0x4B43F	16		(\tにぎりみならい	(\t니기리 견습생
+SYS00433	SSCR.BIN	0x4B482	14		)\tにぎりへんげ	)\t니기리 변화
+SYS00434	SSCR.BIN	0x4B4C3	12		*\tにぎり親方	*\t니기리 우두머리
+SYS00435	SSCR.BIN	0x4B502	16		+\tにぎりもとじめ	+\t니기리 두목
+SYS00436	SSCR.BIN	0x4B555	10		,\tンドゥバ	,\t은두바
+SYS00437	SSCR.BIN	0x4B5A8	16		-\tエーテルデビル	-\t에테르데빌
+SYS00438	SSCR.BIN	0x4B5EB	18		.\tファントムデビル	.\t팬텀데빌
+SYS00439	SSCR.BIN	0x4B630	18		/\tミラージュデビル	/\t미라지데빌
+SYS00440	SSCR.BIN	0x4B675	18		0\tアストラルデビル	0\t아스트랄데빌
+SYS00441	SSCR.BIN	0x4B6CE	12		1\tおばけ大根	1\t유령무
+SYS00442	SSCR.BIN	0x4B70D	14		2\tめまわし大根	2\t어지럼무
+SYS00443	SSCR.BIN	0x4B74E	12		3\tねむり大根	3\t잠무
+SYS00444	SSCR.BIN	0x4B79D	10		4\t火炎入道	4\t화염입도
+SYS00445	SSCR.BIN	0x4B7EA	10		5\tキグニ族	5\t키구니족
+SYS00446	SSCR.BIN	0x4B83B	10		6\t鬼面武者	6\t도깨비탈 무사
+SYS00447	SSCR.BIN	0x4B878	14		7\tはんにゃ武者	7\t한냐 무사
+SYS00448	SSCR.BIN	0x4B8B9	6		8\t将軍	8\t장군
+SYS00449	SSCR.BIN	0x4B902	14		9\tぼうれい武者	9\t망령 무사
+SYS00450	SSCR.BIN	0x4B957	16		:\tとおせんりゅう	:\t토오센류
+SYS00451	SSCR.BIN	0x4B99A	16		;\tドラゴンヘッド	;\t드래곤헤드
+SYS00452	SSCR.BIN	0x4B9DD	16		<\tスルードラゴン	<\t스루드래곤
+SYS00453	SSCR.BIN	0x4BA34	12		=\tノロージョ	=\t노로죠
+SYS00454	SSCR.BIN	0x4BA73	16		>\tノロージョの姉	>\t노로죠의 언니
+SYS00455	SSCR.BIN	0x4BAB6	16		?\tノロージョの母	?\t노로죠의 어머니
+SYS00456	SSCR.BIN	0x4BB0D	10		@\t兵隊アリ	@\t병정개미
+SYS00457	SSCR.BIN	0x4BB4A	10		A\t隊長アリ	A\t대장개미
+SYS00458	SSCR.BIN	0x4BB87	10		B\t将軍アリ	B\t장군개미
+SYS00459	SSCR.BIN	0x4BBDA	16		C\tわらうポリゴン	C\t웃는 폴리곤
+SYS00460	SSCR.BIN	0x4BC1D	16		D\tまわるポリゴン	D\t도는 폴리곤
+SYS00461	SSCR.BIN	0x4BC60	16		E\tおどるポリゴン	E\t춤추는 폴리곤
+SYS00462	SSCR.BIN	0x4BCA3	16		F\tうたうポリゴン	F\t노래하는 폴리곤
+SYS00463	SSCR.BIN	0x4BCFC	8		G\tミドロ	G\t미도로
+SYS00464	SSCR.BIN	0x4BD37	8		H\tゲドロ	H\t게도로
+SYS00465	SSCR.BIN	0x4BD72	8		I\tオドロ	I\t오도로
+SYS00466	SSCR.BIN	0x4BDAD	8		J\tドドロ	J\t도도로
+SYS00467	SSCR.BIN	0x4BDFC	10		K\tチンタラ	K\t친타라
+SYS00468	SSCR.BIN	0x4BE39	16		L\tちゅうチンタラ	L\t중친타라
+SYS00469	SSCR.BIN	0x4BE7C	14		M\tおおチンタラ	M\t대친타라
+SYS00470	SSCR.BIN	0x4BED1	12		N\tカラス天狗	N\t까마귀 텐구
+SYS00471	SSCR.BIN	0x4BF10	14		O\tハヤブサ天狗	O\t매 텐구
+SYS00472	SSCR.BIN	0x4BF51	14		P\tイヌワシ天狗	P\t검독수리 텐구
+SYS00473	SSCR.BIN	0x4BFA6	12		Q\tダイキライ	Q\t다이키라이
+SYS00474	SSCR.BIN	0x4BFE5	14		R\tエレーキライ	R\t에레키라이
+SYS00475	SSCR.BIN	0x4C026	14		S\tチョーキライ	S\t초키라이
+SYS00476	SSCR.BIN	0x4C07B	18		T\tロケットイノシシ	T\t로켓멧돼지
+SYS00477	SSCR.BIN	0x4C0C0	18		U\tジェットイノシシ	U\t제트멧돼지
+SYS00478	SSCR.BIN	0x4C105	18		V\tソニックイノシシ	V\t소닉멧돼지
+SYS00479	SSCR.BIN	0x4C15E	12		W\tひまガッパ	W\t심심갓파
+SYS00480	SSCR.BIN	0x4C19D	16		X\tいやすぎガッパ	X\t너무싫은갓파
+SYS00481	SSCR.BIN	0x4C1E0	16		Y\tたまらんガッパ	Y\t못견디갓파
+SYS00482	SSCR.BIN	0x4C239	8		Z\t馬武者	Z\t말무사
+SYS00483	SSCR.BIN	0x4C274	14		[\t荒馬ザムライ	[\t난폭한 말 사무라이
+SYS00484	SSCR.BIN	0x4C2B5	14		\\\tあばれ馬将軍	\\\t날뛰는 말 장군
+SYS00485	SSCR.BIN	0x4C2F6	10		]\t乱れ馬王	]\t어지러운 말 왕
+SYS00486	SSCR.BIN	0x4C347	6		^\tパ王	^\t파왕
+SYS00487	SSCR.BIN	0x4C380	10		_\tパオパ王	_\t파오파왕
+SYS00488	SSCR.BIN	0x4C3BD	14		`\tパオパ王ーン	`\t파오파오옹
+SYS00489	SSCR.BIN	0x4C412	18		a\tバットカンガルー	a\t배트캥거루
+SYS00490	SSCR.BIN	0x4C457	18		b\tエビルカンガルー	b\t이블캥거루
+SYS00491	SSCR.BIN	0x4C49C	18		c\tデビルカンガルー	c\t데빌캥거루
+SYS00492	SSCR.BIN	0x4C4F5	16		d\tタイガーウッホ	d\t타이거웃호
+SYS00493	SSCR.BIN	0x4C538	16		e\tタイガーウホホ	e\t타이거우호호
+SYS00494	SSCR.BIN	0x4C57B	18		f\tタイガーウホーン	f\t타이거우혼
+SYS00495	SSCR.BIN	0x4C5D6	12		g\tしおいやん	g\t시오이얀
+SYS00496	SSCR.BIN	0x4C615	16		h\tまじしおいやん	h\t진짜시오이얀
+SYS00497	SSCR.BIN	0x4C658	12		i\tしおやだん	i\t시오야단
+SYS00498	SSCR.BIN	0x4C697	14		j\tしおかんべん	j\t시오칸벤
+SYS00499	SSCR.BIN	0x4C6EC	10		k\tケンゴウ	k\t켄고
+SYS00500	SSCR.BIN	0x4C729	8		l\tイアイ	l\t이아이
+SYS00501	SSCR.BIN	0x4C764	8		m\tシハン	m\t시한
+SYS00502	SSCR.BIN	0x4C7B3	10		n\tシャーガ	n\t샤가
+SYS00503	SSCR.BIN	0x4C7F0	12		o\tナシャーガ	o\t나샤가
+SYS00504	SSCR.BIN	0x4C82F	12		p\tラシャーガ	p\t라샤가
+SYS00505	SSCR.BIN	0x4C884	10		q\tオトト兵	q\t오토토병
+SYS00506	SSCR.BIN	0x4C8C1	12		r\tオトト軍曹	r\t오토토군조
+SYS00507	SSCR.BIN	0x4C900	12		s\tオトト大将	s\t오토토대장
+SYS00508	SSCR.BIN	0x4C93F	12		t\tオトト元帥	t\t오토토원수
+SYS00509	SSCR.BIN	0x4C98E	18		u\tプチフェニックス	u\t쁘띠 피닉스
+SYS00510	SSCR.BIN	0x4C9E7	16		v\tボーンドラゴン	v\t본드래곤
+SYS00511	SSCR.BIN	0x4CA2A	16		w\tスカルドラゴン	w\t스컬드래곤
+SYS00512	SSCR.BIN	0x4CA6D	16		x\tガルムドラゴン	x\t가름드래곤
+SYS00513	SSCR.BIN	0x4CAC4	16		y\tアイアンヘッド	y\t아이언헤드
+SYS00514	SSCR.BIN	0x4CB07	16		z\tチェインヘッド	z\t체인헤드
+SYS00515	SSCR.BIN	0x4CB4A	12		{\tギガヘッド	{\t기가헤드
+SYS00516	SSCR.BIN	0x4CB9D	10		|\tムーロン	|\t무론
+SYS00517	SSCR.BIN	0x4CBDA	12		}\tイェンロン	}\t옌론
+SYS00518	SSCR.BIN	0x4CC19	10		~\tシンロン	~\t신론
+SYS00519	SSCR.BIN	0x4CC6A	14		\x7F\tジャガン仮面	\x7F\t자간 가면
+SYS00520	SSCR.BIN	0x4CCAD	12		ジャガー王子	자가 왕자
+SYS00521	SSCR.BIN	0x4CCEE	12		ジャガール王	자갈 왕
+SYS00522	SSCR.BIN	0x4CD43	6		プルン	프룬
+SYS00523	SSCR.BIN	0x4CD7E	8		プルリン	프루린
+SYS00524	SSCR.BIN	0x4CDBB	12		プルンプリン	프룬프린
+SYS00525	SSCR.BIN	0x4CE10	10		うしわか丸	우시와카마루
+SYS00526	SSCR.BIN	0x4CE4F	8		クロウ丸	쿠로마루
+SYS00527	SSCR.BIN	0x4CE8C	10		ヨシツネ丸	요시츠네마루
+SYS00528	SSCR.BIN	0x4CEE1	12		怪盗ペリカン	괴도 펠리컨
+SYS00529	SSCR.BIN	0x4CF22	16		怪盗ペリカン２世	괴도 펠리컨 2세
+SYS00530	SSCR.BIN	0x4CF67	16		怪盗ペリカン３世	괴도 펠리컨 3세
+SYS00531	SSCR.BIN	0x4CFAC	16		怪盗ペリカン４世	괴도 펠리컨 4세
+SYS00532	SSCR.BIN	0x4D005	10		よせカエル	요세개구리
+SYS00533	SSCR.BIN	0x4D044	10		すぐカエル	스구개구리
+SYS00534	SSCR.BIN	0x4D083	10		いまカエル	이마개구리
+SYS00535	SSCR.BIN	0x4D0D6	8		影ぼうし	그림자 두건
+SYS00536	SSCR.BIN	0x4D113	8		黒ぼうし	검은 두건
+SYS00537	SSCR.BIN	0x4D150	8		闇ぼうし	어둠 두건
+SYS00538	SSCR.BIN	0x4D1A1	8	SYS00535	影ぼうし	그림자 두건
+SYS00539	SSCR.BIN	0x4D1DE	8	SYS00536	黒ぼうし	검은 두건
+SYS00540	SSCR.BIN	0x4D21B	8	SYS00537	闇ぼうし	어둠 두건
+SYS00541	SSCR.BIN	0x4D26C	12		とげドラゴン	가시드래곤
+SYS00542	SSCR.BIN	0x4D2AD	14		アースニードル	어스니들
+SYS00543	SSCR.BIN	0x4D2F0	14		サンダーランス	썬더랜스
+SYS00544	SSCR.BIN	0x4D347	12	SYS00541	とげドラゴン	가시드래곤
+SYS00545	SSCR.BIN	0x4D388	14	SYS00542	アースニードル	어스니들
+SYS00546	SSCR.BIN	0x4D3CB	14	SYS00543	サンダーランス	썬더랜스
+SYS00547	SSCR.BIN	0x4D422	4		店主	점주
+SYS00548	SSCR.BIN	0x4D45B	4		店長	점장
+SYS00549	SSCR.BIN	0x4D494	6		大店長	대점장
+SYS00550	SSCR.BIN	0x4D4DF	4	SYS00396	番犬	번견
+SYS00551	SSCR.BIN	0x4D52C	6	SYS00397	盗賊番	도적지기
+SYS00552	SSCR.BIN	0x4D567	14		七天京の警備兵	시치텐쿄의 경비병
+SYS00553	SSCR.BIN	0x4D5AA	12		八神楽の門番	야가구라의 문지기
+SYS00554	SSCR.BIN	0x4D5FF	6	SYS00398	ガマラ	가마라
+SYS00555	SSCR.BIN	0x4D63A	10	SYS00399	ガマグッチ	가마굿치
+SYS00556	SSCR.BIN	0x4D679	8	SYS00400	ガマゴン	가마곤
+SYS00557	SSCR.BIN	0x4D6C6	14	SYS00401	くねくねハニー	꿈틀꿈틀 허니
+SYS00558	SSCR.BIN	0x4D71D	6	SYS00402	ゲイズ	게이즈
+SYS00559	SSCR.BIN	0x4D758	14	SYS00403	スーパーゲイズ	슈퍼게이즈
+SYS00560	SSCR.BIN	0x4D79B	14	SYS00404	ハイパーゲイズ	하이퍼게이즈
+SYS00561	SSCR.BIN	0x4D7F2	10	SYS00405	シューベル	슈베르
+SYS00562	SSCR.BIN	0x4D831	10	SYS00406	メンベルス	멘벨스
+SYS00563	SSCR.BIN	0x4D870	12	SYS00407	ベルトーベン	벨토벤
+SYS00564	SSCR.BIN	0x4D8C5	8	SYS00408	タウロス	타우로스
+SYS00565	SSCR.BIN	0x4D902	12	SYS00409	ミノタウロス	미노타우로스
+SYS00566	SSCR.BIN	0x4D943	12	SYS00410	メガタウロス	메가타우로스
+SYS00567	SSCR.BIN	0x4D998	8	SYS00411	デブータ	데부타
+SYS00568	SSCR.BIN	0x4D9D5	10	SYS00412	デブーチョ	데부초
+SYS00569	SSCR.BIN	0x4DA14	10	SYS00413	デブートン	데부톤
+SYS00570	SSCR.BIN	0x4DA67	8	SYS00414	ドラゴン	드래곤
+SYS00571	SSCR.BIN	0x4DAA4	14	SYS00415	スカイドラゴン	스카이드래곤
+SYS00572	SSCR.BIN	0x4DAE7	14	SYS00416	アークドラゴン	아크드래곤
+SYS00573	SSCR.BIN	0x4DB3E	10	SYS00417	ぬすっトド	도둑토도
+SYS00574	SSCR.BIN	0x4DB7D	10	SYS00418	みどりトド	초록토도
+SYS00575	SSCR.BIN	0x4DBBC	12	SYS00419	アイアントド	아이언토도
+SYS00576	SSCR.BIN	0x4DC11	12	SYS00420	パコレプキン	파코레프킨
+SYS00577	SSCR.BIN	0x4DC52	14	SYS00421	パコレプキーナ	파코레프키나
+SYS00578	SSCR.BIN	0x4DC95	14	SYS00422	パコレプキング	파코레프킹
+SYS00579	SSCR.BIN	0x4DCE8	8	SYS00423	ボウヤー	보우야
+SYS00580	SSCR.BIN	0x4DD35	10		コドモ戦車	꼬마 전차
+SYS00581	SSCR.BIN	0x4DD86	10		オヤジ戦車	아저씨 전차
+SYS00582	SSCR.BIN	0x4DDC5	12		イッテツ戦車	고집불통 전차
+SYS00583	SSCR.BIN	0x4DE1A	6		マムル	마무루
+SYS00584	SSCR.BIN	0x4DE55	14		あなぐらマムル	굴속 마무루
+SYS00585	SSCR.BIN	0x4DE98	10		洞窟マムル	동굴 마무루
+SYS00586	SSCR.BIN	0x4DEEA	14		しろがねマムル	은빛 마무루
+SYS00587	SSCR.BIN	0x4DF2D	14		おうごんマムル	황금 마무루
+SYS00588	SSCR.BIN	0x4DF86	14		にぎりみならい	니기리 견습생
+SYS00589	SSCR.BIN	0x4DFC9	12		にぎりへんげ	니기리 변화
+SYS00590	SSCR.BIN	0x4E00A	10		にぎり親方	니기리 우두머리
+SYS00591	SSCR.BIN	0x4E049	14		にぎりもとじめ	니기리 두목
+SYS00592	SSCR.BIN	0x4E09C	8		ンドゥバ	은두바
+SYS00593	SSCR.BIN	0x4E0EF	14		エーテルデビル	에테르데빌
+SYS00594	SSCR.BIN	0x4E132	16		ファントムデビル	팬텀데빌
+SYS00595	SSCR.BIN	0x4E177	16		ミラージュデビル	미라지데빌
+SYS00596	SSCR.BIN	0x4E1BC	16		アストラルデビル	아스트랄데빌
+SYS00597	SSCR.BIN	0x4E215	10		おばけ大根	유령무
+SYS00598	SSCR.BIN	0x4E254	12		めまわし大根	어지럼무
+SYS00599	SSCR.BIN	0x4E295	10		ねむり大根	잠무
+SYS00600	SSCR.BIN	0x4E2E4	8		火炎入道	화염입도
+SYS00601	SSCR.BIN	0x4E331	8		キグニ族	키구니족
+SYS00602	SSCR.BIN	0x4E382	8		鬼面武者	도깨비탈 무사
+SYS00603	SSCR.BIN	0x4E3BF	12		はんにゃ武者	한냐 무사
+SYS00604	SSCR.BIN	0x4E400	4		将軍	장군
+SYS00605	SSCR.BIN	0x4E449	12		ぼうれい武者	망령 무사
+SYS00606	SSCR.BIN	0x4E49E	14		とおせんりゅう	토오센류
+SYS00607	SSCR.BIN	0x4E4E1	14		ドラゴンヘッド	드래곤헤드
+SYS00608	SSCR.BIN	0x4E524	14		スルードラゴン	스루드래곤
+SYS00609	SSCR.BIN	0x4E57B	10		ノロージョ	노로죠
+SYS00610	SSCR.BIN	0x4E5BA	14		ノロージョの姉	노로죠의 언니
+SYS00611	SSCR.BIN	0x4E5FD	14		ノロージョの母	노로죠의 어머니
+SYS00612	SSCR.BIN	0x4E654	8		兵隊アリ	병정개미
+SYS00613	SSCR.BIN	0x4E691	8		隊長アリ	대장개미
+SYS00614	SSCR.BIN	0x4E6CE	8		将軍アリ	장군개미
+SYS00615	SSCR.BIN	0x4E721	14		わらうポリゴン	웃는 폴리곤
+SYS00616	SSCR.BIN	0x4E764	14		まわるポリゴン	도는 폴리곤
+SYS00617	SSCR.BIN	0x4E7A7	14		おどるポリゴン	춤추는 폴리곤
+SYS00618	SSCR.BIN	0x4E7EA	14		うたうポリゴン	노래하는 폴리곤
+SYS00619	SSCR.BIN	0x4E843	6		ミドロ	미도로
+SYS00620	SSCR.BIN	0x4E87E	6		ゲドロ	게도로
+SYS00621	SSCR.BIN	0x4E8B9	6		オドロ	오도로
+SYS00622	SSCR.BIN	0x4E8F4	6		ドドロ	도도로
+SYS00623	SSCR.BIN	0x4E943	8		チンタラ	친타라
+SYS00624	SSCR.BIN	0x4E980	14		ちゅうチンタラ	중친타라
+SYS00625	SSCR.BIN	0x4E9C3	12		おおチンタラ	대친타라
+SYS00626	SSCR.BIN	0x4EA18	10		カラス天狗	까마귀 텐구
+SYS00627	SSCR.BIN	0x4EA57	12		ハヤブサ天狗	매 텐구
+SYS00628	SSCR.BIN	0x4EA98	12		イヌワシ天狗	검독수리 텐구
+SYS00629	SSCR.BIN	0x4EAED	10		ダイキライ	다이키라이
+SYS00630	SSCR.BIN	0x4EB2C	12		エレーキライ	에레키라이
+SYS00631	SSCR.BIN	0x4EB6D	12		チョーキライ	초키라이
+SYS00632	SSCR.BIN	0x4EBC2	16		ロケットイノシシ	로켓멧돼지
+SYS00633	SSCR.BIN	0x4EC07	16		ジェットイノシシ	제트멧돼지
+SYS00634	SSCR.BIN	0x4EC4C	16		ソニックイノシシ	소닉멧돼지
+SYS00635	SSCR.BIN	0x4ECA5	10		ひまガッパ	심심갓파
+SYS00636	SSCR.BIN	0x4ECE4	14		いやすぎガッパ	너무싫은갓파
+SYS00637	SSCR.BIN	0x4ED27	14		たまらんガッパ	못견디갓파
+SYS00638	SSCR.BIN	0x4ED80	6		馬武者	말무사
+SYS00639	SSCR.BIN	0x4EDBB	12		荒馬ザムライ	난폭한 말 사무라이
+SYS00640	SSCR.BIN	0x4EDFC	12		あばれ馬将軍	날뛰는 말 장군
+SYS00641	SSCR.BIN	0x4EE3D	8		乱れ馬王	어지러운 말 왕
+SYS00642	SSCR.BIN	0x4EE8E	4		パ王	파왕
+SYS00643	SSCR.BIN	0x4EEC7	8		パオパ王	파오파왕
+SYS00644	SSCR.BIN	0x4EF04	12		パオパ王ーン	파오파오옹
+SYS00645	SSCR.BIN	0x4EF59	16		バットカンガルー	배트캥거루
+SYS00646	SSCR.BIN	0x4EF9E	16		エビルカンガルー	이블캥거루
+SYS00647	SSCR.BIN	0x4EFE3	16		デビルカンガルー	데빌캥거루
+SYS00648	SSCR.BIN	0x4F03C	14		タイガーウッホ	타이거웃호
+SYS00649	SSCR.BIN	0x4F07F	14		タイガーウホホ	타이거우호호
+SYS00650	SSCR.BIN	0x4F0C2	16		タイガーウホーン	타이거우혼
+SYS00651	SSCR.BIN	0x4F11D	10		しおいやん	시오이얀
+SYS00652	SSCR.BIN	0x4F15C	14		まじしおいやん	진짜시오이얀
+SYS00653	SSCR.BIN	0x4F19F	10		しおやだん	시오야단
+SYS00654	SSCR.BIN	0x4F1DE	12		しおかんべん	시오칸벤
+SYS00655	SSCR.BIN	0x4F233	8		ケンゴウ	켄고
+SYS00656	SSCR.BIN	0x4F270	6		イアイ	이아이
+SYS00657	SSCR.BIN	0x4F2AB	6		シハン	시한
+SYS00658	SSCR.BIN	0x4F2FA	8		シャーガ	샤가
+SYS00659	SSCR.BIN	0x4F337	10		ナシャーガ	나샤가
+SYS00660	SSCR.BIN	0x4F376	10		ラシャーガ	라샤가
+SYS00661	SSCR.BIN	0x4F3CB	8		オトト兵	오토토병
+SYS00662	SSCR.BIN	0x4F408	10		オトト軍曹	오토토군조
+SYS00663	SSCR.BIN	0x4F447	10		オトト大将	오토토대장
+SYS00664	SSCR.BIN	0x4F486	10		オトト元帥	오토토원수
+SYS00665	SSCR.BIN	0x4F4D5	16		プチフェニックス	쁘띠 피닉스
+SYS00666	SSCR.BIN	0x4F52E	14		ボーンドラゴン	본드래곤
+SYS00667	SSCR.BIN	0x4F571	14		スカルドラゴン	스컬드래곤
+SYS00668	SSCR.BIN	0x4F5B4	14		ガルムドラゴン	가름드래곤
+SYS00669	SSCR.BIN	0x4F60B	14		アイアンヘッド	아이언헤드
+SYS00670	SSCR.BIN	0x4F64E	14		チェインヘッド	체인헤드
+SYS00671	SSCR.BIN	0x4F691	10		ギガヘッド	기가헤드
+SYS00672	SSCR.BIN	0x4F6E4	8		ムーロン	무론
+SYS00673	SSCR.BIN	0x4F721	10		イェンロン	옌론
+SYS00674	SSCR.BIN	0x4F760	8		シンロン	신론
+SYS00675	SSCR.BIN	0x4F7B1	12		ジャガン仮面	자간 가면
+SYS00676	SSCR.BIN	0x4F7F2	12	SYS00520	ジャガー王子	자가 왕자
+SYS00677	SSCR.BIN	0x4F833	12	SYS00521	ジャガール王	자갈 왕
+SYS00678	SSCR.BIN	0x4F888	6	SYS00522	プルン	프룬
+SYS00679	SSCR.BIN	0x4F8C3	8	SYS00523	プルリン	프루린
+SYS00680	SSCR.BIN	0x4F900	12	SYS00524	プルンプリン	프룬프린
+SYS00681	SSCR.BIN	0x4F955	10	SYS00525	うしわか丸	우시와카마루
+SYS00682	SSCR.BIN	0x4F994	8	SYS00526	クロウ丸	쿠로마루
+SYS00683	SSCR.BIN	0x4F9D1	10	SYS00527	ヨシツネ丸	요시츠네마루
+SYS00684	SSCR.BIN	0x4FA26	12	SYS00528	怪盗ペリカン	괴도 펠리컨
+SYS00685	SSCR.BIN	0x4FA67	16	SYS00529	怪盗ペリカン２世	괴도 펠리컨 2세
+SYS00686	SSCR.BIN	0x4FAAC	16	SYS00530	怪盗ペリカン３世	괴도 펠리컨 3세
+SYS00687	SSCR.BIN	0x4FAF1	16	SYS00531	怪盗ペリカン４世	괴도 펠리컨 4세
+SYS00688	SSCR.BIN	0x4FB4A	12		かけだし忍者	신참 닌자
+SYS00689	SSCR.BIN	0x4FB8B	12		いっぱし忍者	제법 닌자
+SYS00690	SSCR.BIN	0x4FBCC	12		はがくれ忍者	하가쿠레 닌자
+SYS00691	SSCR.BIN	0x4FC23	12	SYS00688	かけだし忍者	신참 닌자
+SYS00692	SSCR.BIN	0x4FC64	12	SYS00689	いっぱし忍者	제법 닌자
+SYS00693	SSCR.BIN	0x4FCA5	12	SYS00690	はがくれ忍者	하가쿠레 닌자
+SYS00694	SSCR.BIN	0x4FCF8	8		くのいち	쿠노이치
+SYS00695	SSCR.BIN	0x4FD49	6		曲芸師	곡예사
+SYS00696	SSCR.BIN	0x4FD84	6	SYS00695	曲芸師	곡예사
+SYS00697	SSCR.BIN	0x4FDD3	10	SYS00532	よせカエル	요세개구리
+SYS00698	SSCR.BIN	0x4FE12	10	SYS00533	すぐカエル	스구개구리
+SYS00699	SSCR.BIN	0x4FE51	10	SYS00534	いまカエル	이마개구리
+SYS00700	SSCR.BIN	0x4FEA4	8	SYS00535	影ぼうし	그림자 두건
+SYS00701	SSCR.BIN	0x4FEE1	8	SYS00536	黒ぼうし	검은 두건
+SYS00702	SSCR.BIN	0x4FF1E	8	SYS00537	闇ぼうし	어둠 두건
+SYS00703	SSCR.BIN	0x4FF6F	8	SYS00535	影ぼうし	그림자 두건
+SYS00704	SSCR.BIN	0x4FFAC	8	SYS00536	黒ぼうし	검은 두건
+SYS00705	SSCR.BIN	0x4FFE9	8	SYS00537	闇ぼうし	어둠 두건
+SYS00706	SSCR.BIN	0x5003A	12	SYS00541	とげドラゴン	가시드래곤
+SYS00707	SSCR.BIN	0x5007B	14	SYS00542	アースニードル	어스니들
+SYS00708	SSCR.BIN	0x500BE	14	SYS00543	サンダーランス	썬더랜스
+SYS00709	SSCR.BIN	0x50115	12	SYS00541	とげドラゴン	가시드래곤
+SYS00710	SSCR.BIN	0x50156	14	SYS00542	アースニードル	어스니들
+SYS00711	SSCR.BIN	0x50199	14	SYS00543	サンダーランス	썬더랜스
+SYS00712	SSCR.BIN	0x501EC	10		つむじかぜ	회오리바람
+SYS00713	SSCR.BIN	0x5024C	8		ラグーン	라군
+SYS00714	SSCR.BIN	0x502AA	8		アクィラ	아퀼라
+SYS00715	SSCR.BIN	0x50308	8		クーフク	쿠후쿠
+SYS00716	SSCR.BIN	0x50366	8		サンジュ	산주
+SYS00717	SSCR.BIN	0x503B4	8	SYS00716	サンジュ	산주
+SYS00718	SSCR.BIN	0x50402	8	SYS00716	サンジュ	산주
+SYS00719	SSCR.BIN	0x50460	6		ティナ	티나
+SYS00720	SSCR.BIN	0x504BC	6		ソラン	소란
+SYS00721	SSCR.BIN	0x50518	6		ドラン	도란
+SYS00722	SSCR.BIN	0x50574	6		ポント	폰토
+SYS00723	SSCR.BIN	0x505D0	8		ネムリー	네무리
+SYS00724	SSCR.BIN	0x5062E	14		ラグーンの左手	라군의 왼손
+SYS00725	SSCR.BIN	0x50692	14		ラグーンの右手	라군의 오른손
+SYS00726	SSCR.BIN	0x506E5	12		メイオウラン	메이오우란
+SYS00727	SSCR.BIN	0x50737	12	SYS00726	メイオウラン	메이오우란
+SYS00728	SSCR.BIN	0x50788	6		おしべ	수술
+SYS00729	SSCR.BIN	0x507D3	4		つた	넝쿨
+SYS00730	SSCR.BIN	0x5082D	4		頭領	두목
+SYS00731	SSCR.BIN	0x50876	8		黒雷仙女	흑뢰선녀
+SYS00732	SSCR.BIN	0x508D4	14		黒雷仙女の左手	흑뢰선녀의 왼손
+SYS00733	SSCR.BIN	0x50938	14		黒雷仙女の右手	흑뢰선녀의 오른손
+SYS00734	SSCR.BIN	0x5099E	6	SCR04504	ミナモ	미나모
+SYS00735	SSCR.BIN	0x509B5	6	SCR04504	ミナモ	미나모
+SYS00736	SSCR.BIN	0x509CD	8		ネコボー	네코보
+SYS00737	SSCR.BIN	0x509E6	8		バリバリ	바리바리
+SYS00738	SSCR.BIN	0x509FF	8	SYS00737	バリバリ	바리바리
+SYS00739	SSCR.BIN	0x50A19	12		十六夜の里長	이자요이 마을 촌장
+SYS00740	SSCR.BIN	0x50A36	12	SYS00739	十六夜の里長	이자요이 마을 촌장
+SYS00741	SSCR.BIN	0x50A54	14		歌詠みじいさん	노래하는 할아범
+SYS00742	SSCR.BIN	0x50A75	6		カヤエ	카야에
+SYS00743	SSCR.BIN	0x50A8C	6	SYS00742	カヤエ	카야에
+SYS00744	SSCR.BIN	0x50AA4	8		老マムル	늙은 마무루
+SYS00745	SSCR.BIN	0x50ABD	6		コヨリ	코요리
+SYS00746	SSCR.BIN	0x50AD4	8		天心法師	천심법사
+SYS00747	SSCR.BIN	0x50AED	12		ふくろう天狗	부엉이 텐구
+SYS00748	SSCR.BIN	0x50B0A	12		変化の社の主	변화의 사당 주인
+SYS00749	SSCR.BIN	0x50B27	12	SYS00748	変化の社の主	변화의 사당 주인
+SYS00750	SSCR.BIN	0x50B46	6		風来人	방랑자
+SYS00751	SSCR.BIN	0x50B5D	6	SYS00750	風来人	방랑자
+SYS00752	SSCR.BIN	0x50B76	6	SYS00750	風来人	방랑자
+SYS00753	SSCR.BIN	0x50B8F	10		ばくち打ち	도박꾼
+SYS00754	SSCR.BIN	0x50BAC	6		テキ屋	노점상
+SYS00755	SSCR.BIN	0x50BC5	6	SYS00750	風来人	방랑자
+SYS00756	SSCR.BIN	0x50BDC	6	SYS00750	風来人	방랑자
+SYS00757	SSCR.BIN	0x50BF5	12		風来人Ｂ　緑	방랑자B 초록
+SYS00758	SSCR.BIN	0x50C14	6	SYS00750	風来人	방랑자
+SYS00759	SSCR.BIN	0x50C2B	6	SYS00750	風来人	방랑자
+SYS00760	SSCR.BIN	0x50C44	6	SYS00750	風来人	방랑자
+SYS00761	SSCR.BIN	0x50C5D	12		モスグリーン	모스그린
+SYS00762	SSCR.BIN	0x50C7C	6	SYS00750	風来人	방랑자
+SYS00763	SSCR.BIN	0x50C93	6	SYS00750	風来人	방랑자
+SYS00764	SSCR.BIN	0x50CAC	14		風来人Ｄ　青黄	방랑자D 파랑노랑
+SYS00765	SSCR.BIN	0x50CCD	6		男の子	남자아이
+SYS00766	SSCR.BIN	0x50CE4	12		男の子　青緑	남자아이 청록
+SYS00767	SSCR.BIN	0x50D03	12		男の子　赤紫	남자아이 적자
+SYS00768	SSCR.BIN	0x50D22	6		女の子	여자아이
+SYS00769	SSCR.BIN	0x50D39	16		女の子　黄色水色	여자아이 노랑하늘색
+SYS00770	SSCR.BIN	0x50D5C	12		女の子　赤緑	여자아이 빨강초록
+SYS00771	SSCR.BIN	0x50D7B	4		農夫	농부
+SYS00772	SSCR.BIN	0x50D90	4	SYS00771	農夫	농부
+SYS00773	SSCR.BIN	0x50DA5	4		漁師	어부
+SYS00774	SSCR.BIN	0x50DBC	10		農夫　赤緑	농부 빨강초록
+SYS00775	SSCR.BIN	0x50DD9	6		炭坑夫	광부
+SYS00776	SSCR.BIN	0x50E0F	12		ワナのゴンベ	함정의 곤베
+SYS00777	SSCR.BIN	0x50E2E	8		マスター	마스터
+SYS00778	SSCR.BIN	0x50E47	16		マスター　ワイン	마스터 와인
+SYS00779	SSCR.BIN	0x50E6A	18		マスター　うぐいす	마스터 휘파람새
+SYS00780	SSCR.BIN	0x50E8F	4		宿屋	여관
+SYS00781	SSCR.BIN	0x50EA6	6		かじ屋	대장장이
+SYS00782	SSCR.BIN	0x50EBD	6	SYS00781	かじ屋	대장장이
+SYS00783	SSCR.BIN	0x50ED5	12		かじ屋　ＰＢ	대장장이 PB
+SYS00784	SSCR.BIN	0x50EF4	12		かじ屋　黄茶	대장장이 노랑갈색
+SYS00785	SSCR.BIN	0x50F13	6		採掘師	채굴사
+SYS00786	SSCR.BIN	0x50F2C	6		若い女	젊은 여자
+SYS00787	SSCR.BIN	0x50F43	12		若い女　黄緑	젊은 여자 노랑초록
+SYS00788	SSCR.BIN	0x50F62	12		若い女　水色	젊은 여자 하늘색
+SYS00789	SSCR.BIN	0x50F81	10		若い女　赤	젊은 여자 빨강
+SYS00790	SSCR.BIN	0x50F9E	10		若い女　紫	젊은 여자 보라
+SYS00791	SSCR.BIN	0x50FBB	12		若い女　黄色	젊은 여자 노랑
+SYS00792	SSCR.BIN	0x50FDA	8		おばさん	아주머니
+SYS00793	SSCR.BIN	0x50FF3	8	SYS00792	おばさん	아주머니
+SYS00794	SSCR.BIN	0x5100D	14		おばさん　赤青	아주머니 빨강파랑
+SYS00795	SSCR.BIN	0x5102E	14		おばさん　緑黄	아주머니 초록노랑
+SYS00796	SSCR.BIN	0x5104F	12		おばさん　青	아주머니 파랑
+SYS00797	SSCR.BIN	0x5106E	14		おばさん　薄紫	아주머니 연보라
+SYS00798	SSCR.BIN	0x5108F	12		おばさん　白	아주머니 하양
+SYS00799	SSCR.BIN	0x510AE	14		おばさん　山吹	아주머니 황금색
+SYS00800	SSCR.BIN	0x510CF	10		おばあさん	할머니
+SYS00801	SSCR.BIN	0x510EA	10	SYS00800	おばあさん	할머니
+SYS00802	SSCR.BIN	0x51106	16		おばあさん　青緑	할머니 청록
+SYS00803	SSCR.BIN	0x51129	16		おばあさん　桃緑	할머니 분홍초록
+SYS00804	SSCR.BIN	0x5114C	10		おじいさん	할아버지
+SYS00805	SSCR.BIN	0x51167	16		おじいさん　青茶	할아버지 파랑갈색
+SYS00806	SSCR.BIN	0x5118A	14		おじいさん　錆	할아버지 녹슨색
+SYS00807	SSCR.BIN	0x511AB	4		成金	벼락부자
+SYS00808	SSCR.BIN	0x511C0	8		成金　水	벼락부자 하늘색
+SYS00809	SSCR.BIN	0x511DB	8		成金　緑	벼락부자 초록
+SYS00810	SSCR.BIN	0x511F6	8		つじ占い	길거리 점쟁이
+SYS00811	SSCR.BIN	0x5120F	14		つじ占い　錆緑	길거리 점쟁이 녹슨초록
+SYS00812	SSCR.BIN	0x51230	14		つじ占い　桃青	길거리 점쟁이 분홍파랑
+SYS00813	SSCR.BIN	0x51251	14		つじ占い　暗青	길거리 점쟁이 짙은파랑
+SYS00814	SSCR.BIN	0x51272	12		つじ占い　茶	길거리 점쟁이 갈색
+SYS00815	SSCR.BIN	0x51291	12		つじ占い　白	길거리 점쟁이 하양
+SYS00816	SSCR.BIN	0x512B0	6		フェイ	페이
+SYS00817	SSCR.BIN	0x512C7	10		フェイ　黄	페이 노랑
+SYS00818	SSCR.BIN	0x512E4	6		倉庫番	창고지기
+SYS00819	SSCR.BIN	0x51310	6		犬　黒	개 검정
+SYS00820	SSCR.BIN	0x51329	8		犬　水灰	개 하늘회색
+SYS00821	SSCR.BIN	0x51344	4		飛脚	파발꾼
+SYS00822	SSCR.BIN	0x51359	16		飛脚　赤うぐいす	파발꾼 빨강휘파람새색
+SYS00823	SSCR.BIN	0x5137C	8		ゲンさん	겐 씨
+SYS00824	SSCR.BIN	0x51397	10		忍者男の子	닌자 남자아이
+SYS00825	SSCR.BIN	0x513B2	16		忍者男の子　桃桜	닌자 남자아이 분홍벚꽃
+SYS00826	SSCR.BIN	0x513D5	14		忍者男の子　変	닌자 남자아이 변형
+SYS00827	SSCR.BIN	0x513F6	12		寺小屋の先生	서당 선생님
+SYS00828	SSCR.BIN	0x51413	12	SYS00827	寺小屋の先生	서당 선생님
+SYS00829	SSCR.BIN	0x51431	12		先生　ワイン	선생님 와인
+SYS00830	SSCR.BIN	0x51450	10		先生　青灰	선생님 파랑회색
+SYS00831	SSCR.BIN	0x5146D	12		先生　こげ茶	선생님 짙은갈색
+SYS00832	SSCR.BIN	0x5148C	10		先生　茶緑	선생님 갈색초록
+SYS00833	SSCR.BIN	0x514A9	6		細工師	세공사
+SYS00834	SSCR.BIN	0x514C2	4		神官	신관
+SYS00835	SSCR.BIN	0x514D7	4	SYS00834	神官	신관
+SYS00836	SSCR.BIN	0x5150A	10		神官　緑桃	신관 초록분홍
+SYS00837	SSCR.BIN	0x51527	6		村人Ａ	마을사람A
+SYS00838	SSCR.BIN	0x5153E	6	SYS00837	村人Ａ	마을사람A
+SYS00839	SSCR.BIN	0x51556	12		村人Ａ　黒灰	마을사람A 검정회색
+SYS00840	SSCR.BIN	0x51575	12		村人Ａ　茶青	마을사람A 갈색파랑
+SYS00841	SSCR.BIN	0x51594	12		村人Ａ　茶紫	마을사람A 갈색보라
+SYS00842	SSCR.BIN	0x515B3	12		村人Ａ　緑黄	마을사람A 초록노랑
+SYS00843	SSCR.BIN	0x515D2	12		村人Ａ　紫緑	마을사람A 보라초록
+SYS00844	SSCR.BIN	0x515F1	6		冒険家	모험가
+SYS00845	SSCR.BIN	0x5160A	6		マタギ	마타기
+SYS00846	SSCR.BIN	0x51621	12		マタギ　青水	마타기 파랑하늘색
+SYS00847	SSCR.BIN	0x51640	12		マタギ　赤緑	마타기 빨강초록
+SYS00848	SSCR.BIN	0x5165F	4		笠女	삿갓여인
+SYS00849	SSCR.BIN	0x51691	10		笠女　青赤	삿갓여인 파랑빨강
+SYS00850	SSCR.BIN	0x516AE	8		女風来人	여자 방랑자
+SYS00851	SSCR.BIN	0x516C7	8	SYS00850	女風来人	여자 방랑자
+SYS00852	SSCR.BIN	0x516E2	14		女風来人　緑茶	여자 방랑자 초록갈색
+SYS00853	SSCR.BIN	0x51703	16		女風来人　マゼ紫	여자 방랑자 마젠타보라
+SYS00854	SSCR.BIN	0x51726	6		ケイタ	케이타
+SYS00855	SSCR.BIN	0x5173D	8		キチゾー	키치조
+SYS00856	SSCR.BIN	0x51756	12		天心法師の壺	천심법사의 항아리
+SYS00857	SSCR.BIN	0x51773	12		ラデンのクシ	라덴의 빗
+SYS00858	SSCR.BIN	0x51792	4		店子	세입자
+SYS00859	SSCR.BIN	0x517A8	10		ラグーン石	라군석
+SYS00860	SSCR.BIN	0x517C3	6		封奇岩	봉기암
+SYS00861	SSCR.BIN	0x517DA	8		ポント焼	폰토야키
+SYS00862	SSCR.BIN	0x517F3	14		ミナモのクナイ	미나모의 쿠나이
+SYS00863	SSCR.BIN	0x51812	8		薬草の束	약초 다발
+SYS00864	SSCR.BIN	0x5182B	10		いきだおれ	객사한 자
+SYS00865	SSCR.BIN	0x51848	14	SYS00552	七天京の警備兵	시치텐쿄의 경비병
+SYS00866	SSCR.BIN	0x51869	12	SYS00553	八神楽の門番	야가구라의 문지기
+SYS00867	SSCR.BIN	0x51886	10		なにものか	정체불명의 존재
+SYS00868	SSCR.BIN	0x52451	214		番犬は店主の良き相棒です。泥棒をされる\nと風のように現れて泥棒にかみつき、容赦\nなくこらしめます。倍速行動が頼もしい正\n義の味方、忠犬の中の忠犬。そんな番犬の\nエレキ箱は、護衛役としてあなたの旅のお\n供にぴったりです。\n	번견은 점주의 좋은 파트너입니다. 도둑을 맞으면\n바람처럼 나타나 도둑을 물어뜯고, 가차없이\n혼내줍니다. 배속 행동이 든든한 정의의\n편, 충견 중의 충견. 그런 번견의\n일렉 상자는, 호위역으로서 당신의 여행의\n동반자로 딱 맞습니다.\n
+SYS00869	SSCR.BIN	0x52529	208		盗賊番はあの店主を怒らせた時よりも恐い\nという噂です。泥棒には問答無用で十手の\n制裁が加えられます。そんなすさまじい攻\n撃力が頼もしい盗賊番のエレキ箱は、あな\nたのどんな危険な旅にも、心強い味方とな\nるでしょう。\n	도적지기는 저 점주를 화나게 했을 때보다 무섭다는\n소문입니다. 도둑에게는 두말없이 십수의\n제재가 가해집니다. 그런 무시무시한 공\n격력이 든든한 도적지기의 일렉 상자는, 당신\n의 어떤 위험한 여행에도 든든한 아군이\n되어줄 것입니다.\n
+SYS00870	SSCR.BIN	0x525FB	308		ガマラはガマラ系の中で一番弱い、緑色の\nガマグチです。ガマラはギタンが大好きで\n落ちているギタンの上でじっとしていたり\n他人のギタンを盗んで高飛びして、倍速で\n逃げ回ったりと、困ったクセがあります。\nトドの盾が盗難防止用の装備になります。\nそんなガマラのエレキ箱は、あなたの路銀\nをまかなってくれるかもしれません。\n	가마라는 가마라 계열 중 가장 약한, 초록색\n두꺼비 지갑입니다. 가마라는 기탄을 아주 좋아해서\n떨어진 기탄 위에서 가만히 있거나\n남의 기탄을 훔쳐서 멀리 도망가며, 배속으로\n도망다니는 등, 곤란한 버릇이 있습니다.\n토도의 방패가 도난 방지용 장비가 됩니다.\n그런 가마라의 일렉 상자는, 당신의 노잣돈\n을 마련해 줄지도 모릅니다.\n
+SYS00871	SSCR.BIN	0x52731	308		ガマグッチはガマラ系の中で２番目に強い\n紫色のガマグチです。ギタンが大好きで、\n落ちているギタンの上でじっとしていたり\n他人のギタンを盗んで高飛びして、倍速で\n逃げ回ったりと、困ったクセがあります。\nトドの盾が盗難防止用の装備になります。\nそんなガマグッチのエレキ箱は、あなたの\n路銀を潤してくれるかもしれません。\n	가마굿치는 가마라 계열 중 두 번째로 강한\n보라색 두꺼비 지갑입니다. 기탄을 아주 좋아해서,\n떨어진 기탄 위에서 가만히 있거나\n남의 기탄을 훔쳐서 멀리 도망가며, 배속으로\n도망다니는 등, 곤란한 버릇이 있습니다.\n토도의 방패가 도난 방지용 장비가 됩니다.\n그런 가마굿치의 일렉 상자는, 당신의\n노잣돈을 두둑하게 해줄지도 모릅니다.\n
+SYS00872	SSCR.BIN	0x52867	300		ガマゴンはガマラ系の中で最強の金色のガ\nマグチです。ギタンが大好きで、落ちてい\nるギタンの上でじっとしていたり、他人の\nギタンを盗んで高飛びして、倍速で逃げ回\nったりと、困ったクセがあります。トドの\n盾が盗難防止用の装備になります。そんな\nガマゴンのエレキ箱は、あなたをお大尽に\nしてくれるかもしれません。\n	가마곤은 가마라 계열 중 최강인 금색 두\n꺼비 지갑입니다. 기탄을 아주 좋아해서, 떨어져 있\n는 기탄 위에서 가만히 있거나, 남의\n기탄을 훔쳐서 멀리 도망가며, 배속으로 도망다\n니는 등, 곤란한 버릇이 있습니다. 토도의\n방패가 도난 방지용 장비가 됩니다. 그런\n가마곤의 일렉 상자는, 당신을 부호로\n만들어줄지도 모릅니다.\n
+SYS00873	SSCR.BIN	0x52995	302		くねくねハニーはレベルを下げる踊りが得\n意です。相手によってはレベルが下がって\n姿まで変わる場合もあります。ドレインよ\nけの腕輪で防ぐ事ができます。でも本人は\nレベルの変化はしません。このシュールな\n姿と虚ろな目のままの退廃的でミステリア\nスなくねくねハニーのエレキ箱は、芸術を\n愛するあなたにぴったりです。\n	꿈틀꿈틀 허니는 레벨을 낮추는 춤에 능\n합니다. 상대에 따라서는 레벨이 낮아져\n모습까지 변하는 경우도 있습니다. 드레인\n방지 팔찌로 막을 수 있습니다. 하지만 본인은\n레벨의 변화는 일어나지 않습니다. 이 초현실적인\n모습과 공허한 눈빛 그대로의 퇴폐적이고 신비로\n운 꿈틀꿈틀 허니의 일렉 상자는, 예술을\n사랑하는 당신에게 딱 어울립니다.\n
+SYS00874	SSCR.BIN	0x52AC5	280		青い体をしたゲイズは、ゲイズ系の中では\n一番弱いのですが、大きな一ツ目で催眠術\nを使い、相手が思ってもみなかったアイテ\nムを使わせてしまう事ができます。また腹\nが裂けて出てくる触手の攻撃も強力です。\nマニアックなファンを持つこのゲイズのエ\nレキ箱は、旅慣れたあなたによくお似合い\nです。\n	파란 몸을 한 게이즈는, 게이즈 계열 중에서는\n가장 약하지만, 커다란 외눈으로 최면술\n을 사용해, 상대가 생각지도 못했던 아이템\n을 사용하게 만들 수 있습니다. 또 배가\n갈라져 나오는 촉수 공격도 강력합니다.\n마니아 팬을 가진 이 게이즈의 일\n렉 상자는, 여행에 익숙한 당신에게 잘 어울립니\n다.\n
+SYS00875	SSCR.BIN	0x52BDF	300		緑の体をしたスーパーゲイズは、ゲイズ系\nの中では２番目に強く、大きな一ツ目で催\n眠術を使うと、相手は思ってもみなかった\nアイテムや装備品を使ってしまいます。ま\nた腹が裂けて出てくる触手の攻撃も強力で\nす。カルトなファンを持つこのスーパーゲ\nイズのエレキ箱はあなたぐらいの熟練した\n風来人にこそお似合いです。\n	초록 몸을 한 슈퍼게이즈는, 게이즈 계열\n중에서는 두 번째로 강하며, 커다란 외눈으로 최\n면술을 사용하면, 상대는 생각지도 못했던\n아이템이나 장비품을 사용해버립니다. 또\n배가 갈라져 나오는 촉수 공격도 강력합니\n다. 컬트적인 팬을 가진 이 슈퍼게\n이즈의 일렉 상자는 당신 정도의 숙련된\n방랑자에게야말로 어울립니다.\n
+SYS00876	SSCR.BIN	0x52D0D	302		赤い体をしたハイパーゲイズは、ゲイズ系\nの中では最強です。大きな一ツ目で催眠術\nを使い、相手が思ってもみなかった行動を\nとらせてしまう事ができます。また腹が裂\nけて出てくる触手の攻撃も強力です。ディ\nープな信者を持つこのハイパーゲイズのエ\nレキ箱を連れて歩けば、あなたのステイタ\nスになる事まちがいなしです。\n	빨간 몸을 한 하이퍼게이즈는, 게이즈 계열\n중에서는 최강입니다. 커다란 외눈으로 최면술\n을 사용해, 상대가 생각지도 못했던 행동을\n하게 만들 수 있습니다. 또 배가 갈라\n져 나오는 촉수 공격도 강력합니다. 디\n프한 신자를 가진 이 하이퍼게이즈의 일\n렉 상자를 데리고 다니면, 당신의 위상이\n될 것이 틀림없습니다.\n
+SYS00877	SSCR.BIN	0x52E3D	296		紫の髪と赤い蝶ネクタイのシューベルは、\nシューベル系の中では一番弱いので、手に\n持ったベルを鳴らして召喚できるのは、一\n度に一匹ずつ、一番弱いモンスターです。\nそれは当然敵となります。そんなおしゃれ\nなシューベルのエレキ箱は、己の決めた剣\nの道を行くあなたを優しくラルゴでサポー\nトしてくれるでしょう。\n	보라색 머리와 빨간 나비 넥타이의 슈베르는,\n슈베르 계열 중에서는 가장 약해서, 손에\n든 종을 울려 소환할 수 있는 건, 한\n번에 한 마리씩, 가장 약한 몬스터입니다.\n그것은 당연히 적이 됩니다. 그런 세련되\n슈베르의 일렉 상자는, 스스로 정한 검\n의 길을 가는 당신을 다정하게 라르고로 서포\n트해 줄 것입니다.\n
+SYS00878	SSCR.BIN	0x52F67	294		ピンクの髪と緑の蝶ネクタイのメンベルス\nは、シューベル系の中の２レベルに当たる\nので、２レベルのモンスターを一度に一匹\nずつ、手に持ったベルを鳴らして召喚しま\nす。それは当然敵となります。そんなキュ\nートなメンベルスのエレキ箱は、己の決め\nた剣の道を行くあなたをコンブリオで演出\nしてくれるでしょう。\n	분홍색 머리와 초록 나비 넥타이의 멘벨스\n는, 슈베르 계열 중 2레벨에 해당\n하므로, 2레벨의 몬스터를 한 번에 한 마리\n씩, 손에 든 종을 울려 소환합니\n다. 그것은 당연히 적이 됩니다. 그런 큐\n트한 멘벨스의 일렉 상자는, 스스로 정\n한 검의 길을 가는 당신을 콤브리오로 연출\n해 줄 것입니다.\n
+SYS00879	SSCR.BIN	0x5308F	312		緑の髪と青い蝶ネクタイのベルトーベンは\nシューベル系の中で最強の３レベルに当た\nるので、召喚できるのも一度に数匹、３レ\nベルのモンスターを、手に持ったベルを鳴\nらして召喚します。それらは当然敵となり\nます。そんないじらしいベルトーベンのエ\nレキ箱は、己の決めた剣の道を行くあなた\nをアジタートで指揮してくれるでしょう。\n	초록색 머리와 파란 나비 넥타이의 벨토벤은\n슈베르 계열 중 최강인 3레벨에 해당하\n므로, 소환할 수 있는 것도 한 번에 여러 마리, 3레\n벨의 몬스터를, 손에 든 종을 울\n려 소환합니다. 그것들은 당연히 적이 됩니\n다. 그런 애처로운 벨토벤의 일\n렉 상자는, 스스로 정한 검의 길을 가는 당신\n을 아지타토로 지휘해 줄 것입니다.\n
+SYS00880	SSCR.BIN	0x531C9	286		タウロスは牛の姿をしたモンスターです。\nタウロス系の中では一番弱いとはいっても\nおそろしい怪力で斧を振り下ろし、痛恨の\n一撃をくり出す超強力な豪傑モンスターで\nす。山のように盛り上がった筋肉が見るも\nのを圧倒させます。そんなタウロスのエレ\nキ箱はあなたの最も頼りになる護衛役にな\nるでしょう。\n	타우로스는 소의 모습을 한 몬스터입니다.\n타우로스 계열 중에서는 가장 약하다고는 해도\n무시무시한 괴력으로 도끼를 내리쳐, 통한의\n일격을 날리는 초강력한 호걸 몬스터입니\n다. 산처럼 솟아오른 근육이 보는 이\n를 압도시킵니다. 그런 타우로스의 일렉\n박스는 당신의 가장 든든한 호위역이 되\n어줄 것입니다.\n

@@ -1,0 +1,4 @@
+SYS02968 SSCR.BIN  14B [レベル %3d/%3d] -> [레벨 %3d/%3d]
+SYS03679 SSCR.BIN  15B [ちから  %2d/%2d] -> [힘  %2d/%2d]
+SYS03808 SSCR.BIN  17B [ 満腹度 %3d/%3d %] -> [만복도 %3d/%3d %]
+SYS03809 SSCR.BIN  15B [ ちから %3d/%3d] -> [힘 %3d/%3d]

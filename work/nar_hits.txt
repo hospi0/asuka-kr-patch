@@ -1,0 +1,5 @@
+DATASCR.BIN    tenrinsanmyaku   0x55A6
+DATASCR.BIN    tenrinkoku_kanji 0x2B40B
+DATASCR.BIN    izayoi           0xD51E
+SSCR.BIN       tenrinkoku_kanji 0x130D4
+SSCR.BIN       izayoi           0x50A19

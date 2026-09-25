@@ -1,0 +1,445 @@
+id	file	offset	budget	same_as	jp	kr
+SYS00164	SSCR.BIN	0x1A626	23		%sは ようすを見ている。	%s는 상황을 살피고 있다.
+SYS00165	SSCR.BIN	0x1A778	32		しかし なにも ぬすまれなかった。	하지만 아무것도 도둑맞지 않았다.
+SYS00166	SSCR.BIN	0x1A8F5	21		%sは %dギタン盗んだ！	%s는 %d기탄을 훔쳤다!
+SYS00167	SSCR.BIN	0x1A93F	21	SYS00166	%sは %dギタン盗んだ！	%s는 %d기탄을 훔쳤다!
+SYS00168	SSCR.BIN	0x1AC1D	22		%sは %ldギタン盗んだ！	%s는 %ld기탄을 훔쳤다!
+SYS00169	SSCR.BIN	0x1AC68	22	SYS00168	%sは %ldギタン盗んだ！	%s는 %ld기탄을 훔쳤다!
+SYS00170	SSCR.BIN	0x1AF8C	23	SYS00164	%sは ようすを見ている。	%s는 상황을 살피고 있다.
+SYS00171	SSCR.BIN	0x1B291	24		%sは %ldギタンぬすんだ！	%s는 %ld기탄을 훔쳤다!
+SYS00172	SSCR.BIN	0x1B302	24	SYS00171	%sは %ldギタンぬすんだ！	%s는 %ld기탄을 훔쳤다!
+SYS00173	SSCR.BIN	0x1B414	23		%ld ギタンを ひろった！	%ld기탄을 주웠다!
+SYS00174	SSCR.BIN	0x1B598	23	SYS00173	%ld ギタンを ひろった！	%ld기탄을 주웠다!
+SYS00175	SSCR.BIN	0x1B7FE	27		%sは くねくねダンスをした！	%s는 꿈틀꿈틀 춤을 췄다!
+SYS00176	SSCR.BIN	0x1B886	25		しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00177	SSCR.BIN	0x1BBD3	24		%sの めだまが ひかった！	%s의 눈알이 번쩍였다!
+SYS00178	SSCR.BIN	0x1BC99	23		しかし 効果がなかった！	하지만 효과가 없었다!
+SYS00179	SSCR.BIN	0x1BCE3	15		%sは 混乱した！	%s는 혼란에 빠졌다!
+SYS00180	SSCR.BIN	0x1C092	30		%sは モンスターを よびだした！	%s는 몬스터를 불러냈다!
+SYS00181	SSCR.BIN	0x1C9F7	20		石は %sに 当たった！	돌은 %s에게 맞았다!
+SYS00182	SSCR.BIN	0x1CA41	18		%sは 石を よけた！	%s는 돌을 피했다!
+SYS00183	SSCR.BIN	0x1CF89	22		炎の息が %sを 焦がす！	불길이 %s를 태운다!
+SYS00184	SSCR.BIN	0x1D4FD	23	SYS00164	%sは ようすを見ている。	%s는 상황을 살피고 있다.
+SYS00185	SSCR.BIN	0x1D831	32	SYS00165	しかし なにも ぬすまれなかった。	하지만 아무것도 도둑맞지 않았다.
+SYS00186	SSCR.BIN	0x1D8D3	30		しかし なにも ぬすめなかった。	하지만 아무것도 훔치지 못했다.
+SYS00187	SSCR.BIN	0x1D9C1	12		%sを盗んだ！	%s를 훔쳤다!
+SYS00188	SSCR.BIN	0x1E189	13		%sを おいた。	%s를 놓았다.
+SYS00189	SSCR.BIN	0x1E1BE	19		ここには おけない。	여기에는 놓을 수 없다.
+SYS00190	SSCR.BIN	0x1E2E2	12		%sを盗んだ。	%s를 훔쳤다.
+SYS00191	SSCR.BIN	0x1F1FA	26		%sは クサイいきを はいた！	%s는 냄새나는 숨을 내뱉었다!
+SYS00192	SSCR.BIN	0x1F2AD	33		大きなおにぎりに なってしまった！	커다란 주먹밥이 되어버렸다!
+SYS00193	SSCR.BIN	0x1F3F0	26	SYS00191	%sは クサイいきを はいた！	%s는 냄새나는 숨을 내뱉었다!
+SYS00194	SSCR.BIN	0x1F5EC	9		%sは %sを	%s는 %s를
+SYS00195	SSCR.BIN	0x1F5FE	19		のどに つまらせた！	목에 걸렸다!
+SYS00196	SSCR.BIN	0x1FA71	15		%sに 当たった！	%s에게 맞았다!
+SYS00197	SSCR.BIN	0x20024	13	SYS00007	%sは 外れた。	%s는 빗나갔다.
+SYS00198	SSCR.BIN	0x20A5F	16		%sに乗り移った！	%s에게 옮겨붙었다!
+SYS00199	SSCR.BIN	0x20FFD	26		%sは 呪いの呪文を 唱えた！	%s는 저주의 주문을 외웠다!
+SYS00200	SSCR.BIN	0x2107D	23	SYS00178	しかし 効果がなかった！	하지만 효과가 없었다!
+SYS00201	SSCR.BIN	0x210C8	17		%sは 我を失った！	%s는 이성을 잃었다!
+SYS00202	SSCR.BIN	0x21138	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00203	SSCR.BIN	0x211ED	15		%sは 呪われた！	%s는 저주받았다!
+SYS00204	SSCR.BIN	0x2124D	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00205	SSCR.BIN	0x21C98	17		%sの ハラヘリー♪	%s의 배고파~♪
+SYS00206	SSCR.BIN	0x21D44	28		はらがへって ＨＰが へった！	배가 고파서 HP가 줄었다!
+SYS00207	SSCR.BIN	0x21E2F	31		満腹度が%d％に なってしまった！	포만도가 %d％가 되어버렸다!
+SYS00208	SSCR.BIN	0x21E80	35		最大満腹度が%d％に なってしまった！	최대 포만도가 %d％가 되어버렸다!
+SYS00209	SSCR.BIN	0x21EBF	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00210	SSCR.BIN	0x2224C	24		%sは 腐った液を 吐いた！	%s는 썩은 액체를 토했다!
+SYS00211	SSCR.BIN	0x22331	23		しかし 効果がなかった。	하지만 효과가 없었다.
+SYS00212	SSCR.BIN	0x22357	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00213	SSCR.BIN	0x223F5	29		防御力が ちょびっと下がった！	방어력이 살짝 떨어졌다!
+SYS00214	SSCR.BIN	0x22434	23		防御力が 少し下がった！	방어력이 조금 떨어졌다!
+SYS00215	SSCR.BIN	0x22463	25		防御力が ちょー下がった！	방어력이 왕창 떨어졌다!
+SYS00216	SSCR.BIN	0x2265F	24	SYS00210	%sは 腐った液を 吐いた！	%s는 썩은 액체를 토했다!
+SYS00217	SSCR.BIN	0x22747	23	SYS00211	しかし 効果がなかった。	하지만 효과가 없었다.
+SYS00218	SSCR.BIN	0x2276D	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00219	SSCR.BIN	0x227EC	29		印が ひとつ 消えてしまった！ 	문양이 하나 사라져버렸다!
+SYS00220	SSCR.BIN	0x22886	25		とくぎが 使えなくなった！	특기를 쓸 수 없게 되었다!
+SYS00221	SSCR.BIN	0x22939	27		メッキが はがれてしまった！	도금이 벗겨져버렸다!
+SYS00222	SSCR.BIN	0x22A3C	29		くさって 弱くなってしまった。	부식되어 약해져버렸다.
+SYS00223	SSCR.BIN	0x22A5F	27		さびて 弱くなってしまった！	녹슬어서 약해져버렸다!
+SYS00224	SSCR.BIN	0x22B11	35		メッキされているので へいきだった！	도금이 되어 있어서 멀쩡했다!
+SYS00225	SSCR.BIN	0x22B3A	18		なんともなかった！	아무 일도 없었다!
+SYS00226	SSCR.BIN	0x22F5D	15		%sは 爆発した！	%s는 폭발했다!
+SYS00227	SSCR.BIN	0x232AB	17		%sは ろう電した！	%s는 감전됐다!
+SYS00228	SSCR.BIN	0x23554	13		%sは 燃えた！	%s는 불탔다!
+SYS00229	SSCR.BIN	0x23DC5	15		%sは 突進した！	%s는 돌진했다!
+SYS00230	SSCR.BIN	0x244AB	13		%sを 投げた！	%s를 던졌다!
+SYS00231	SSCR.BIN	0x245DB	13		%sは 外れた！	%s는 빗나갔다!
+SYS00232	SSCR.BIN	0x24672	13		なんと！ %sが	이런! %s가
+SYS00233	SSCR.BIN	0x246A4	24		%sの中に 入ってしまった!	%s 안에 들어가 버렸다!
+SYS00234	SSCR.BIN	0x2477B	13		%sは おもわず	%s는 무심코
+SYS00235	SSCR.BIN	0x2479A	21		%sを とってしまった！	%s를 집어버렸다!
+SYS00236	SSCR.BIN	0x247BF	8		なんと！	이런!
+SYS00237	SSCR.BIN	0x247CE	19		%sは 呪われていた！	%s는 저주받아 있었다!
+SYS00238	SSCR.BIN	0x259C6	20		a\x0Cシレンを消している	a\x0C시렌을 지우는 중
+SYS00239	SSCR.BIN	0x264AC	28		a\x0C呼ばれるはずの無いエントリ	a\x0C호출될 리 없는 엔트리
+SYS00240	SSCR.BIN	0x267F8	31		%sの よくきき効果が無くなった。	%s의 잘 듣는 효과가 사라졌다.
+SYS00241	SSCR.BIN	0x26940	17		%sは 目が覚めた！	%s는 잠에서 깨어났다!
+SYS00242	SSCR.BIN	0x26959	24		……眠くて何もできない。	……졸려서 아무것도 할 수 없다.
+SYS00243	SSCR.BIN	0x28376	20		無敵ではなくなった。	무적이 아니게 되었다.
+SYS00244	SSCR.BIN	0x28565	27		おにぎりに なってしまった！	주먹밥이 되어버렸다!
+SYS00245	SSCR.BIN	0x28644	17		%sは 元に戻った！	%s는 원래대로 돌아왔다!
+SYS00246	SSCR.BIN	0x287D2	18		死の呪いが解けた！	죽음의 저주가 풀렸다!
+SYS00247	SSCR.BIN	0x287EA	23		%sの 死の呪いが解けた！	%s의 죽음의 저주가 풀렸다!
+SYS00248	SSCR.BIN	0x288E4	20		%sは足が速くなった！	%s는 발이 빨라졌다!
+SYS00249	SSCR.BIN	0x28900	20		%sは足が遅くなった！	%s는 발이 느려졌다!
+SYS00250	SSCR.BIN	0x289F5	15		a\x0C%s 行動力 -%d	a\x0C%s 행동력 -%d
+SYS00251	SSCR.BIN	0x28AD6	12		H\x04なにものか	H\x04무언가
+SYS00252	SSCR.BIN	0x2BCD5	20		復活回路が作動した！	부활 회로가 작동했다!
+SYS00253	SSCR.BIN	0x2BD11	15		%sは 復活した！	%s는 부활했다!
+SYS00254	SSCR.BIN	0x2BD2E	26		復活回路は壊れてしまった！	부활 회로는 부서져버렸다!
+SYS00255	SSCR.BIN	0x2C5C7	21		%sは レベルが上がって	%s는 레벨이 올라
+SYS00256	SSCR.BIN	0x2C5E6	21		%sは レベルが下がって	%s는 레벨이 내려가
+SYS00257	SSCR.BIN	0x2C619	12		%sになった！	%s이 되었다!
+SYS00258	SSCR.BIN	0x2C685	31		%sは \\r成長して少し強くなった！	%s는 \\r성장해서 조금 강해졌다!
+SYS00259	SSCR.BIN	0x2C6C5	35		%sは \\rこれ以上成長できないようだ。	%s는 \\r더 이상 성장할 수 없는 것 같다.
+SYS00260	SSCR.BIN	0x2C6F0	31		%sは \\r退化して少し弱くなった！	%s는 \\r퇴화해서 조금 약해졌다!
+SYS00261	SSCR.BIN	0x30E46	15	SYS00226	%sは 爆発した！	%s는 폭발했다!
+SYS00262	SSCR.BIN	0x31CF7	16	SYS00009	%sを 跳ね返した!	%s를 튕겨냈다!
+SYS00263	SSCR.BIN	0x31E01	14	SYS00006	%sに 当たった!	%s에게 맞았다!
+SYS00264	SSCR.BIN	0x32F0E	26		a\x0CEN_ChkCanBirthは時代遅れ	a\x0CEN_ChkCanBirth는 시대에 뒤떨어짐
+SYS00265	SSCR.BIN	0x32FBA	23	SYS00211	しかし 効果がなかった。	하지만 효과가 없었다.
+SYS00266	SSCR.BIN	0x33018	25	SYS00220	とくぎが 使えなくなった！	특기를 쓸 수 없게 되었다!
+SYS00267	SSCR.BIN	0x3308B	22		%sは 少し 弱くなった！	%s는 조금 약해졌다!
+SYS00268	SSCR.BIN	0x3310C	19		少し 元気になった！	조금 기운이 났다!
+SYS00269	SSCR.BIN	0x33164	17		%sは 消火された！	%s는 불이 꺼졌다!
+SYS00270	SSCR.BIN	0x3425D	24		%sは 魔法を 跳ね返した！	%s는 마법을 튕겨냈다!
+SYS00271	SSCR.BIN	0x342E9	21		%sには 効かなかった！	%s에게는 효과가 없었다!
+SYS00272	SSCR.BIN	0x34789	20		投げられずにすんだ！	던져지지 않고 넘어갔다!
+SYS00273	SSCR.BIN	0x347A3	14		投げられない！	던질 수 없다!
+SYS00274	SSCR.BIN	0x34969	13	SYS00230	%sを 投げた！	%s를 던졌다!
+SYS00275	SSCR.BIN	0x34CD8	15	SYS00196	%sに 当たった！	%s에게 맞았다!
+SYS00276	SSCR.BIN	0x35333	21		%sは ベロベロなめた！	%s는 날름날름 핥았다!
+SYS00277	SSCR.BIN	0x3546E	22	SYS00267	%sは 少し 弱くなった！	%s는 조금 약해졌다!
+SYS00278	SSCR.BIN	0x35493	24		%sは マジで 弱くなった！	%s는 진짜로 약해졌다!
+SYS00279	SSCR.BIN	0x354BA	24		%sは ちょー 弱くなった！	%s는 왕창 약해졌다!
+SYS00280	SSCR.BIN	0x354E1	24		%sは かなり 弱くなった！	%s는 꽤 약해졌다!
+SYS00281	SSCR.BIN	0x35571	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00282	SSCR.BIN	0x355EC	29		ちからが %dポイント下がった。	힘이 %d포인트 떨어졌다.
+SYS00283	SSCR.BIN	0x356B9	37		ちからの最大値が %dポイント下がった。	힘의 최대치가 %d포인트 떨어졌다.
+SYS00284	SSCR.BIN	0x3578A	15	SYS00196	%sに 当たった！	%s에게 맞았다!
+SYS00285	SSCR.BIN	0x35EBA	15		%sを はじかれた	%s에게서 튕겨났다
+SYS00286	SSCR.BIN	0x35F64	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00287	SSCR.BIN	0x362FC	22		%sは ビームを 吐いた！	%s는 빔을 내뿜었다!
+SYS00288	SSCR.BIN	0x3663D	24		%sは 死の呪いを かけた！	%s는 죽음의 저주를 걸었다!
+SYS00289	SSCR.BIN	0x3675B	24		しかし 効果が なかった！	하지만 효과가 없었다!
+SYS00290	SSCR.BIN	0x3683F	23		%sは あと%dターンの命！	%s는 앞으로 %d턴의 목숨!
+SYS00291	SSCR.BIN	0x36BBF	22		%sは いのりを こめた！	%s는 기도를 담았다!
+SYS00292	SSCR.BIN	0x36CE7	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00293	SSCR.BIN	0x36D36	25		%sは 具合がわるくなった！	%s는 몸 상태가 나빠졌다!
+SYS00294	SSCR.BIN	0x3728A	34		しかし なにも 吸い込まれなかった。	하지만 아무것도 빨려들지 않았다.
+SYS00295	SSCR.BIN	0x3734D	32		しかし なにも 吸い込めなかった。	하지만 아무것도 빨아들이지 못했다.
+SYS00296	SSCR.BIN	0x37428	13		%sを 吸った！	%s를 빨아들였다!
+SYS00297	SSCR.BIN	0x377B2	13		%sを 食べた！	%s를 먹었다!
+SYS00298	SSCR.BIN	0x377D4	13	SYS00297	%sを 食べた！	%s를 먹었다!
+SYS00299	SSCR.BIN	0x37E1A	18		%sの 目潰し 攻撃！	%s의 눈 찌르기 공격!
+SYS00300	SSCR.BIN	0x382CF	15		%sの ベロよせ！	%s의 혀 감기!
+SYS00301	SSCR.BIN	0x383D6	25		しかし なんともなかった！	하지만 아무 일도 일어나지 않았다!
+SYS00302	SSCR.BIN	0x389DE	17		%sに とりついた！	%s에게 달라붙었다!
+SYS00303	SSCR.BIN	0x38A14	17	SYS00302	%sに とりついた！	%s에게 달라붙었다!
+SYS00304	SSCR.BIN	0x39AED	16		%sの 突風攻撃！ 	%s의 돌풍 공격!
+SYS00305	SSCR.BIN	0x3A198	17		%sの クナイ駆け！	%s의 쿠나이 질주!
+SYS00306	SSCR.BIN	0x3ADC7	15	SYS00300	%sの ベロよせ！	%s의 혀 감기!
+SYS00307	SSCR.BIN	0x3AE82	25		しかし うごかせなかった！	하지만 움직이게 하지 못했다!
+SYS00308	SSCR.BIN	0x3B0DD	9	SYS00194	%sは %sを	%s는 %s를
+SYS00309	SSCR.BIN	0x3B0ED	12		飲み込んだ！	삼켰다!
+SYS00310	SSCR.BIN	0x3B20B	9	SYS00194	%sは %sを	%s는 %s를
+SYS00311	SSCR.BIN	0x3B21B	8		生んだ！	낳았다!
+SYS00312	SSCR.BIN	0x3B870	13	SYS00231	%sは 外れた！	%s는 빗나갔다!
+SYS00313	SSCR.BIN	0x3C141	26		石は %sに 当たらなかった！	돌은 %s에게 맞지 않았다!
+SYS00314	SSCR.BIN	0x3C163	20	SYS00181	石は %sに 当たった！	돌은 %s에게 맞았다!
+SYS00315	SSCR.BIN	0x3C30E	26	SYS00313	石は %sに 当たらなかった！	돌은 %s에게 맞지 않았다!
+SYS00316	SSCR.BIN	0x3C330	20	SYS00181	石は %sに 当たった！	돌은 %s에게 맞았다!
+SYS00317	SSCR.BIN	0x3C8C4	22	SYS00183	炎の息が %sを 焦がす！	불길이 %s를 태운다!
+SYS00318	SSCR.BIN	0x3DC7D	13	SYS00007	%sは 外れた。	%s는 빗나갔다.
+SYS00319	SSCR.BIN	0x3DF38	22		%sは 頭に 血が上った！	%s는 머리로 피가 쏠렸다!
+SYS00320	SSCR.BIN	0x3E245	16	SYS00198	%sに乗り移った！	%s에게 옮겨붙었다!
+SYS00321	SSCR.BIN	0x3E9D6	17	SYS00205	%sの ハラヘリー♪	%s의 배고파~♪
+SYS00322	SSCR.BIN	0x3EA57	22		%sの 満腹度を 下げた！	%s의 포만도를 낮췄다!
+SYS00323	SSCR.BIN	0x3EB11	23		満腹度は %d％になった。	포만도는 %d％가 되었다.
+SYS00324	SSCR.BIN	0x3EB30	25		満腹度は もう上がらない。	포만도는 더 이상 오르지 않는다.
+SYS00325	SSCR.BIN	0x3EBD5	28	SYS00206	はらがへって ＨＰが へった！	배가 고파서 HP가 줄었다!
+SYS00326	SSCR.BIN	0x3F054	19		%sには ばけれない！	%s로는 변신할 수 없다!
+SYS00327	SSCR.BIN	0x3F89B	13	SYS00230	%sを 投げた！	%s를 던졌다!
+SYS00328	SSCR.BIN	0x3FA1B	13	SYS00231	%sは 外れた！	%s는 빗나갔다!
+SYS00329	SSCR.BIN	0x3FE12	14	SYS00273	投げられない！	던질 수 없다!
+SYS00330	SSCR.BIN	0x3FF4E	13	SYS00230	%sを 投げた！	%s를 던졌다!
+SYS00331	SSCR.BIN	0x40721	17		%sを 回復させた！	%s를 회복시켰다!
+SYS00332	SSCR.BIN	0x40D9B	24	SYS00288	%sは 死の呪いを かけた！	%s는 죽음의 저주를 걸었다!
+SYS00333	SSCR.BIN	0x40E95	24	SYS00289	しかし 効果が なかった！	하지만 효과가 없었다!
+SYS00334	SSCR.BIN	0x40FA2	23	SYS00290	%sは あと%dターンの命！	%s는 앞으로 %d턴의 목숨!
+SYS00335	SSCR.BIN	0x413B0	22	SYS00291	%sは いのりを こめた！	%s는 기도를 담았다!
+SYS00336	SSCR.BIN	0x414F0	23	SYS00211	しかし 効果がなかった。	하지만 효과가 없었다.
+SYS00337	SSCR.BIN	0x4153D	25	SYS00293	%sは 具合がわるくなった！	%s는 몸 상태가 나빠졌다!
+SYS00338	SSCR.BIN	0x41B33	15	SYS00300	%sの ベロよせ！	%s의 혀 감기!
+SYS00339	SSCR.BIN	0x41C11	25	SYS00307	しかし うごかせなかった！	하지만 움직이게 하지 못했다!
+SYS00340	SSCR.BIN	0x4217D	21		%sは 手も足も出ない！	%s는 손도 발도 못 낸다!
+SYS00341	SSCR.BIN	0x422EC	21		%sには とりつけない！	%s에게는 달라붙을 수 없다!
+SYS00342	SSCR.BIN	0x423BE	17	SYS00302	%sに とりついた！	%s에게 달라붙었다!
+SYS00343	SSCR.BIN	0x423F4	17	SYS00302	%sに とりついた！	%s에게 달라붙었다!
+SYS00344	SSCR.BIN	0x43061	30		%s「運命のサイコロじゃ～～！」	%s「운명의 주사위다ㅡㅡ!」
+SYS00345	SSCR.BIN	0x4319D	23		%s「鬼の目が でたぞ！」	%s「도깨비 눈이 나왔다!」
+SYS00346	SSCR.BIN	0x431D8	23		%s「炎の目が でたぞ！」	%s「불꽃 눈이 나왔다!」
+SYS00347	SSCR.BIN	0x43213	27		%s「オカメの目が でたぞ！」	%s「오카메 눈이 나왔다!」
+SYS00348	SSCR.BIN	0x43252	31		%s「ヒョットコの目が でたぞ！」	%s「히요토코 눈이 나왔다!」
+SYS00349	SSCR.BIN	0x43993	26		%sは つむじ風を おこした！	%s는 회오리바람을 일으켰다!
+SYS00350	SSCR.BIN	0x43BB8	23		不思議な 踊りを踊った！	신기한 춤을 췄다!
+SYS00351	SSCR.BIN	0x43C38	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS00352	SSCR.BIN	0x43CCA	35	SYS00208	最大満腹度が%d％に なってしまった！	최대 포만도가 %d％가 되어버렸다!
+SYS00353	SSCR.BIN	0x43D1A	31	SYS00207	満腹度が%d％に なってしまった！	포만도가 %d％가 되어버렸다!
+SYS00354	SSCR.BIN	0x44356	12	SYS00190	%sを盗んだ。	%s를 훔쳤다.
+SYS00355	SSCR.BIN	0x443CD	32	SYS00165	しかし なにも ぬすまれなかった。	하지만 아무것도 도둑맞지 않았다.
+SYS00356	SSCR.BIN	0x44567	13	SYS00230	%sを 投げた！	%s를 던졌다!
+SYS00357	SSCR.BIN	0x44A09	14	SYS00273	投げられない！	던질 수 없다!
+SYS00358	SSCR.BIN	0x44B8B	13	SYS00230	%sを 投げた！	%s를 던졌다!
+SYS00359	SSCR.BIN	0x44F04	15	SYS00196	%sに 当たった！	%s에게 맞았다!
+SYS00360	SSCR.BIN	0x4525D	15		%sの 貫通光線！	%s의 관통 광선!
+SYS00361	SSCR.BIN	0x45422	20		%sは 助けを 呼んだ！	%s는 도움을 불렀다!
+SYS00362	SSCR.BIN	0x45BBF	15		%sを 召喚した！	%s를 소환했다!
+SYS00363	SSCR.BIN	0x45C5C	23		%sは パワーアップした！	%s는 파워업했다!
+SYS00364	SSCR.BIN	0x45D2C	20		%sは 力を さずけた！	%s는 힘을 부여했다!
+SYS00365	SSCR.BIN	0x4627B	13	SYS00297	%sを 食べた！	%s를 먹었다!
+SYS00366	SSCR.BIN	0x4629D	13	SYS00297	%sを 食べた！	%s를 먹었다!
+SYS00367	SSCR.BIN	0x4665A	20		%sは 花粉を まいた！	%s는 꽃가루를 뿌렸다!
+SYS00368	SSCR.BIN	0x46747	30		ちからが １ポイント 下がった。	힘이 1포인트 떨어졌다.
+SYS00369	SSCR.BIN	0x473B1	30	SYS00344	%s「運命のサイコロじゃ～～！」	%s「운명의 주사위다ㅡㅡ!」
+SYS00370	SSCR.BIN	0x474ED	23	SYS00345	%s「鬼の目が でたぞ！」	%s「도깨비 눈이 나왔다!」
+SYS00371	SSCR.BIN	0x47528	23	SYS00346	%s「炎の目が でたぞ！」	%s「불꽃 눈이 나왔다!」
+SYS00372	SSCR.BIN	0x47563	27	SYS00347	%s「オカメの目が でたぞ！」	%s「오카메 눈이 나왔다!」
+SYS00373	SSCR.BIN	0x475A2	31	SYS00348	%s「ヒョットコの目が でたぞ！」	%s「히요토코 눈이 나왔다!」
+SYS00374	SSCR.BIN	0x48339	15	SYS00362	%sを 召喚した！	%s를 소환했다!
+SYS00375	SSCR.BIN	0x483D6	23	SYS00363	%sは パワーアップした！	%s는 파워업했다!
+SYS00376	SSCR.BIN	0x484A6	20	SYS00364	%sは 力を さずけた！	%s는 힘을 부여했다!
+SYS00377	SSCR.BIN	0x49382	17	SYS00331	%sを 回復させた！	%s를 회복시켰다!
+SYS00378	SSCR.BIN	0x49C20	15		%sは 放電した！	%s는 방전했다!
+SYS00379	SSCR.BIN	0x49D23	23	SYS00062	炎は さらに強くなった。	불길은 한층 강해졌다.
+SYS02882	SSCR.BIN	0x739F4	13		%sを 読んだ。	%s를 읽었다.
+SYS02883	SSCR.BIN	0x73FE5	25		その場から 動けなくした！	그 자리에서 움직이지 못하게 했다!
+SYS02884	SSCR.BIN	0x74226	31		部屋にあったワナが なくなった！	방에 있던 함정이 사라졌다!
+SYS02885	SSCR.BIN	0x744BD	22		攻撃が外れなくなった！	공격이 빗나가지 않게 되었다!
+SYS02886	SSCR.BIN	0x74555	26		ダンジョンが明るくなった！	던전이 밝아졌다!
+SYS02887	SSCR.BIN	0x74CF6	27		%sは モンスターに囲まれた！	%s는 몬스터에게 둘러싸였다!
+SYS02888	SSCR.BIN	0x74D5B	29		%sは 足が遅くなってしまった！	%s는 발이 느려져버렸다!
+SYS02889	SSCR.BIN	0x74E14	27		%sの 体力がうばわれていく。	%s의 체력이 빼앗겨간다.
+SYS02890	SSCR.BIN	0x74E8D	35		%sは 口がつかえなくなってしまった！	%s는 입을 쓸 수 없게 되어버렸다!
+SYS02891	SSCR.BIN	0x75039	31		みんなで がんばれる気になった！	모두 함께 힘낼 수 있는 기분이 되었다!
+SYS02892	SSCR.BIN	0x750D7	24		文字がにじんで読めない。	글자가 번져서 읽을 수 없다.
+SYS02893	SSCR.BIN	0x751DC	33		しかし 呪文が書かれていなかった。	하지만 주문이 적혀 있지 않았다.
+SYS02894	SSCR.BIN	0x75225	31		字がにじんで 転写できなかった。	글자가 번져서 전사할 수 없었다.
+SYS02895	SSCR.BIN	0x75296	21		%sの呪文を 転写した！	%s의 주문을 전사했다!
+SYS02896	SSCR.BIN	0x752B5	10		%sの呪文を	%s의 주문을
+SYS02897	SSCR.BIN	0x752DC	10		転写した！	전사했다!
+SYS02898	SSCR.BIN	0x7544A	29		しばらく 物が飛ばなくなった！	잠시 동안 물건이 날아가지 않게 되었다!
+SYS02899	SSCR.BIN	0x7577B	26		とっても じょうぶになった!	아주 튼튼해졌다!
+SYS02900	SSCR.BIN	0x759C9	19		魔物を金縛りにした!	마물을 옴짝달싹 못 하게 했다!
+SYS02901	SSCR.BIN	0x75B18	23		いろんな状態が回復した!	여러 상태 이상이 회복됐다!
+SYS02902	SSCR.BIN	0x75B7B	17		ちからが回復した!	힘이 회복됐다!
+SYS02903	SSCR.BIN	0x75CA9	25		装備の呪いがすべてとけた!	장비의 저주가 모두 풀렸다!
+SYS02904	SSCR.BIN	0x75D0E	19		%dギタン手に入れた!	%d기탄을 손에 넣었다!
+SYS02905	SSCR.BIN	0x75D6B	16		ＨＰが回復した。	HP가 회복됐다.
+SYS02906	SSCR.BIN	0x75E48	25		壁が崩れて大部屋になった!	벽이 무너져 큰 방이 되었다!
+SYS02907	SSCR.BIN	0x761D3	25		フロアの水が ひあがった！	층의 물이 말라버렸다!
+SYS02908	SSCR.BIN	0x76353	36		持っていたアイテムの呪いが解けた！！	가지고 있던 아이템의 저주가 풀렸다!!
+SYS02909	SSCR.BIN	0x7641F	16		装備していた%sは	장비하고 있던 %s는
+SYS02910	SSCR.BIN	0x76461	16		%sに強化された。	%s로 강화되었다.
+SYS02911	SSCR.BIN	0x764BC	22		これ以上強くならない。	더 이상 강해지지 않는다.
+SYS02912	SSCR.BIN	0x76507	14		呪いが解けた。	저주가 풀렸다.
+SYS02913	SSCR.BIN	0x765CD	16	SYS02909	装備していた%sは	장비하고 있던 %s는
+SYS02914	SSCR.BIN	0x7660F	16	SYS02910	%sに強化された。	%s로 강화되었다.
+SYS02915	SSCR.BIN	0x766B6	22	SYS02911	これ以上強くならない。	더 이상 강해지지 않는다.
+SYS02916	SSCR.BIN	0x76701	14	SYS02912	呪いが解けた。	저주가 풀렸다.
+SYS02917	SSCR.BIN	0x7686B	24		%sは 背中がゾワゾワした!	%s는 등골이 오싹했다!
+SYS02918	SSCR.BIN	0x76989	9		ラッキー!	럭키!
+SYS02919	SSCR.BIN	0x769AB	30		すべてのアイテムが 識別された!	모든 아이템이 식별되었다!
+SYS02920	SSCR.BIN	0x76A1C	11		これは %sに	이것은 %s가
+SYS02921	SSCR.BIN	0x76A2E	13		まちがいない!	틀림없다!
+SYS02922	SSCR.BIN	0x76A8C	10		%sだった。	%s였다.
+SYS02923	SSCR.BIN	0x76C3B	21		%sの容量が %dふえた。	%s의 용량이 %d 늘어났다.
+SYS02924	SSCR.BIN	0x77136	18		%sは メッキされた!	%s는 도금되었다!
+SYS02925	SSCR.BIN	0x77164	24		すでにメッキずみだった。	이미 도금이 되어 있었다.
+SYS02926	SSCR.BIN	0x77189	10		しかし%sを	하지만 %s를
+SYS02927	SSCR.BIN	0x7719A	30		メッキすることはできなかった。	도금할 수 없었다.
+SYS02928	SSCR.BIN	0x771C5	21		%sのヒビが なおった！	%s의 금이 사라졌다!
+SYS02929	SSCR.BIN	0x771F8	30		%sは \\rラセン風魔の盾になった!	%s는 \\r나선 풍마의 방패가 되었다!
+SYS02930	SSCR.BIN	0x77353	22		%sは ぴったりと ゆかに	%s는 바닥에 딱 달라붙어
+SYS02931	SSCR.BIN	0x77370	23		はりついて ひろえない。	붙어서 주울 수 없다.
+SYS02932	SSCR.BIN	0x7738D	15		%sは ぴったりと	%s는 딱
+SYS02933	SSCR.BIN	0x773A3	30		ゆかに はりついて ひろえない。	바닥에 달라붙어 주울 수 없다.
+SYS02934	SSCR.BIN	0x77528	18		%sを思い出した！！	%s를 떠올렸다!!
+SYS02935	SSCR.BIN	0x77542	14		%sを覚えた！！	%s를 익혔다!!
+SYS02936	SSCR.BIN	0x77647	22		技は思い出せなかった。	기술은 떠올리지 못했다.
+SYS02937	SSCR.BIN	0x776E8	18	SYS02934	%sを思い出した！！	%s를 떠올렸다!!
+SYS02938	SSCR.BIN	0x77C3F	19		%sは 混乱がとけた。	%s는 혼란이 풀렸다.
+SYS02939	SSCR.BIN	0x77C79	20		何も起こらなかった。	아무 일도 일어나지 않았다.
+SYS02940	SSCR.BIN	0x77CA7	24		もうじゅうぶん強かった。	이미 충분히 강했다.
+SYS02941	SSCR.BIN	0x77CD9	32		これいじょうレベルは下がらない。	더 이상 레벨은 내려가지 않는다.
+SYS02942	SSCR.BIN	0x7814D	15		%sは 成仏した。	%s는 성불했다.
+SYS02943	SSCR.BIN	0x7825E	28		%sの最大満腹度が%d％増えた。	%s의 최대 포만도가 %d％ 늘어났다.
+SYS02944	SSCR.BIN	0x78363	28		%sの最大満腹度が%d％減った。	%s의 최대 포만도가 %d％ 줄었다.
+SYS02945	SSCR.BIN	0x78497	23		%sのちからが 回復した。	%s의 힘이 회복됐다.
+SYS02946	SSCR.BIN	0x7871C	12		%sのちからが	%s의 힘이
+SYS02947	SSCR.BIN	0x7872D	20		%dポイント下がった！	%d포인트 떨어졌다!
+SYS02948	SSCR.BIN	0x787F0	20	SYS00249	%sは足が遅くなった！	%s는 발이 느려졌다!
+SYS02949	SSCR.BIN	0x789BF	28		しかし %sは ねむらなかった！	하지만 %s는 잠들지 않았다!
+SYS02950	SSCR.BIN	0x78C3A	22		%sは 足が 速くなった！	%s는 발이 빨라졌다!
+SYS02951	SSCR.BIN	0x78D58	35		%sは 草と種が よくきくようになった!	%s는 풀과 씨앗이 잘 듣게 되었다!
+SYS02952	SSCR.BIN	0x78D8C	30		草と種が よくきくようになった!	풀과 씨앗이 잘 듣게 되었다!
+SYS02953	SSCR.BIN	0x78EA5	14		%sの最大ＨＰが	%s의 최대 HP가
+SYS02954	SSCR.BIN	0x78EB8	17		%d ポイント増えた	%d포인트 늘어났다
+SYS02955	SSCR.BIN	0x79152	22	SYS00010	炎の息が %sを こがす！	불길이 %s를 태운다!
+SYS02956	SSCR.BIN	0x7BCD9	23		a\x0C効果はまだ %s　IE_USE	a\x0C효과는 아직 %s　IE_USE
+SYS02957	SSCR.BIN	0x7BD1D	24		a\x0C効果はまだ %s　IE_PACK	a\x0C효과는 아직 %s　IE_PACK
+SYS02958	SSCR.BIN	0x7BF56	19		撃つことができない!	쏠 수 없다!
+SYS02959	SSCR.BIN	0x7BFBE	21		転がすことができない!	굴릴 수 없다!
+SYS02960	SSCR.BIN	0x7BFE3	21		投げることができない!	던질 수 없다!
+SYS02961	SSCR.BIN	0x7BFFE	19	SYS02958	撃つことができない!	쏠 수 없다!
+SYS02962	SSCR.BIN	0x7C32C	82		足もとのアイテムを\n使っている途中で消えたとき。\nなど 特殊な場合のみ正常動作です。\n	발밑의 아이템을\n사용하는 도중에 사라졌을 때.\n등 특수한 경우에만 정상 동작입니다.\n
+SYS02963	SSCR.BIN	0x7C5C1	16	SYS00048	【%sのひぎしょ】	【%s의 비급서】
+SYS02964	SSCR.BIN	0x7C611	4	SYS00049	攻撃	공격
+SYS02965	SSCR.BIN	0x7C61D	4	SYS00050	守備	수비
+SYS02966	SSCR.BIN	0x7C629	21	SYS00051	基本%s力 %dポイント\x01\x02	기본%s력 %d포인트\x01\x02
+SYS02967	SSCR.BIN	0x7C694	15		必要枚数 %d枚\x01\x02	필요 매수 %d장\x01\x02
+SYS02968	SSCR.BIN	0x7CCAB	14		レベル %3d/%3d	레벨 %3d/%3d
+SYS02969	SSCR.BIN	0x7CCDB	10		攻撃力 %7d	공격력 %7d
+SYS02970	SSCR.BIN	0x7CCF3	10		経験値 %7d	경험치 %7d
+SYS02971	SSCR.BIN	0x7CD05	10		ちから %7d	힘 %7d
+SYS02972	SSCR.BIN	0x7CD17	10		防御力 %7d	방어력 %7d
+SYS02973	SSCR.BIN	0x7CD42	16		登録されています	등록되어 있습니다
+SYS02974	SSCR.BIN	0x7CD94	18		登録されていません	등록되어 있지 않습니다
+SYS02975	SSCR.BIN	0x7CDF9	24		%sの箱が登録されています	%s의 상자가 등록되어 있습니다
+SYS02976	SSCR.BIN	0x7DD13	41		a\x0CItem::%s\nchrGetMetubusiは無いッス\nTRON!	a\x0CItem::%s\nchrGetMetubusi는 없슴다\nTRON!
+SYS02977	SSCR.BIN	0x7DD4A	45		a\x0CItem::%s\\chrGetSeeInvisibleは無いッス\nTRON!	a\x0CItem::%s\\chrGetSeeInvisible는 없슴다\nTRON!
+SYS02978	SSCR.BIN	0x7E288	24		%sのＨＰが %d 回復した。	%s의 HP가 %d 회복했다.
+SYS02979	SSCR.BIN	0x7E2EA	30		最大ＨＰが %d ポイント増えた。	최대 HP가 %d 포인트 늘어났다.
+SYS02980	SSCR.BIN	0x7E4B8	10		%sの中に。	%s 안에.
+SYS02981	SSCR.BIN	0x7E4D7	13		%sを 入れた。	%s를 넣었다.
+SYS02982	SSCR.BIN	0x7E4F9	13		%sは 割れた。	%s는 깨졌다.
+SYS02983	SSCR.BIN	0x7E50E	33		%dポイントのダメージを あたえた。	%d포인트의 데미지를 주었다.
+SYS02984	SSCR.BIN	0x7E69D	21		%sは 水の中に落ちた。	%s는 물속에 떨어졌다.
+SYS02985	SSCR.BIN	0x7E6C7	16		水の中に落ちた。	물속에 떨어졌다.
+SYS02986	SSCR.BIN	0x7E6E7	23		%sは 水たまりに落ちた。	%s는 물웅덩이에 떨어졌다.
+SYS02987	SSCR.BIN	0x7E713	18		水たまりに落ちた。	물웅덩이에 떨어졌다.
+SYS02988	SSCR.BIN	0x7E735	19		%sは 地面に落ちた。	%s는 땅바닥에 떨어졌다.
+SYS02989	SSCR.BIN	0x7E75D	14		地面に落ちた。	땅바닥에 떨어졌다.
+SYS02990	SSCR.BIN	0x7E7B1	12		%sを食べた。	%s를 먹었다.
+SYS02991	SSCR.BIN	0x7E86A	25		%sは もうかじれない……。	%s는 더 이상 베어 물 수 없다……。
+SYS02992	SSCR.BIN	0x7E898	20		もうかじれない……。	더 이상 베어 물 수 없다……。
+SYS02993	SSCR.BIN	0x7E8CA	15		%sを かじった。	%s를 베어 물었다.
+SYS02994	SSCR.BIN	0x7F180	28		しかし願いはかなわなかった。	하지만 소원은 이루어지지 않았다.
+SYS02995	SSCR.BIN	0x7F219	28		もっている壺の容量が増えた！	가지고 있는 항아리의 용량이 늘어났다!
+SYS02996	SSCR.BIN	0x7F2AD	18	SYS02924	%sは メッキされた!	%s는 도금되었다!
+SYS02997	SSCR.BIN	0x7F338	18	SYS02924	%sは メッキされた!	%s는 도금되었다!
+SYS02998	SSCR.BIN	0x7F3CE	21	SYS02928	%sのヒビが なおった！	%s의 금이 사라졌다!
+SYS02999	SSCR.BIN	0x7F467	21	SYS02928	%sのヒビが なおった！	%s의 금이 사라졌다!
+SYS03000	SSCR.BIN	0x7FCA9	32		%sのちからが%dポイント下がった。	%s의 힘이 %d포인트 떨어졌다.
+SYS03001	SSCR.BIN	0x7FCD3	12	SYS02946	%sのちからが	%s의 힘이
+SYS03002	SSCR.BIN	0x7FCE4	20		%dポイント下がった。	%d포인트 떨어졌다.
+SYS03003	SSCR.BIN	0x7FD34	12		%sのちからは	%s의 힘은
+SYS03004	SSCR.BIN	0x7FD45	20		０になってしまった！	0이 되어버렸다!
+SYS03005	SSCR.BIN	0x800AA	19		ここでは 撃てない。	여기서는 쏠 수 없다.
+SYS03006	SSCR.BIN	0x800CE	25		ここでは 転がせられない。	여기서는 굴릴 수 없다.
+SYS03007	SSCR.BIN	0x800ED	23		ここでは 投げられない。	여기서는 던질 수 없다.
+SYS03008	SSCR.BIN	0x806DE	15		%sは とまった。	%s는 멈췄다.
+SYS03009	SSCR.BIN	0x80AD0	21	SYS02960	投げることができない!	던질 수 없다!
+SYS03010	SSCR.BIN	0x80DDF	13	SYS00007	%sは 外れた。	%s는 빗나갔다.
+SYS03011	SSCR.BIN	0x80E1E	14	SYS00006	%sに 当たった!	%s에게 맞았다!
+SYS03012	SSCR.BIN	0x81193	19		壺の中に身を隠した!	항아리 속에 몸을 숨겼다!
+SYS03013	SSCR.BIN	0x811F4	25		壺から 出られなくなった。	항아리에서 나올 수 없게 되었다.
+SYS03014	SSCR.BIN	0x8128C	23		壺の中に閉じ込められた!	항아리 속에 갇혀버렸다!
+SYS03015	SSCR.BIN	0x812B2	19		壺の中に閉じ込めた!	항아리 속에 가둬버렸다!
+SYS03016	SSCR.BIN	0x81320	25	SYS03013	壺から 出られなくなった。	항아리에서 나올 수 없게 되었다.
+SYS03017	SSCR.BIN	0x8138F	30		壺のなかに 壺は 入れられない。	항아리 안에 항아리는 넣을 수 없다.
+SYS03018	SSCR.BIN	0x813D3	36		壺のなかに エレキ箱は 入れられない。	항아리 안에 전기상자는 넣을 수 없다.
+SYS03019	SSCR.BIN	0x81426	17		%sは いっぱいだ。	%s는 가득 찼다.
+SYS03020	SSCR.BIN	0x81475	17		%sは 呪われていて	%s는 저주받아 있어서
+SYS03021	SSCR.BIN	0x8148D	22		入れることができない。	넣을 수 없다.
+SYS03022	SSCR.BIN	0x81AA9	39		壺の中がいっぱいだったので 平気だった。	항아리 속이 가득 차 있어서 멀쩡했다.
+SYS03023	SSCR.BIN	0x81B56	36		武器がつっかえて すいこまれなかった!	무기가 걸려서 빨려들지 않았다!
+SYS03024	SSCR.BIN	0x81BE0	34		盾がつっかえて すいこまれなかった!	방패가 걸려서 빨려들지 않았다!
+SYS03025	SSCR.BIN	0x81C2F	35		なんと! 手が抜けなくなってしまった!	이런! 손을 뺄 수 없게 되어버렸다!
+SYS03026	SSCR.BIN	0x81CCE	30		手がすいこまれそうになったけど	손이 빨려들 뻔했지만
+SYS03027	SSCR.BIN	0x81D04	20		手が じゆうになった!	손이 자유로워졌다!
+SYS03028	SSCR.BIN	0x81E64	18		%sは 水を まいた。	%s는 물을 뿌렸다.
+SYS03029	SSCR.BIN	0x81EF7	20		%sに 水が かかった。	%s에게 물이 튀었다.
+SYS03030	SSCR.BIN	0x81F56	20	SYS03029	%sに 水が かかった。	%s에게 물이 튀었다.
+SYS03031	SSCR.BIN	0x81FB0	20	SYS03029	%sに 水が かかった。	%s에게 물이 튀었다.
+SYS03032	SSCR.BIN	0x82001	31		%sはしけって こわれてしまった。	%s는 축축해져서 망가져버렸다.
+SYS03033	SSCR.BIN	0x82031	27		しけって こわれてしまった。	축축해져서 망가져버렸다.
+SYS03034	SSCR.BIN	0x820E4	10	SYS02922	%sだった。	%s였다.
+SYS03035	SSCR.BIN	0x82122	17	SYS03019	%sは いっぱいだ。	%s는 가득 찼다.
+SYS03036	SSCR.BIN	0x82167	23		ここでは 水をくめない。	여기서는 물을 뜰 수 없다.
+SYS03037	SSCR.BIN	0x821E6	21		%sで 水をくみとった。	%s로 물을 떴다.
+SYS03038	SSCR.BIN	0x8263A	20		%sから声が聞こえる。	%s에서 목소리가 들린다.
+SYS03039	SSCR.BIN	0x82658	6	SCR00725	%sから	%s에서
+SYS03040	SSCR.BIN	0x82665	14		声が聞こえる。	목소리가 들린다.
+SYS03041	SSCR.BIN	0x826A0	40		HPガ半分以上回復シナイト変身デキマセン。	HP가 절반 이상 회복되지 않으면 변신할 수 없습니다.
+SYS03042	SSCR.BIN	0x826F5	37		存在ガ 封印サレテイテ変身デキマセン。	존재가 봉인되어 있어서 변신할 수 없습니다.
+SYS03043	SSCR.BIN	0x82782	26		呪われていて変身できない！	저주받아 있어서 변신할 수 없다!
+SYS03044	SSCR.BIN	0x82893	30		不思議な力で出現できなかった。	신비한 힘으로 출현할 수 없었다.
+SYS03045	SSCR.BIN	0x829E1	30	SYS03044	不思議な力で出現できなかった。	신비한 힘으로 출현할 수 없었다.
+SYS03046	SSCR.BIN	0x82A47	30	SYS03044	不思議な力で出現できなかった。	신비한 힘으로 출현할 수 없었다.
+SYS03047	SSCR.BIN	0x82B6C	22		入れるスペースが無い。	넣을 공간이 없다.
+SYS03048	SSCR.BIN	0x82BF5	17		%sを 取りつけた。	%s를 장착했다.
+SYS03049	SSCR.BIN	0x82C30	25		回路以外は 入れられない。	회로 이외에는 넣을 수 없다.
+SYS03050	SSCR.BIN	0x82C9B	26		呪われていて装着できない！	저주받아 있어서 장착할 수 없다!
+SYS03051	SSCR.BIN	0x82D68	16		不正なエレキ箱？	잘못된 전기상자?
+SYS03052	SSCR.BIN	0x83CB8	22		具は大量の梅干だった！	속 재료는 대량의 매실장아찌였다!
+SYS03053	SSCR.BIN	0x83D04	18		強烈な防腐効果で、	강력한 방부 효과로,
+SYS03054	SSCR.BIN	0x83D3B	31		しばらくは まずそうなおにぎりも	당분간은 맛없어 보이는 주먹밥도
+SYS03055	SSCR.BIN	0x83D5D	22		おいしく食べれそうだ！	맛있게 먹을 수 있을 것 같다!
+SYS03056	SSCR.BIN	0x83DA1	18		具は弟切草だった！	속 재료는 고추나물이었다!
+SYS03057	SSCR.BIN	0x83DB6	18		ちょっとにがいぞ！	조금 쓰다!
+SYS03058	SSCR.BIN	0x83E4C	19	SYS02938	%sは 混乱がとけた。	%s는 혼란이 풀렸다.
+SYS03059	SSCR.BIN	0x83E87	24		具はお茶の葉っぱだった！	속 재료는 찻잎이었다!
+SYS03060	SSCR.BIN	0x83EA2	14		すっごい苦い！	엄청 쓰다!
+SYS03061	SSCR.BIN	0x83EE6	17		おかげで しばらく	그 덕분에 한동안
+SYS03062	SSCR.BIN	0x83EFA	16		眠れなくなった！	잠들 수 없게 되었다!
+SYS03063	SSCR.BIN	0x83F6C	18		ＨＰが %d 回復した	HP가 %d 회복했다
+SYS03064	SSCR.BIN	0x84081	13		%sを ふった。	%s를 흔들었다.
+SYS03065	SSCR.BIN	0x85886	38		しかし呪いのせいで何も起こらなかった。	하지만 저주 탓에 아무 일도 일어나지 않았다.
+SYS03066	SSCR.BIN	0x85900	20		%sには 効かなかった!	%s에게는 효과가 없었다!
+SYS03067	SSCR.BIN	0x85D41	19		しかし 不思議な力で	하지만 신비한 힘으로
+SYS03068	SSCR.BIN	0x85D57	25		%sは 消えてしまった……。	%s는 사라져버렸다……。
+SYS03069	SSCR.BIN	0x85E34	24		なにものかにぶつかった！	무언가와 부딪혔다!
+SYS03070	SSCR.BIN	0x85E52	23		なんと! ンドゥバだった!	이런! 은두바였다!
+SYS03111	SSCR.BIN	0x86CCA	25		どこかに 消えてしまった…	어딘가로 사라져버렸다…
+SYS03112	SSCR.BIN	0x86DED	12		%sを踏んだ！	%s를 밟았다!
+SYS03113	SSCR.BIN	0x86E01	15		%sが 起動した！	%s가 작동했다!
+SYS03114	SSCR.BIN	0x86F1E	17		a\x0C%sが発動した %x	a\x0C%s가 발동했다 %x
+SYS03115	SSCR.BIN	0x86F8A	27		しかし 何も起こらなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03116	SSCR.BIN	0x87021	22		%sに ヒビが はいった！	%s에 금이 갔다!
+SYS03117	SSCR.BIN	0x87984	19		%sは ちからつきた。	%s는 힘이 다했다.
+SYS03118	SSCR.BIN	0x881FA	27		部屋に落ちていた アイテムが	방에 떨어져 있던 아이템이
+SYS03119	SSCR.BIN	0x8821B	27		そばに落ちていた アイテムが	옆에 떨어져 있던 아이템이
+SYS03120	SSCR.BIN	0x88238	32		a\x1F\x11モンスターに なってしまった！	a\x1F\x11몬스터가 되어버렸다!
+SYS03121	SSCR.BIN	0x88997	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03122	SSCR.BIN	0x88A1C	15	SYS00179	%sは 混乱した！	%s는 혼란에 빠졌다!
+SYS03123	SSCR.BIN	0x88BD3	25		%sは 眠ってしまった……。	%s는 잠들어버렸다……。
+SYS03124	SSCR.BIN	0x88C42	26		しかし %sは 眠らなかった！	하지만 %s는 잠들지 않았다!
+SYS03125	SSCR.BIN	0x88E1E	31		装備がぜんぶ はずれてしまった！	장비가 전부 빠져버렸다!
+SYS03126	SSCR.BIN	0x88E57	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03127	SSCR.BIN	0x88ED8	25	SYS00220	とくぎが 使えなくなった！	특기를 쓸 수 없게 되었다!
+SYS03128	SSCR.BIN	0x89C3D	29		くさって 弱くなってしまった！	부식되어 약해져버렸다!
+SYS03129	SSCR.BIN	0x89C60	27	SYS00223	さびて 弱くなってしまった！	녹슬어서 약해져버렸다!
+SYS03130	SSCR.BIN	0x89CC0	35	SYS00224	メッキされているので へいきだった！	도금이 되어 있어서 멀쩡했다!
+SYS03131	SSCR.BIN	0x89CE9	18	SYS00225	なんともなかった！	아무 일도 없었다!
+SYS03132	SSCR.BIN	0x89E97	23	SYS00211	しかし 効果がなかった。	하지만 효과가 없었다.
+SYS03133	SSCR.BIN	0x89F06	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03134	SSCR.BIN	0x8A146	21		防御力が ０になった！	방어력이 0이 되었다!
+SYS03135	SSCR.BIN	0x8A342	21		%sは 足をはさまれた！	%s는 발이 끼였다!
+SYS03136	SSCR.BIN	0x8A485	15		%sは くさった！	%s는 부패했다!
+SYS03137	SSCR.BIN	0x8A5B1	10		おにぎりが	주먹밥이
+SYS03138	SSCR.BIN	0x8A5BD	30		a\x1F\x11デロデロに なってしまった！	a\x1F\x11흐물흐물해져버렸다!
+SYS03139	SSCR.BIN	0x8A5F5	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03140	SSCR.BIN	0x8A73E	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03141	SSCR.BIN	0x8A9DA	15	SYS00203	%sは 呪われた！	%s는 저주받았다!
+SYS03142	SSCR.BIN	0x8AB1F	15	SYS00203	%sは 呪われた！	%s는 저주받았다!
+SYS03143	SSCR.BIN	0x8AB64	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03144	SSCR.BIN	0x8ABE3	17	SYS00201	%sは 我を失った！	%s는 이성을 잃었다!
+SYS03145	SSCR.BIN	0x8AD6B	25		イカリが こみ上げてきた！	분노가 치밀어올랐다!
+SYS03146	SSCR.BIN	0x8ADD1	25	SYS00176	しかし なんともなかった。	하지만 아무 일도 일어나지 않았다.
+SYS03147	SSCR.BIN	0x8AE8C	23		部屋にいた モンスターの	방에 있던 몬스터의
+SYS03148	SSCR.BIN	0x8AEA9	23		そばにいた モンスターの	옆에 있던 몬스터의
+SYS03149	SSCR.BIN	0x8AEC3	25	SYS03145	イカリが こみ上げてきた！	분노가 치밀어올랐다!

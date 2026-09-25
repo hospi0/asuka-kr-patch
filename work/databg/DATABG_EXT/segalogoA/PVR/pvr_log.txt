@@ -1,0 +1,6 @@
+IMAGE FILE : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\segalogoA\PVR\segalogoA.png
+TARGET DIR : C:\claude\project\asuka-kr-patch\work\databg\DATABG_EXT\segalogoA\PVR
+ENC PARAMS : -tw -1555 
+IMAGE SIZE : 512x512
+DATA CRC32 : 84C16531
+---------------

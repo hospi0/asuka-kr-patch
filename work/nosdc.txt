@@ -1,0 +1,2 @@
+=== DATABG_rebuild.exe : 없음
+=== DATABG_ext.exe : [('1NOSDC', 2, 72586), ('NOSDC', 2, 72586), ('  ctx: matches', 0, 0), ('  ctx: fmt_match', 0, 0), ('  ctx: out_dir_match', 0, 0), ('  ctx: flip_match', 0, 0), ('  ctx: image_matchr', 0, 0), ('  ctx: match', 0, 0), ('  ctx: zbList all files matching the given pattern in the specified directory or current working ', 0, 0), ('  ctx: fnmatch', 0, 0), ('  ctx: matched_files', 0, 0), ('  ctx: B.pngz)Image modes do not match between A and B.', 0, 0), ('  ctx: Select 1NOSDC.BIN File)', 0, 0), ('  ctx: 1NOSDC.BINr', 0, 0)]

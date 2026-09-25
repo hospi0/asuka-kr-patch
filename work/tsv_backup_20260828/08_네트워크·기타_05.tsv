@@ -1,0 +1,16 @@
+id	file	offset	budget	same_as	jp	kr
+SYS04825	SSCR.BIN	0xC5643	14		法師杖光る（後	법사 지팡이가 빛남（후
+SYS04826	SSCR.BIN	0xC5652	18	SYS04788	法師の杖がピカーン	법사의 지팡이가 번쩍
+SYS04827	SSCR.BIN	0xC5665	16		テロップ読み込み	자막 불러오기
+SYS04828	SSCR.BIN	0xC5676	12		テロップ本体	자막 본체
+SYS04829	SSCR.BIN	0xC5683	12		テロップ解放	자막 해제
+SYS04830	SSCR.BIN	0xC5690	20		三婆砦崖画像読み込み	삼파 벼랑 이미지 불러오기
+SYS04831	SSCR.BIN	0xC56A5	16		三婆砦崖画像解放	삼파 벼랑 이미지 해제
+SYS04832	SSCR.BIN	0xC56B8	10		秘技・四股	비기・시코
+SYS04833	SSCR.BIN	0xC56C3	16		スーパーサイヤ人	슈퍼 사이어인
+SYS04834	SSCR.BIN	0xC56D4	16		四冥浜メモリ確保	사명해변 메모리 확보
+SYS04835	SSCR.BIN	0xC56E5	16		四冥浜メモリ解放	사명해변 메모리 해제
+SYS04836	SSCR.BIN	0xC56F8	4		花火	불꽃놀이
+SYS04837	SSCR.BIN	0xC56FF	8	SYS00388	おにぎり	오니기리
+SYS04838	SSCR.BIN	0xC570A	4		矢印	화살표
+SYS04839	SSCR.BIN	0xC570F	8		ここまで	여기까지

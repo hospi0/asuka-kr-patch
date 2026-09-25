@@ -1,0 +1,488 @@
+id	file	offset	budget	same_as	jp	kr
+SYS03589	SSCR.BIN	0x9BC9F	20	SYS03559	ゲンさん「%sだなっ。	겐 씨「%s이지.
+SYS03590	SSCR.BIN	0x9BCBD	12	SYS03560	ゲンさん「%s	겐 씨「%s
+SYS03591	SSCR.BIN	0x9BCD0	10	SYS03561	　だなっ。	이지.
+SYS03592	SSCR.BIN	0x9BCDD	19		　おらっ受けとれよ!	자, 받아!
+SYS03593	SSCR.BIN	0x9BD79	32		ゲンさん「あんたが持ってけるのは	겐 씨「당신이 가져갈 수 있는 건
+SYS03594	SSCR.BIN	0x9BD9C	22		　%d個だな、おらよっ！	%d개다, 자!
+SYS03595	SSCR.BIN	0x9BDBA	24		ゲンさん「全部で%d個だ。	겐 씨「전부 해서 %d개다.
+SYS03596	SSCR.BIN	0x9BDD7	19	SYS03592	　おらっ受けとれよ!	자, 받아!
+SYS03597	SSCR.BIN	0x9BE00	83		ゲンさん「アッシは風来人さんが\n　エレキ箱コレクションをつくる\n　お手伝いをしてるぜ!	겐 씨「이 몸은 풍래인 씨가\n　일렉박스 컬렉션을 만드는 걸\n　돕고 있소!
+SYS03598	SSCR.BIN	0x9BE56	90		　アッシのところで\n　アンタのエレキ箱を登録してくれれば、\n　ちょっとしたことができるのさ。	이 몸에게\n　당신의 일렉박스를 등록해주면,\n　조금 특별한 걸 할 수 있소.
+SYS03599	SSCR.BIN	0x9BEB4	35		　まずひとつめ!\n　陳列ケースの使用!	우선 첫 번째!\n　진열장 사용!
+SYS03600	SSCR.BIN	0x9BEDA	80		　登録したエレキ箱は\n　アッシのところの陳列ケースに\n　入れておくことができるぜ。	등록한 일렉박스는\n　이 몸의 진열장에\n　넣어둘 수 있소.
+SYS03601	SSCR.BIN	0x9BF2D	76		　この陳列ケースは\n　エレキ箱専用だからな。\n　コレクションするのに便利だぜ。	이 진열장은\n　일렉박스 전용이니까.\n　모으는 데 편리하지.
+SYS03602	SSCR.BIN	0x9BF7C	70		　そうそう。\n　となりの倉庫番のやつに\n　登録したエレキ箱を渡した場合、	참, 그렇지.\n　옆에 있는 창고지기 녀석에게\n　등록한 일렉박스를 건네주면,
+SYS03603	SSCR.BIN	0x9BFC6	59		　自動的にアッシのところの\n　陳列ケースに入れといてやるぜ。	자동으로 이 몸의\n　진열장에 넣어주겠소.
+SYS03604	SSCR.BIN	0x9C004	87		　そしてふたつめ!\n　登録したエレキ箱は、たとえなくしても\n　アッシが回収してきてやるぜ。	그리고 두 번째!\n　등록한 일렉박스는, 설령 잃어버려도\n　이 몸이 회수해다 주겠소.
+SYS03605	SSCR.BIN	0x9C05F	55		　エレキ箱をなくしたら、\n　アッシのところへ来てくんな。	일렉박스를 잃어버리면,\n　이 몸에게 찾아와 주시오.
+SYS03606	SSCR.BIN	0x9C09A	103		　最後に、登録についての注意事項!\n　色違いのエレキ箱シリーズは、\n　そのうちの一種類しか登録できねえぜ。	마지막으로, 등록에 관한 주의사항!\n　색違い(다른 색) 일렉박스 시리즈는,\n　그중 하나만 등록할 수 있소.
+SYS03607	SSCR.BIN	0x9C104	110		　たとえば、ガマラの箱を登録したら、\n　色違いシリーズの、ガマグッチの箱や\n　ガマゴンの箱は、登録できねえんだ。	예를 들어, 가마라의 상자를 등록하면,\n　다른 색 시리즈인 가마굿치의 상자나\n　가마곤의 상자는, 등록할 수 없소.
+SYS03608	SSCR.BIN	0x9C175	104		　もしガマラの箱を登録した後、\n　ガマグッチの箱を登録したかったら、\n　ガマラの箱の登録を消すしかねえな。	만약 가마라의 상자를 등록한 후,\n　가마굿치의 상자를 등록하고 싶다면,\n　가마라의 상자 등록을 지우는 수밖에 없소.
+SYS03609	SSCR.BIN	0x9C1E1	65		　ま、陳列ケースの大きさにも\n　限りがあるからな。勘弁してくれや。	뭐, 진열장 크기에도\n　한계가 있으니까. 이해해 주시오.
+SYS03610	SSCR.BIN	0x9C226	53		　てなところだ。\n　用があったらどんどん言ってくんな。	그런 거요.\n　용건이 있으면 언제든 말해주시오.
+SYS03611	SSCR.BIN	0x9C468	17		存在を 封印された	존재가 봉인되었다
+SYS03612	SSCR.BIN	0x9C47A	19		大砲の弾が 爆発した	대포알이 폭발했다
+SYS03613	SSCR.BIN	0x9C48E	18		毒草の 毒で 倒れた	독초의 독으로 쓰러졌다
+SYS03614	SSCR.BIN	0x9C4A1	19		超不幸の種で 倒れた	초불행의 씨앗으로 쓰러졌다
+SYS03615	SSCR.BIN	0x9C4B5	23		火炎草の炎で 燃えつきた	화염초의 불꽃에 타버렸다
+SYS03616	SSCR.BIN	0x9C4CD	27		ドラゴン草の炎で 燃えつきた	드래곤초의 불꽃에 타버렸다
+SYS03617	SSCR.BIN	0x9C4E9	25		おにぎりで お腹をこわした	주먹밥으로 배탈이 났다
+SYS03618	SSCR.BIN	0x9C503	25		具合がわるくなって 倒れた	몸이 안 좋아져 쓰러졌다
+SYS03619	SSCR.BIN	0x9C51D	23		壺から 出られなくなった	항아리에서 나오지 못했다
+SYS03620	SSCR.BIN	0x9C535	15		炎で 燃えつきた	불꽃에 타버렸다
+SYS03621	SSCR.BIN	0x9C545	18		いかずちにうたれた	벼락을 맞았다
+SYS03622	SSCR.BIN	0x9C558	18		大砲の弾が爆発した	대포알이 폭발했다
+SYS03623	SSCR.BIN	0x9C56B	10		消火された	불이 꺼졌다
+SYS03624	SSCR.BIN	0x9C576	25		何かアイテムが 飛んできた	뭔가 아이템이 날아왔다
+SYS03625	SSCR.BIN	0x9C590	17		火柱で 燃えつきた	불기둥에 타버렸다
+SYS03626	SSCR.BIN	0x9C5A2	13		空腹で 倒れた	공복으로 쓰러졌다
+SYS03627	SSCR.BIN	0x9C5B0	17		壁の中で 窒息した	벽 속에서 질식했다
+SYS03628	SSCR.BIN	0x9C5C2	14		吹き飛ばされた	날아가 버렸다
+SYS03629	SSCR.BIN	0x9C5D1	21		誰かが 吹っ飛んできた	누군가가 날아왔다
+SYS03630	SSCR.BIN	0x9C5E7	14		突き飛ばされた	떠밀려 넘어졌다
+SYS03631	SSCR.BIN	0x9C5F6	18		転んで 頭を 打った	넘어져 머리를 부딪쳤다
+SYS03632	SSCR.BIN	0x9C609	33		引き上げの巻物をよんで 戻ってきた	귀환의 두루마리를 읽고 돌아왔다
+SYS03633	SSCR.BIN	0x9C62B	33		持ち帰りの巻物をよんで 戻ってきた	지참 귀환의 두루마리를 읽고 돌아왔다
+SYS03634	SSCR.BIN	0x9C64D	21		突風に 吹き飛ばされた	돌풍에 날아가 버렸다
+SYS03635	SSCR.BIN	0x9C663	18		風来人を救助した！	풍래인을 구조했다！
+SYS03636	SSCR.BIN	0x9C6C6	10		罠を踏んだ	함정을 밟았다
+SYS03637	SSCR.BIN	0x9C6D1	10	SYS03623	消火された	불이 꺼졌다
+SYS03638	SSCR.BIN	0x9C6DC	15		落石に 当たった	낙석에 맞았다
+SYS03639	SSCR.BIN	0x9C6EC	17		大落石に 当たった	큰 낙석에 맞았다
+SYS03640	SSCR.BIN	0x9C6FE	29		イガイガボトボトが 落ちてきた	까칠까칠 열매가 떨어졌다
+SYS03641	SSCR.BIN	0x9C71C	17		転び石で ころんだ	구르는 돌에 넘어졌다
+SYS03642	SSCR.BIN	0x9C72E	19		木の矢が 飛んできた	나무 화살이 날아왔다
+SYS03643	SSCR.BIN	0x9C742	19		鉄の矢が 飛んできた	쇠 화살이 날아왔다
+SYS03644	SSCR.BIN	0x9C756	19		毒の矢が 飛んできた	독 화살이 날아왔다
+SYS03645	SSCR.BIN	0x9C76A	15		落し穴に 落ちた	함정 구멍에 빠졌다
+SYS03646	SSCR.BIN	0x9C77A	15		地雷が 爆発した	지뢰가 폭발했다
+SYS03647	SSCR.BIN	0x9C78A	19		大型地雷が 爆発した	대형 지뢰가 폭발했다
+SYS03648	SSCR.BIN	0x9C79E	17		水滴が 落ちてきた	물방울이 떨어졌다
+SYS03649	SSCR.BIN	0x9C7B0	21		丸太に 吹き飛ばされた	통나무에 날아가 버렸다
+SYS03650	SSCR.BIN	0x9C7C6	15		トゲに 刺された	가시에 찔렸다
+SYS03651	SSCR.BIN	0x9C7D6	18	SYS03621	いかずちにうたれた	벼락을 맞았다
+SYS03652	SSCR.BIN	0x9C805	26		.\x01テストダンジョンクリア！	.\x01테스트 던전 클리어！
+SYS03653	SSCR.BIN	0x9C820	26		デバッグダンジョンクリア！	디버그 던전 클리어！
+SYS03654	SSCR.BIN	0x9C83B	18		天輪国初級クリア！	천륜국 초급 클리어！
+SYS03655	SSCR.BIN	0x9C84E	18		天輪国上級クリア！	천륜국 상급 클리어！
+SYS03656	SSCR.BIN	0x9C861	20		鋼賀の隠し穴クリア！	코가의 비밀 굴 클리어！
+SYS03657	SSCR.BIN	0x9C876	18		際来国地上クリア！	사이라이국 지상 클리어！
+SYS03658	SSCR.BIN	0x9C889	24		カカ・ルーの試練クリア！	카카·루의 시련 클리어！
+SYS03659	SSCR.BIN	0x9C8A2	20		ギトーの試練クリア！	기토의 시련 클리어！
+SYS03660	SSCR.BIN	0x9C8B7	20		ドラスの試練クリア！	도라스의 시련 클리어！
+SYS03661	SSCR.BIN	0x9C8CC	20		ブフーの試練クリア！	부후의 시련 클리어！
+SYS03662	SSCR.BIN	0x9C8E1	20		ムラドの試練クリア！	무라도의 시련 클리어！
+SYS03663	SSCR.BIN	0x9C8F6	20		クロンの試練クリア！	크론의 시련 클리어！
+SYS03664	SSCR.BIN	0x9C90B	20		リーバの試練クリア！	리바의 시련 클리어！
+SYS03665	SSCR.BIN	0x9C920	18		星華の大筒クリア！	성화의 대포 클리어！
+SYS03666	SSCR.BIN	0x9C933	14		白蛇島クリア！	백사도 클리어！
+SYS03667	SSCR.BIN	0x9C9DA	24		番付データがありません。	순위표 데이터가 없습니다.
+SYS03668	SSCR.BIN	0x9CBC5	6		%s番付	%s 순위표
+SYS03669	SSCR.BIN	0x9CCC8	8		　クリア	클리어
+SYS03670	SSCR.BIN	0x9CCFE	8		　最終階	최종 층
+SYS03671	SSCR.BIN	0x9CD15	8		　天守閣	천수각
+SYS03672	SSCR.BIN	0x9CD2C	8		妖花頂上	요화 정상
+SYS03673	SSCR.BIN	0x9CD43	8		斎戒の間	재계의 방
+SYS03674	SSCR.BIN	0x9CD5A	8		星華の間	성화의 방
+SYS03675	SSCR.BIN	0x9CEF1	12		a\x0C不正 %d %d	a\x0C비정상 %d %d
+SYS03676	SSCR.BIN	0x9CFBD	9		スコア%9d	점수%9d
+SYS03677	SSCR.BIN	0x9D142	9	SYS03676	スコア%9d	점수%9d
+SYS03678	SSCR.BIN	0x9D168	13		最大HP    %3d	최대HP    %3d
+SYS03679	SSCR.BIN	0x9D17D	15		ちから  %2d/%2d	힘  %2d/%2d
+SYS03680	SSCR.BIN	0x9D19C	16		最大満腹度 %3d％	최대만복도 %3d％
+SYS03681	SSCR.BIN	0x9D1B4	11		経験値 %8d%	경험치 %8d%
+SYS03682	SSCR.BIN	0x9D5F9	63		これはあなたの番付ではないので\n全国風来人番付に登録できません。	이것은 당신의 순위 기록이 아니므로\\n전국 풍래인 순위표에 등록할 수 없습니다.
+SYS03683	SSCR.BIN	0x9D85C	12	SYS00125	%sに倒された	%s에게 쓰러졌다
+SYS03684	SSCR.BIN	0x9D87E	16	SYS00126	にせ%sに倒された	가짜 %s에게 쓰러졌다
+SYS03685	SSCR.BIN	0x9D8A8	12	SYS00125	%sに倒された	%s에게 쓰러졌다
+SYS03686	SSCR.BIN	0x9D8D5	16		%sの呪いで倒れた	%s의 저주로 쓰러졌다
+SYS03687	SSCR.BIN	0x9D8FB	20		にせ%sの呪いで倒れた	가짜 %s의 저주로 쓰러졌다
+SYS03688	SSCR.BIN	0x9D929	16	SYS03686	%sの呪いで倒れた	%s의 저주로 쓰러졌다
+SYS03689	SSCR.BIN	0x9D95A	14		自爆して倒れた	자폭해서 쓰러졌다
+SYS03690	SSCR.BIN	0x9D97C	16		にせ%sが爆発した	가짜 %s가 폭발했다
+SYS03691	SSCR.BIN	0x9D9A6	12		%sが爆発した	%s가 폭발했다
+SYS03692	SSCR.BIN	0x9D9F9	10		にせ%sに%s	가짜 %s에게 %s
+SYS03693	SSCR.BIN	0x9DAD4	17		%2d時間%2d分%2d秒	%2d시간%2d분%2d초
+SYS03694	SSCR.BIN	0x9DAFD	15		     %2d分%2d秒	%2d분%2d초
+SYS03695	SSCR.BIN	0x9E6C3	76		ハイスコアキャンペーンに応募しよう！\n上位1000名に素敵なグッズをプレゼント！\n	하이스코어 캠페인에 응모하자！\\n상위 1000명에게 멋진 상품을 선물！\\n
+SYS03696	SSCR.BIN	0x9E711	202		このスコアとパスワードを、本製品付属の\n\x01\x07アンケートはがき\x01\x02に記入して応募しよう。\nこのダンジョンは何度でも挑戦出来るので、\nその中で自慢のスコアを送って下さい。\n　\n詳しくは取扱説明書の巻末をご覧下さい。\n	이 점수와 비밀번호를, 본 제품에 첨부된\\n\\x01\\x07설문 엽서\\x01\\x02에 기입하여 응모하자.\\n이 던전은 몇 번이든 도전할 수 있으니,\\n그중 자신 있는 점수를 보내주세요.\\n\u3000\\n자세한 내용은 취급설명서 뒷부분을 참고해주세요.\\n
+SYS03697	SSCR.BIN	0x9E847	24		今回のスコアは　\x01\x07%d\x01\x02点	이번 점수는　\\x01\\x07%d\\x01\\x02점
+SYS03698	SSCR.BIN	0x9E867	22		パスワードは　　\x01\x07%s\x01\x02	비밀번호는　　\\x01\\x07%s\\x01\\x02
+SYS03699	SSCR.BIN	0x9EE64	8		救助依頼	구조 요청
+SYS03700	SSCR.BIN	0x9EE6D	14		救助依頼取下げ	구조 요청 취소
+SYS03701	SSCR.BIN	0x9EE7C	8		救助完了	구조 완료
+SYS03702	SSCR.BIN	0x9EE85	6		風来帳	풍래첩
+SYS03703	SSCR.BIN	0x9EE8C	14		風来人番付記帳	풍래인 순위표 기록
+SYS03704	SSCR.BIN	0x9EE9B	8		救助諦め	구조 포기
+SYS03705	SSCR.BIN	0x9EF31	24		ネットワーク接続チェック	네트워크 접속 확인
+SYS03706	SSCR.BIN	0x9EF57	14		アカウント作成	계정 생성
+SYS03707	SSCR.BIN	0x9EF6D	8	SYS03699	救助依頼	구조 요청
+SYS03708	SSCR.BIN	0x9EF7D	14	SYS03700	救助依頼取下げ	구조 요청 취소
+SYS03709	SSCR.BIN	0x9EF93	8	SYS03701	救助完了	구조 완료
+SYS03710	SSCR.BIN	0x9EFA3	6	SYS03702	風来帳	풍래첩
+SYS03711	SSCR.BIN	0x9EFB1	14	SYS03703	風来人番付記帳	풍래인 순위표 기록
+SYS03712	SSCR.BIN	0x9EFC7	8	SYS03704	救助諦め	구조 포기
+SYS03713	SSCR.BIN	0x9EFD7	8		通常起動	통상 기동
+SYS03714	SSCR.BIN	0x9F0C8	14	SYS03706	アカウント作成	계정 생성
+SYS03715	SSCR.BIN	0x9F0F2	22		ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03716	SSCR.BIN	0x9F114	20		アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03717	SSCR.BIN	0x9F132	20		シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03718	SSCR.BIN	0x9F150	10		適当に設定	적당히 설정
+SYS03719	SSCR.BIN	0x9F16A	8	SYS03699	救助依頼	구조 요청
+SYS03720	SSCR.BIN	0x9F199	22	SYS03715	ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03721	SSCR.BIN	0x9F1BB	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03722	SSCR.BIN	0x9F1D9	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03723	SSCR.BIN	0x9F1F7	22		ダンジョン名：%s(%02X)	던전명　　　：%s(%02X)
+SYS03724	SSCR.BIN	0x9F219	23		階数　　　　：%2d(%02X)	층수　　　　：%2d(%02X)
+SYS03725	SSCR.BIN	0x9F23C	20		乱数キー　　：0x%08X	난수 키　　：0x%08X
+SYS03726	SSCR.BIN	0x9F25A	10	SYS03718	適当に設定	적당히 설정
+SYS03727	SSCR.BIN	0x9F274	14	SYS03700	救助依頼取下げ	구조 요청 취소
+SYS03728	SSCR.BIN	0x9F29E	22	SYS03715	ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03729	SSCR.BIN	0x9F2C0	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03730	SSCR.BIN	0x9F2DE	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03731	SSCR.BIN	0x9F2FC	20		スレッド番号：0x%08X	스레드 번호：0x%08X
+SYS03732	SSCR.BIN	0x9F31A	20	SYS03725	乱数キー　　：0x%08X	난수 키　　：0x%08X
+SYS03733	SSCR.BIN	0x9F338	10	SYS03718	適当に設定	적당히 설정
+SYS03734	SSCR.BIN	0x9F352	8	SYS03701	救助完了	구조 완료
+SYS03735	SSCR.BIN	0x9F376	22	SYS03715	ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03736	SSCR.BIN	0x9F398	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03737	SSCR.BIN	0x9F3B6	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03738	SSCR.BIN	0x9F3D4	20	SYS03731	スレッド番号：0x%08X	스레드 번호：0x%08X
+SYS03739	SSCR.BIN	0x9F3F2	20	SYS03725	乱数キー　　：0x%08X	난수 키　　：0x%08X
+SYS03740	SSCR.BIN	0x9F410	10	SYS03718	適当に設定	적당히 설정
+SYS03741	SSCR.BIN	0x9F42A	6	SYS03702	風来帳	풍래첩
+SYS03742	SSCR.BIN	0x9F44C	22	SYS03715	ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03743	SSCR.BIN	0x9F46E	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03744	SSCR.BIN	0x9F48C	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03745	SSCR.BIN	0x9F4B2	14	SYS03703	風来人番付記帳	풍래인 순위표 기록
+SYS03746	SSCR.BIN	0x9F4E7	22	SYS03715	ユーザーＩＤ：%d(%08X)	사용자 ID：%d(%08X)
+SYS03747	SSCR.BIN	0x9F509	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03748	SSCR.BIN	0x9F527	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03749	SSCR.BIN	0x9F545	22	SYS03723	ダンジョン名：%s(%02X)	던전명　　　：%s(%02X)
+SYS03750	SSCR.BIN	0x9F567	23		到達階数　　：%2d(%02X)	도달 층수　　：%2d(%02X)
+SYS03751	SSCR.BIN	0x9F58A	20		スコア　　　：%d(%X)	점수　　　　：%d(%X)
+SYS03752	SSCR.BIN	0x9F5AA	23		到達レベル　：%2d(%02X)	도달 레벨　：%2d(%02X)
+SYS03753	SSCR.BIN	0x9F5D4	34		プレイ時間　：0x%08X(%d:%02d:%02d)	플레이 시간　：0x%08X(%d:%02d:%02d)
+SYS03754	SSCR.BIN	0x9F614	10	SYS03718	適当に設定	적당히 설정
+SYS03755	SSCR.BIN	0x9F62E	8	SYS03704	救助諦め	구조 포기
+SYS03756	SSCR.BIN	0x9F652	24		ユーザーＩＤ：%d(0x%08X)	사용자 ID：%d(0x%08X)
+SYS03757	SSCR.BIN	0x9F676	20	SYS03716	アクセスＣ　：0x%02X	액세스 C　：0x%02X
+SYS03758	SSCR.BIN	0x9F694	20	SYS03717	シナリオ進行：0x%04X	시나리오 진행：0x%04X
+SYS03759	SSCR.BIN	0x9F6B2	20	SYS03731	スレッド番号：0x%08X	스레드 번호：0x%08X
+SYS03760	SSCR.BIN	0x9F6D0	20	SYS03725	乱数キー　　：0x%08X	난수 키　　：0x%08X
+SYS03761	SSCR.BIN	0x9F6EE	10	SYS03718	適当に設定	적당히 설정
+SYS03762	SSCR.BIN	0x9F700	12		ＤＰ３を起動	DP3를 기동
+SYS03763	SSCR.BIN	0x9FA8D	149		isao.net にユーザー登録が\nなされていません\n登録を完了していないと、\nインターネットに接続できません\n登録方法などについては、\n取扱説明書を御覧ください\n	isao.net에 사용자 등록이\\n되어있지 않습니다\\n등록을 완료하지 않으면,\\n인터넷에 접속할 수 없습니다\\n등록 방법 등에 대해서는,\\n취급설명서를 참고해주세요\\n
+SYS03764	SSCR.BIN	0x9FB24	89		モデム及びブロードバンドアダプタ\nが検出されませんでした。\nこれらの機器を接続してください\n	모뎀 및 브로드밴드 어댑터가\\n감지되지 않았습니다.\\n이 기기들을 연결해주세요\\n
+SYS03765	SSCR.BIN	0x9FB7F	114		なんらかのエラーが発生して\nインターネットに接続できません\nしばらくしてからやり直すか\n機器の接続等を調べてください\n	어떤 오류가 발생하여\\n인터넷에 접속할 수 없습니다\\n잠시 후 다시 시도하거나\\n기기 연결 상태 등을 확인해주세요\\n
+SYS03766	SSCR.BIN	0xA100D	11		%s CAMPバグ	%s CAMP버그
+SYS03767	SSCR.BIN	0xA1148	6		%sの箱	%s의 상자
+SYS03768	SSCR.BIN	0xA1161	10		%sの箱[%d]	%s의 상자[%d]
+SYS03769	SSCR.BIN	0xA11CF	7		白紙:%s	백지:%s
+SYS03770	SSCR.BIN	0xA11E0	7		転写:%s	전사:%s
+SYS03771	SSCR.BIN	0xA11F9	10	SYS00047	%sの秘技書	%s의 비기서
+SYS03772	SSCR.BIN	0xA126A	8		%d本の%s	%d개의 %s
+SYS03773	SSCR.BIN	0xA1286	8		%d個の%s	%d개의 %s
+SYS03774	SSCR.BIN	0xA1657	6	SYS03767	%sの箱	%s의 상자
+SYS03775	SSCR.BIN	0xA1667	10	SYS03768	%sの箱[%d]	%s의 상자[%d]
+SYS03776	SSCR.BIN	0xA16C3	7	SYS03769	白紙:%s	백지:%s
+SYS03777	SSCR.BIN	0xA16D4	7	SYS03770	転写:%s	전사:%s
+SYS03778	SSCR.BIN	0xA1703	10	SYS00047	%sの秘技書	%s의 비기서
+SYS03779	SSCR.BIN	0xA17AD	8	SYS03772	%d本の%s	%d개의 %s
+SYS03780	SSCR.BIN	0xA17C9	8	SYS03773	%d個の%s	%d개의 %s
+SYS03781	SSCR.BIN	0xA182B	28		罠師の腕輪を装備していない。	덫사냥꾼의 팔찌를 장비하고 있지 않다.
+SYS03782	SSCR.BIN	0xA1876	20	SYS00026	壺から 手が抜けない!	항아리에서 손이 빠지지 않는다!
+SYS03783	SSCR.BIN	0xA1935	27		撃つものを 装備していない。	쏠 것을 장비하고 있지 않다.
+SYS03784	SSCR.BIN	0xA198A	20	SYS00026	壺から 手が抜けない!	항아리에서 손이 빠지지 않는다!
+SYS03785	SSCR.BIN	0xA1A75	4		道具	도구
+SYS03786	SSCR.BIN	0xA1A7A	4		足元	발밑
+SYS03787	SSCR.BIN	0xA1A7F	4	SYS02187	ワナ	함정
+SYS03788	SSCR.BIN	0xA1A84	4		出口	출구
+SYS03789	SSCR.BIN	0xA1A89	4	SYS03072	階段	계단
+SYS03790	SSCR.BIN	0xA1A8E	6		マップ	지도
+SYS03791	SSCR.BIN	0xA1A95	4		中断	중단
+SYS03792	SSCR.BIN	0xA1A9A	6	SYS01054	その他	기타
+SYS03793	SSCR.BIN	0xA1AA1	4		爆破	폭파
+SYS03794	SSCR.BIN	0xA1AA6	4		秘技	비기
+SYS03795	SSCR.BIN	0xA1AAB	6		罠起動	함정 발동
+SYS03796	SSCR.BIN	0xA1AB2	4		歩く	걷기
+SYS03797	SSCR.BIN	0xA1AB7	6		足踏み	제자리걸음
+SYS03798	SSCR.BIN	0xA1ABE	4	SYS00049	攻撃	공격
+SYS03799	SSCR.BIN	0xA1AC3	6		とくぎ	특기
+SYS03800	SSCR.BIN	0xA1ACA	6	SYS03274	もどる	돌아가기
+SYS03801	SSCR.BIN	0xA1AD1	4		地形	지형
+SYS03802	SSCR.BIN	0xA1AD6	8		戦闘終了	전투 종료
+SYS03803	SSCR.BIN	0xA1D3D	12		[救助への道]	[구조로 가는 길]
+SYS03804	SSCR.BIN	0xA1D70	10		[エラー？]	[오류？]
+SYS03805	SSCR.BIN	0xA1DB4	7		武器 %d	무기 %d
+SYS03806	SSCR.BIN	0xA1EB1	9		攻撃力 %d	공격력 %d
+SYS03807	SSCR.BIN	0xA1EC2	9		防御力 %d	방어력 %d
+SYS03808	SSCR.BIN	0xA1EEB	17		 満腹度 %3d/%3d %	만복도 %3d/%3d %
+SYS03809	SSCR.BIN	0xA1F1C	15		 ちから %3d/%3d	힘 %3d/%3d
+SYS03810	SSCR.BIN	0xA1F3E	11		 経験値 %7d	경험치 %7d
+SYS03811	SSCR.BIN	0xA23DC	6		しない	하지 않는다
+SYS03812	SSCR.BIN	0xA23ED	4		行う	한다
+SYS03813	SSCR.BIN	0xA2414	12		マップ表示を	지도 표시를
+SYS03814	SSCR.BIN	0xA2423	18		%s設定にしました。	%s 설정으로 했습니다.
+SYS03815	SSCR.BIN	0xA26C5	16	SYS03182	何も持っていない	아무것도 가지고 있지 않다
+SYS03816	SSCR.BIN	0xA2B30	4	SYS03786	足元	발밑
+SYS03817	SSCR.BIN	0xA2B3D	8		どれを？	어느 것을？
+SYS03818	SSCR.BIN	0xA2BE1	16	SYS03182	何も持っていない	아무것도 가지고 있지 않다
+SYS03819	SSCR.BIN	0xA2E45	4	SYS03786	足元	발밑
+SYS03820	SSCR.BIN	0xA2E52	8	SYS03817	どれを？	어느 것을？
+SYS03821	SSCR.BIN	0xA2EEF	16	SYS03182	何も持っていない	아무것도 가지고 있지 않다
+SYS03822	SSCR.BIN	0xA3237	16	SYS03182	何も持っていない	아무것도 가지고 있지 않다
+SYS03823	SSCR.BIN	0xA3613	15		%sを ひろった。	%s을(를) 주웠다.
+SYS03824	SSCR.BIN	0xA36DA	13		これは %sだ。	이것은 %s다.
+SYS03825	SSCR.BIN	0xA3713	32		持ち物が いっぱいで ひろえない。	소지품이 가득 차서 주울 수 없다.
+SYS03826	SSCR.BIN	0xA3758	13		%sに のった。	%s에 탔다.
+SYS03827	SSCR.BIN	0xA38B4	6	SYS01027	投げる	던지기
+SYS03828	SSCR.BIN	0xA3978	6	SYS01021	ひろう	줍기
+SYS03829	SSCR.BIN	0xA3995	4		ふむ	밟기
+SYS03830	SSCR.BIN	0xA3C02	6		すてる	버리기
+SYS03831	SSCR.BIN	0xA3CC3	6		かじる	베어물기
+SYS03832	SSCR.BIN	0xA3CF9	4	SYS01041	出す	꺼내기
+SYS03833	SSCR.BIN	0xA3D17	6	SYS03830	すてる	버리기
+SYS03834	SSCR.BIN	0xA3D3A	6	SYS03830	すてる	버리기
+SYS03835	SSCR.BIN	0xA3D9C	4		名前	이름
+SYS03836	SSCR.BIN	0xA3DAD	4	SCR04174	説明	설명
+SYS03837	SSCR.BIN	0xA3F81	6		↓武器	↓무기
+SYS03838	SSCR.BIN	0xA4115	33		呪われていて 読むことができない！	저주받아서 읽을 수 없다！
+SYS03839	SSCR.BIN	0xA417C	20	SYS00026	壺から 手が抜けない!	항아리에서 손이 빠지지 않는다!
+SYS03840	SSCR.BIN	0xA420A	21		手が壺に はまっていて	손이 항아리에 끼어서
+SYS03841	SSCR.BIN	0xA4222	17		%sを ひろえない。	%s을(를) 주울 수 없다.
+SYS03842	SSCR.BIN	0xA4305	19		 なにも入っていない	아무것도 들어있지 않다
+SYS03843	SSCR.BIN	0xA443D	8		ガマの油	두꺼비 기름
+SYS03844	SSCR.BIN	0xA44B8	6		%sの手	%s의 손
+SYS03845	SSCR.BIN	0xA4561	12		まとめて出す	한꺼번에 꺼내기
+SYS03846	SSCR.BIN	0xA457F	12		まとめておく	한꺼번에 넣어두기
+SYS03847	SSCR.BIN	0xA45A2	14		まとめてすてる	한꺼번에 버리기
+SYS03848	SSCR.BIN	0xA45CA	12	SYS03846	まとめておく	한꺼번에 넣어두기
+SYS03849	SSCR.BIN	0xA45E3	14	SYS03847	まとめてすてる	한꺼번에 버리기
+SYS03850	SSCR.BIN	0xA463B	16		%d個のアイテムを	%d개의 아이템을
+SYS03851	SSCR.BIN	0xA46E2	24		足元には何も落ちていない	발밑에는 아무것도 떨어져 있지 않다
+SYS03852	SSCR.BIN	0xA485E	8		みわたす	둘러보기
+SYS03853	SSCR.BIN	0xA4873	8		やり直し	다시 하기
+SYS03854	SSCR.BIN	0xA4883	10	SYS00090	あきらめる	포기하기
+SYS03855	SSCR.BIN	0xA48AF	8		階数選択	층수 선택
+SYS03856	SSCR.BIN	0xA48D1	14	SYS00072	セーブして中断	저장하고 중단
+SYS03857	SSCR.BIN	0xA48E7	14		セーブして続行	저장하고 계속
+SYS03858	SSCR.BIN	0xA4902	14		メッセージ速度	메시지 속도
+SYS03859	SSCR.BIN	0xA491D	8		サウンド	사운드
+SYS03860	SSCR.BIN	0xA4945	18		%sぷるぷるぱっく\x01\x02	%s 떨림팩\\x01\\x02
+SYS03861	SSCR.BIN	0xA4968	12		コントローラ	컨트롤러
+SYS03862	SSCR.BIN	0xA4994	10		お礼の呪文	감사의 주문
+SYS03863	SSCR.BIN	0xA49B5	14		Ｃキャンペーン	C 캠페인
+SYS03864	SSCR.BIN	0xA4CC4	74		です。\n　\n助けてくれた人に感謝の気持ちをこめて\n知らせてあげてくださいね。\n	입니다.\\n\u3000\\n도와준 사람에게 감사의 마음을 담아\\n알려주세요.\\n
+SYS03865	SSCR.BIN	0xA4D40	22	SYS03406	お礼の呪文は \x01\x07%s\x01\x02 %s	감사의 주문은 \\x01\\x07%s\\x01\\x02 %s
+SYS03866	SSCR.BIN	0xA4D6E	36		あきらめて八神楽の森へもどりますか？	포기하고 야가쿠라 숲으로 돌아가시겠습니까？
+SYS03867	SSCR.BIN	0xA4E10	4	SCR04172	はい	예
+SYS03868	SSCR.BIN	0xA4E1C	6	SCR04173	いいえ	아니오
+SYS03869	SSCR.BIN	0xA4EDA	34		ここではキーコンフィグできません。	여기서는 키 설정을 할 수 없습니다.
+SYS03870	SSCR.BIN	0xA5000	8		タイプＡ	타입 A
+SYS03871	SSCR.BIN	0xA5009	8		タイプＢ	타입 B
+SYS03872	SSCR.BIN	0xA5012	8		タイプＣ	타입 C
+SYS03873	SSCR.BIN	0xA501B	6	SYS03274	もどる	돌아가기
+SYS03874	SSCR.BIN	0xA5113	6		操作%s	조작%s
+SYS03875	SSCR.BIN	0xA512B	6	SYS03874	操作%s	조작%s
+SYS03876	SSCR.BIN	0xA527B	14		コントローラを	컨트롤러를
+SYS03877	SSCR.BIN	0xA528C	15		%sに しました。	%s로 했습니다.
+SYS03878	SSCR.BIN	0xA5478	6		おそい	느림
+SYS03879	SSCR.BIN	0xA547F	6		ふつう	보통
+SYS03880	SSCR.BIN	0xA5486	6		はやい	빠름
+SYS03881	SSCR.BIN	0xA548D	6		とまる	정지
+SYS03882	SSCR.BIN	0xA54A6	28		メッセージ速度を設定します。	메시지 속도를 설정합니다.
+SYS03883	SSCR.BIN	0xA5606	16		メッセージ速度を	메시지 속도를
+SYS03884	SSCR.BIN	0xA5619	15	SYS03877	%sに しました。	%s로 했습니다.
+SYS03885	SSCR.BIN	0xA5662	8		モノラル	모노
+SYS03886	SSCR.BIN	0xA566B	8		ステレオ	스테레오
+SYS03887	SSCR.BIN	0xA5688	28		サウンドモードを設定します。	사운드 모드를 설정합니다.
+SYS03888	SSCR.BIN	0xA57C8	16		サウンドモードを	사운드 모드를
+SYS03889	SSCR.BIN	0xA57DB	15	SYS03877	%sに しました。	%s로 했습니다.
+SYS03890	SSCR.BIN	0xA5853	28		ぷるぷるぱっくを設定します。	떨림팩을 설정합니다.
+SYS03891	SSCR.BIN	0xA59AB	16		ぷるぷるぱっくを	떨림팩을
+SYS03892	SSCR.BIN	0xA59BE	15	SYS03877	%sに しました。	%s로 했습니다.
+SYS03893	SSCR.BIN	0xA5B08	19		これは ひろえない。	이것은 주울 수 없다.
+SYS03894	SSCR.BIN	0xA5B35	19	SYS00189	ここには おけない。	여기에는 놓을 수 없다.
+SYS03895	SSCR.BIN	0xA5FEF	21		見えないので読めない!	보이지 않아서 읽을 수 없다!
+SYS03896	SSCR.BIN	0xA612A	33		呪われていて 飲むことができない！	저주받아서 마실 수 없다！
+SYS03897	SSCR.BIN	0xA615B	35		呪われていて 食べることができない！	저주받아서 먹을 수 없다！
+SYS03898	SSCR.BIN	0xA6184	33		呪われていて 使うことができない！	저주받아서 사용할 수 없다！
+SYS03899	SSCR.BIN	0xA6750	10	SYS02896	%sの呪文を	%s의 주문을
+SYS03900	SSCR.BIN	0xA675F	12		書き込んだ。	새겼다.
+SYS03901	SSCR.BIN	0xA677C	23		%sの呪文を 書き込んだ。	%s의 주문을 새겼다.
+SYS03902	SSCR.BIN	0xA6C4F	25		%d個の回路を 取りつけた。	%d개의 회로를 장착했다.
+SYS03903	SSCR.BIN	0xA6C70	33		アイテムは 取りつけられなかった。	아이템은 장착되지 않았다.
+SYS03904	SSCR.BIN	0xA6C97	8		%sの中に	%s 안에
+SYS03905	SSCR.BIN	0xA6CD2	25		%d個のアイテムを 入れた。	%d개의 아이템을 넣었다.
+SYS03906	SSCR.BIN	0xA6CF3	25		アイテムは 入らなかった。	아이템은 들어가지 않았다.
+SYS03907	SSCR.BIN	0xA7170	15		%sを 装備した。	%s을(를) 장비했다.
+SYS03908	SSCR.BIN	0xA720B	8	SYS00236	なんと！	이럴 수가！
+SYS03909	SSCR.BIN	0xA7216	18		%sは 呪われていた!	%s은(는) 저주받아 있었다!
+SYS03910	SSCR.BIN	0xA7294	15		%sを はずした。	%s을(를) 벗었다.
+SYS03911	SSCR.BIN	0xA7363	10		%sの中から	%s 안에서
+SYS03912	SSCR.BIN	0xA7374	13		%sを 出した。	%s을(를) 꺼냈다.
+SYS03913	SSCR.BIN	0xA73C2	34		持ち物が いっぱいで とり出せない。	소지품이 가득 차서 꺼낼 수 없다.
+SYS03914	SSCR.BIN	0xA74AD	10	SYS03911	%sの中から	%s 안에서
+SYS03915	SSCR.BIN	0xA74C8	29		アイテムは とり出せなかった。	아이템은 꺼낼 수 없었다.
+SYS03916	SSCR.BIN	0xA74EB	29		%d個のアイテムを とり出した。	%d개의 아이템을 꺼냈다.
+SYS03917	SSCR.BIN	0xA759A	19		%sを おきなおした。	%s을(를) 다시 놓았다.
+SYS03918	SSCR.BIN	0xA767D	13	SYS00188	%sを おいた。	%s을(를) 놓았다.
+SYS03919	SSCR.BIN	0xA77EA	25		アイテムは おけなかった。	아이템은 놓을 수 없었다.
+SYS03920	SSCR.BIN	0xA7809	25		%d個のアイテムを おいた。	%d개의 아이템을 놓았다.
+SYS03921	SSCR.BIN	0xA793A	15	SYS03823	%sを ひろった。	%s을(를) 주웠다.
+SYS03922	SSCR.BIN	0xA79FE	13	SYS03824	これは %sだ。	이것은 %s다.
+SYS03923	SSCR.BIN	0xA7A2B	32	SYS03825	持ち物が いっぱいで ひろえない。	소지품이 가득 차서 주울 수 없다.
+SYS03924	SSCR.BIN	0xA7B9B	13		%sを ひろって	%s을(를) 줍고
+SYS03925	SSCR.BIN	0xA7BD1	13	SYS00188	%sを おいた。	%s을(를) 놓았다.
+SYS03926	SSCR.BIN	0xA7C52	13	SYS03824	これは %sだ。	이것은 %s다.
+SYS03927	SSCR.BIN	0xA7D68	13	SYS03826	%sに のった。	%s에 탔다.
+SYS03928	SSCR.BIN	0xA7D95	14		手がぬけねー。	손이 안 빠져.
+SYS03929	SSCR.BIN	0xA7DBF	12		口あかねー。	입이 안 벌어져.
+SYS03930	SSCR.BIN	0xA7FE8	23		%sは すてられなかった。	%s은(는) 버릴 수 없었다.
+SYS03931	SSCR.BIN	0xA8081	13		%sを すてた。	%s을(를) 버렸다.
+SYS03932	SSCR.BIN	0xA81A9	29		アイテムは すてられなかった。	아이템은 버릴 수 없었다.
+SYS03933	SSCR.BIN	0xA81E2	25		%d個のアイテムを すてた。	%d개의 아이템을 버렸다.
+SYS03934	SSCR.BIN	0xA83E7	4	SYS01056	なし	없음
+SYS03935	SSCR.BIN	0xA84ED	18		技を覚えていない。	기술을 익히지 않았다.
+SYS03936	SSCR.BIN	0xA8549	20		技を封じられている。	기술이 봉인되어 있다.
+SYS03937	SSCR.BIN	0xA87C5	21		消費気力 %dポイント\x01\x02	소비 기력 %d포인트\\x01\\x02
+SYS03938	SSCR.BIN	0xA898C	12		%sを極めた！	%s을(를) 통달했다！
+SYS03939	SSCR.BIN	0xA8A13	16		%sをあみ出した！	%s을(를) 만들어냈다！
+SYS03940	SSCR.BIN	0xA8B06	20	SYS03936	技を封じられている。	기술이 봉인되어 있다.
+SYS03941	SSCR.BIN	0xA8BBB	14		今は使えない。	지금은 사용할 수 없다.
+SYS03942	SSCR.BIN	0xA8BEF	16		気力が足りない。	기력이 부족하다.
+SYS03943	SSCR.BIN	0xA8CF9	12	SYS03938	%sを極めた！	%s을(를) 통달했다！
+SYS03944	SSCR.BIN	0xA8D80	16	SYS03939	%sをあみ出した！	%s을(를) 만들어냈다！
+SYS03945	SSCR.BIN	0xA8DF6	12		a\x0C効果はまだ	a\\x0C효과는 아직
+SYS03946	SSCR.BIN	0xA948F	37		呪われていて 書き込むことができない！	저주받아서 새길 수 없다！
+SYS03947	SSCR.BIN	0xA9504	32		なにを書くか思い浮かばなかった。	무엇을 쓸지 떠오르지 않았다.
+SYS03948	SSCR.BIN	0xA9575	38		手が壺に はまっていて ふでを 持てない!	손이 항아리에 끼어서 붓을 들 수 없다!
+SYS03949	SSCR.BIN	0xA98C4	30		どちらの腕輪とつけかえますか？	어느 팔찌와 바꿔 끼시겠습니까？
+SYS03950	SSCR.BIN	0xA9A40	10		白紙にかく	백지에 쓰기
+SYS03951	SSCR.BIN	0xA9D08	30		本当にすててもよろしいですか？	정말로 버리시겠습니까？
+SYS03952	SSCR.BIN	0xA9D4C	4	SCR04172	はい	예
+SYS03953	SSCR.BIN	0xA9D58	6	SCR04173	いいえ	아니오
+SYS03954	SSCR.BIN	0xAAEB0	18		どれを撃ちますか？	어느 것을 쏘시겠습니까？
+SYS03955	SSCR.BIN	0xAAEC3	18		どれを投げますか？	어느 것을 던지시겠습니까？
+SYS03956	SSCR.BIN	0xAAED6	20		どれを識別しますか？	어느 것을 감정하시겠습니까？
+SYS03957	SSCR.BIN	0xAAEEB	18		どれを食べますか？	어느 것을 드시겠습니까？
+SYS03958	SSCR.BIN	0xABDB9	23		%sのＨＰが %d回復した。	%s의 HP가 %d 회복했다.
+SYS03959	SSCR.BIN	0xABE8D	23		%sのＨＰが 全回復した。	%s의 HP가 전부 회복했다.
+SYS03960	SSCR.BIN	0xABF03	23	SYS02945	%sのちからが 回復した。	%s의 힘이 회복했다.
+SYS03961	SSCR.BIN	0xAC0AC	36	SYS02908	持っていたアイテムの呪いが解けた！！	가지고 있던 아이템의 저주가 풀렸다！！
+SYS03962	SSCR.BIN	0xAC174	11	SYS02920	これは %sに	이것은 %s으로
+SYS03963	SSCR.BIN	0xAC186	13	SYS02921	まちがいない!	틀림없다!
+SYS03964	SSCR.BIN	0xAC206	10	SYS02922	%sだった。	%s이었다.
+SYS03965	SSCR.BIN	0xAC2F4	21	SYS00019	%sは こわせなかった。	%s은(는) 부술 수 없었다.
+SYS03966	SSCR.BIN	0xAC327	17		%sを こわした！！	%s을(를) 부쉈다！！
+SYS03967	SSCR.BIN	0xAC376	24		ワナを発見できなかった。	함정을 발견하지 못했다.
+SYS03968	SSCR.BIN	0xAC3D5	24		飛ぶことができなかった。	날 수 없었다.
+SYS03969	SSCR.BIN	0xAC62B	6	SCR00725	%sから	%s로부터
+SYS03970	SSCR.BIN	0xAC662	20		なにも盗めなかった。	아무것도 훔치지 못했다.
+SYS03971	SSCR.BIN	0xAC69F	13		%sを 盗んだ！	%s을(를) 훔쳤다！
+SYS03972	SSCR.BIN	0xAC8A8	15		お金が足りない!	돈이 부족하다!
+SYS03973	SSCR.BIN	0xAC943	21		なげることができない!	던질 수 없다!
+SYS03974	SSCR.BIN	0xACB84	33		しかし 不思議な力にかき消された！	하지만 신비한 힘에 지워져 버렸다！
+SYS03975	SSCR.BIN	0xACD4B	12		だだこねた！	떼썼다！
+SYS03976	SSCR.BIN	0xACE96	20		燃える物がなかった。	탈 것이 없었다.
+SYS03977	SSCR.BIN	0xACEFA	26		しけって火が付かなかった。	축축해서 불이 붙지 않았다.
+SYS03978	SSCR.BIN	0xAD55B	24		しかし火は付かなかった。	하지만 불은 붙지 않았다.
+SYS03979	SSCR.BIN	0xAD637	21		%sの状態が 回復した。	%s의 상태가 회복했다.
+SYS03980	SSCR.BIN	0xADA1A	15		%sを 眠らせた！	%s을(를) 잠들게 했다！
+SYS03981	SSCR.BIN	0xADBDC	22	SYS02950	%sは 足が 速くなった！	%s은(는) 발이 빨라졌다！
+SYS03982	SSCR.BIN	0xADEEC	16		静かに身構えた。	조용히 자세를 잡았다.
+SYS03983	SSCR.BIN	0xAE54C	23	SYS03007	ここでは 投げられない。	여기서는 던질 수 없다.
+SYS03984	SSCR.BIN	0xAEDAF	12		a\x0Cマップ変更	a\\x0C맵 변경
+SYS03985	SSCR.BIN	0xAEDE5	28		イベントコマンドチェックじゃ	이벤트 명령 체크임
+SYS03986	SSCR.BIN	0xAEE22	16		何かしらデバッグ	뭔가 디버그
+SYS03987	SSCR.BIN	0xAEE3A	6		勝負！	승부！
+SYS03988	SSCR.BIN	0xAEE48	8		コンビニ	편의점
+SYS03989	SSCR.BIN	0xAEE66	8		倉庫！！	창고！！
+SYS03990	SSCR.BIN	0xAEE76	14		エレキープ！！	일렉킵！！
+SYS03991	SSCR.BIN	0xAEE8C	14		穴選択Ｒ４５６	굴 선택 R456
+SYS03992	SSCR.BIN	0xAEEA2	16		穴選択Ｒ２３７８	굴 선택 R2378
+SYS03993	SSCR.BIN	0xAEEBA	14		裏キャンペーン	비밀 캠페인
+SYS03994	SSCR.BIN	0xAEED0	18		救助しにいくッス！	구조하러 가겠슴다！
+SYS03995	SSCR.BIN	0xAEEEA	18		救助してきたッス！	구조하고 왔슴다！
+SYS03996	SSCR.BIN	0xAEF1C	20		ネット救助するッス！	넷 구조 하겠슴다！
+SYS03997	SSCR.BIN	0xAEF38	20		ネット救助完了ッス！	넷 구조 완료했슴다！
+SYS03998	SSCR.BIN	0xAEF54	26		ネット救助あきらめるッス！	넷 구조 포기하겠슴다！
+SYS03999	SSCR.BIN	0xAF3B4	9		a\x0C登場 %s	a\\x0C등장 %s
+SYS04000	SSCR.BIN	0xAF41A	16		何を恵んでやる？	뭘 나눠줄까？
+SYS04001	SSCR.BIN	0xAF465	16		%sをくれるのか？	%s을(를) 주는 것이냐？
+SYS04002	SSCR.BIN	0xAF4B4	13		Dケチじゃのう	D 짜구먼
+SYS04003	SSCR.BIN	0xAF4E7	4	SCR04172	はい	예
+SYS04004	SSCR.BIN	0xAF4F3	6	SCR04173	いいえ	아니오
+SYS04005	SSCR.BIN	0xAF54D	10		a\x0Cパコ装備	a\\x0C파코 장비
+SYS04006	SSCR.BIN	0xAF587	15		お主の名前は %s	그대의 이름은 %s
+SYS04007	SSCR.BIN	0xAF59B	16		経験値は %d じゃ	경험치는 %d 이니라
+SYS04008	SSCR.BIN	0xAF5B2	10		どうじゃ？	어떠냐？
+SYS04009	SSCR.BIN	0xAF5BF	14		すばりじゃろう	딱 맞지
+SYS04010	SSCR.BIN	0xAF5E0	18		おわった…何もかも	끝났다…모든 것이
+SYS04011	SSCR.BIN	0xAF6AA	28	SCR00688	かじ屋「今日はさえてるッス!!	대장간「오늘은 컨디션이 좋슴다!!
+SYS04012	SSCR.BIN	0xAF6CC	19	SCR00689	かじ屋「出来たッス!	대장간「완성됐슴다!
+SYS04013	SSCR.BIN	0xAF6F8	10	SCR00690	　%sッス。	%s슴다.
+SYS04014	SSCR.BIN	0xAF709	20	SCR00691	　またヨロシクッス。	또 잘 부탁드림다.
+SYS04015	SSCR.BIN	0xAF753	14		店員「お客さん	점원「손님
+SYS04016	SSCR.BIN	0xAF764	32	SCR00693	　お金が足りないじゃないですか。	돈이 부족하잖아요.
+SYS04017	SSCR.BIN	0xAF799	19	SCR00698	どれをお求めですか?	어느 것을 찾으세요?
+SYS04018	SSCR.BIN	0xAF7AD	27	SCR00699	どれを売っていただけますか?	어느 것을 파시겠어요?
+SYS04019	SSCR.BIN	0xAF7C9	11	SCR00702	どれッスか?	어느 거슴까?
+SYS04020	SSCR.BIN	0xAF7D5	13	SCR00703	どの印ッスか?	어느 표식임까?
+SYS04021	SSCR.BIN	0xAF831	16	SCR03439	 アイテム %d個で	아이템 %d개로
+SYS04022	SSCR.BIN	0xAF84C	12	SCR03440	 %s ですね。	%s이군요.
+SYS04023	SSCR.BIN	0xAF862	23	SCR03441	 %dギタンになりますが、	%d기탄이 됩니다만,
+SYS04024	SSCR.BIN	0xAF881	16	SCR03442	 よろしいですか?	괜찮으시겠어요?
+SYS04025	SSCR.BIN	0xAF8A2	18	SCR03443	 %d個の アイテムは	%d개의 아이템은
+SYS04026	SSCR.BIN	0xAF8BC	21	SCR03444	 %dギタンになります。	%d기탄이 됩니다.
+SYS04027	SSCR.BIN	0xAF8DC	21	SCR03444	 %dギタンになります。	%d기탄이 됩니다.
+SYS04028	SSCR.BIN	0xAF908	22	SCR03446	 売っていただけますか?	파시겠어요?
+SYS04029	SSCR.BIN	0xAF925	11	SCR03447	 %sッスね。	%s슴다요.
+SYS04030	SSCR.BIN	0xAF93A	22	SCR03448	 %dギタンで 直すッス。	%d기탄으로 고쳐드림다.
+SYS04031	SSCR.BIN	0xAF959	10	SCR03449	 %sッスか?	%s임까?
+SYS04032	SSCR.BIN	0xAF96D	24	SCR03450	 %dギタンで 鍛えるッス。	%d기탄으로 단련함다.
+SYS04033	SSCR.BIN	0xAF98E	7	SCR03451	 %sから	%s부터
+SYS04034	SSCR.BIN	0xAF9B1	18	SCR03452	の印を 消すッスか?	표식을 지우시겠슴까?
+SYS04035	SSCR.BIN	0xAF9D4	34	SCR00727	道具屋「持ち物が一杯のようですが。	도구점「손님, 짐이 가득 찬 것 같습니다만.
+SYS04036	SSCR.BIN	0xAFA19	30		店員「ありがとうございました。	점원「감사합니다.
+SYS04037	SSCR.BIN	0xAFA64	22	SCR00733	道具屋「お客様、なにも	도구점「손님, 아무것도
+SYS04038	SSCR.BIN	0xAFA7D	26	SCR00734	　持っていないようですが。	가지고 계시지 않은 것 같습니다만.
+SYS04039	SSCR.BIN	0xAFA9D	32	SCR00737	かじ屋「そんなの持ってないッス。	대장간「그런 건 안 갖고 있슴다.
+SYS04040	SSCR.BIN	0xAFAE0	12	SCR00738	かじ屋「%sは	대장간「%s는
+SYS04041	SSCR.BIN	0xAFAF3	24	SCR00739	　もう鍛えられないッス。	더는 못 단련함다.
+SYS04042	SSCR.BIN	0xAFB2E	32	SCR00740	かじ屋「今日はもう疲れたッス……	대장간「오늘은 이제 지쳤슴다……
+SYS04043	SSCR.BIN	0xAFB51	28	SCR00741	　また明日にしてほしいッス。	내일 다시 오셨으면 좋겠슴다.
+SYS04044	SSCR.BIN	0xAFB90	33	SCR00742	かじ屋「じゃあ、ちょっと待つッス!	대장간「그럼, 잠시 기다려주십쇼!
+SYS04045	SSCR.BIN	0xAFBB4	11	SCR00743	　仕事ッス!	작업 중임다!
+SYS04046	SSCR.BIN	0xAFBC2	16	SCR00744	　がんばるッス!!	열심히 할게요!!
+SYS04047	SSCR.BIN	0xAFC35	33	SCR00742	かじ屋「じゃあ、ちょっと待つッス!	대장간「그럼, 잠시 기다려주십쇼!
+SYS04048	SSCR.BIN	0xAFC59	27	SCR00746	　今すぐ印をひっぺがすッス!	지금 바로 표식을 벗겨드림다!
+SYS04049	SSCR.BIN	0xAFCB3	33	SCR00742	かじ屋「じゃあ、ちょっと待つッス!	대장간「그럼, 잠시 기다려주십쇼!
+SYS04050	SSCR.BIN	0xAFCD7	17	SCR00748	　今すぐ直すッス!	지금 바로 고쳐드림다!
+SYS04051	SSCR.BIN	0xAFD19	14		どの棒ッスか？	어느 지팡이슴까？
+SYS04052	SSCR.BIN	0xAFD37	6	SCR00725	%sから	%s로부터
+SYS04053	SSCR.BIN	0xAFD53	16		%sを 抜くッスか?	%s을(를) 뽑겠슴까?
+SYS04054	SSCR.BIN	0xAFD78	33	SCR00742	かじ屋「じゃあ、ちょっと待つッス!	대장간「그럼, 잠시 기다려주십쇼!
+SYS04055	SSCR.BIN	0xAFD9C	25		　今すぐ棒をぶち抜くッス!	지금 바로 지팡이를 뽑아드림다!
+SYS04056	SSCR.BIN	0xAFDE6	24		いらないものを送りつける	필요 없는 물건을 보내다
+SYS04057	SSCR.BIN	0xAFE17	28		もう助けてあげてあるのじゃが	이미 구해줬는데 말이지
+SYS04058	SSCR.BIN	0xAFE36	28		DEBUGで もっとあげるッスか？	DEBUG로 더 줄까요？
+SYS04059	SSCR.BIN	0xAFE62	21		おぉ 助けてきたッスね	오오 구조하고 왔네요
+SYS04060	SSCR.BIN	0xAFE7A	28		ついでになにかあげるッスか？	겸사겸사 뭐 좀 줄까요？
+SYS04061	SSCR.BIN	0xAFEA6	27		救助失敗してるけど まぁいい	구조 실패했는데 뭐 상관없나
+SYS04062	SSCR.BIN	0xAFEC4	20		なにかあげるッスか？	뭐 좀 줄까요？
+SYS04063	SSCR.BIN	0xAFEE1	30		助けてきてないみたいだけど……	구조 안 한 것 같은데……
+SYS04064	SSCR.BIN	0xAFF02	23		DEBUGだから特別ッスよ。	DEBUG니까 특별한 거슴다.
+SYS04065	SSCR.BIN	0xAFF59	18		%sをあげるッスか？	%s을(를) 줄까요？
+SYS04066	SSCR.BIN	0xAFF75	16		あげないッスか？	안 줄까요？
+SYS04067	SSCR.BIN	0xAFFB5	22		これはあげられないッス	이건 줄 수 없슴다
+SYS04068	SSCR.BIN	0xAFFEF	28		その前にまずセーブするのじゃ	그 전에 우선 저장하는 것이니라
+SYS04069	SSCR.BIN	0xB0032	18		シーケンスとしては	순서로는
+SYS04070	SSCR.BIN	0xB0047	24		セーブして欲しいのじゃが	저장해줬으면 하는데
+SYS04071	SSCR.BIN	0xB0062	16		強制はできんのう	강제할 수는 없구먼
+SYS04072	SSCR.BIN	0xB0075	16		復活させる呪文は	부활시키는 주문은
+SYS04073	SSCR.BIN	0xB008E	9		[%s] じゃ	[%s] 이니라
+SYS04074	SSCR.BIN	0xB009E	27		さぁ 早く教えてあげるのじゃ	자 어서 알려주는 것이니라
+SYS04075	SSCR.BIN	0xB00DD	24		g_RescueMode::非救助状態	g_RescueMode::비구조 상태

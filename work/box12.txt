@@ -1,0 +1,9 @@
+SYS00899  エレキ=False  箱=True  len(jp)=161
+    jp tail: 'だとか。外見の愛らしさ\\nからも大人気のマムル、そんなマムルのエ\\nレキ箱は、お客様のニーズにお応えして完\\n璧な動作であなたの心を和ませます。\\nなお、本品はたべられません。\\n'
+    kr tail: '도 큰 인기를 끄는마무루그런마무루\\n의 에레키 상자는 고객님의 니즈에부응하여완\\n벽한 동작으로 당신의 마음을편안하게해드립니\\n다참고로 본 상품은 먹을수없습니다\\n'
+SYS00922  エレキ=False  箱=True  len(jp)=168
+SYS00931  エレキ=False  箱=True  len(jp)=168
+SYS00932  エレキ=False  箱=True  len(jp)=168
+SYS00933  エレキ=False  箱=True  len(jp)=168
+SYS00977  エレキ=False  箱=True  len(jp)=144
+SYS00987  エレキ=False  箱=True  len(jp)=151

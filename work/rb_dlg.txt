@@ -1,0 +1,41 @@
+Output Directory: z
+z# --> ERROR!  PVRT header not found!z
+Invalid .PVP file!z
+PVP data error! )
+z)Invalid or unsupported image file format.r-
+Can be YUV420:z`Invalid image size! Must be power of 2, multiple of 32 for stride, or multiple of 16 for yuv420!r5
+z?Invalid image size! Height or Width cannot be over 1024 pixels!z
+Error! Invalid combination: -rl
+z"Warning, placeholder pixel format!z!Invalid color format, using 1555!c
+Error: "-z
+z WARNING! Bitmap reserved format!z-Error! Bitmap reserved format must be square!z
+z$Image dimension Error: Can't Stride r=
+An error occurred: )9rq
+ValueErrorr
+   2. DECODE OPTIONSz1    fmt <img_format>    # Image format: png | bmpz*    o <out_dir>         # Output directoryz(    flip               # Flip verticallyz* 
+mages" -logzT  Example 3 - Convert a PVR to image, Vertical flip, save in "c:\decoded" directory:z7    > pypvr.py "infile1.PVR" -png -flip -o "c:\decoded"z
+mple 3 - Convert all .png images to .PVR(s), save them to output folder "c:\pvr_dir" :z&    > pypvr.py "*.png" -o "c:\pvr_dir"zA  Example 4 - Convert image to 1
+zbList all files matching the given pattern in the specified directory or current working directory.r
+Directory not found: )
+FileNotFoundErrorr}
+directory
+Error: Image file 'z
+' not found.rj
+Nz'Select Output Folder for NEW_DATABG.bin)
+askdirectory
+folderr
+select_output_folder
+Input file not found: z
+Error executing lzx.exe: )
+CalledProcessErrorr}
+ was not found.r
+Missing DATABG_EXT FolderzGDATABG_EXT folder not found.
+Error file sizez
+* z: *, skipped due to size limit.
+Error: DATABG.bin not found.r
+showwarningr
+Configuration Missingz&Select output file for new DATABG.bin.z
+Select DATABG.BIN File)
+Config file errorz#Delete DATABG_cfg.txt and try again)1
+config_filer
+output_folderr

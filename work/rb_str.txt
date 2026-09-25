@@ -1,0 +1,5 @@
+Referenced dependency archive %s not found.
+Dependency %s not found in the referenced dependency archive.
+PYZ archive entry not found in the TOC!
+.00cfg
+setuptools.config.setupcfg)
