@@ -6,7 +6,7 @@
 
 ■ 구간 재조립
    DATASCR.BIN  행  7890 -> 구간  7890개 (병합    0개)  잔여  65930 B
-   SSCR.BIN     행  4860 -> 구간  4727개 (병합  111개)  잔여  18239 B
+   SSCR.BIN     행  4860 -> 구간  4727개 (병합  111개)  잔여  18241 B
    1NOSDC.BIN   행    32 -> 구간    32개 (병합    0개)  잔여     23 B
 
 ■ 검증
@@ -29,4 +29,4 @@
    복사 track5 ...
 
 기록 완료. EDC/ECC 재계산 섹터 33416개 -> C:\claude\project\asuka-kr-patch\build\kr
-   xdelta v0.8  4580121 B  되적용 검증 일치 -> asuka_kr_v0.8.xdelta
+   xdelta v0.8  4580070 B  되적용 검증 일치 -> asuka_kr_v0.8.xdelta
