@@ -60,7 +60,16 @@ if __name__ == '__main__':
             continue
         org = open(os.path.join(ISO, name), 'rb').read()
         new = outbin[name]
+        moved = set()       # 경계를 옮긴 아이템 쌍의 둘째(히라가나) 이름 — 원래 위치에서 읽으면 안 맞는 게 정상
+        for reg in build_all.PLANS.get(name, []):
+            if len(reg['rows']) == 2 and build_all.pair_head(*reg['rows']):
+                moved.add(reg['rows'][1]['id'])
+            elif len(reg['rows']) > 1 and any(r['id'] in build_all.MERGE_CHAIN for r in reg['rows']):
+                moved.update(r['id'] for r in reg['rows'][1:])      # 표로 찾는 목록 — 밀린 칸
+        moved |= {r['id'] for r in per.get(name, []) if r['kr'] == '='}
         for r in per.get(name, []):
+            if r['id'] in moved:
+                continue
             off, bud = int(r['offset'], 16), int(r['budget'])
             if lo is not None and not (lo <= off < hi):
                 continue

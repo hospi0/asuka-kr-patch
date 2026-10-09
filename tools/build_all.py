@@ -61,6 +61,26 @@ PAD = 0x20                      # 반각 공백 — 구간 잔여 바이트 채�
 #   다행히 병합을 꺼도 DATASCR·1NOSDC 는 초과 0행, SSCR 만 494행이 넘쳤고
 #   그건 축약 단계가 처리한다. 이득이 없으니 전 파일에서 끈다.
 MAX_MERGE = 1
+# ★아이템 이름 쌍 경계 옮기기(2026-10-09 폭수족자 시험 실기 «모든게 정상임»):
+#   05_아이템명 은 [한자 이름][0][히라가나 이름] 이 붙어 있고 게임은 둘째 이름을 «첫 이름 끝 0 다음»에서 찾는다.
+#   → 한자 이름이 칸을 넘치면 바로 뒤 히라가나 이름과 한 구간으로 묶어 합계 바이트 안에서 경계를 옮긴다.
+#   (몬스터 04 는 이런 쌍이 아니다 — 대상 아님)
+PLANS = {}          # check_ctrl 이 읽는다
+# ★시험(2026-10-09 사용자 «4글자 넣어보자»): 아이템 분류 목록(巻物=족자 4 B)에 «두루마리» 8 B —
+#   巻物‥その他 6칸을 한 구간으로 묶어 경계를 옮긴다(뒤 칸 시작이 밀린다). 실기에서 분류 이름이 다 멀쩡해야 유지.
+# ★백지 두루마리에 쓰는 이름 목록(SYS02172‥02207) — 앞 0x674E4 에 칸마다 «거리» u16 표 → 목록 안에서 경계 옮기고 표 고침(2026-10-09)
+MERGE_CHAIN = {'SYS0%d' % n for n in range(2172, 2207)}   # (분류 목록은 밀기 대신 CAT_ALIAS)
+# ★분류 목록 «거리» 표가 분류 칸 대신 아이템 이름 속 낱말을 가리키게 한다(2026-10-09 지팡이·항아리·두루마리)
+#   분류 id: (그 낱말이 든 행 id, 낱말). 대상은 표보다 뒤(u16 은 앞으로만), 0 앞까지가 화면에 나온다.
+CAT_ALIAS = {'SGL05DA0A': ('SYS01169', '방패'), 'SGL05DA12': ('SYS01301', '화살'), 'SGL05DA23': ('SGL05EAD0', '지팡이'), 'SYS01049': ('SYS01415', '두루마리'), 'SGL05DA32': ('SYS01613', '항아리')}
+_KANA = re.compile('^[ぁ-ゖー・ 　]+$')
+
+
+def pair_head(a, b):
+    """a(한자 이름) 바로 뒤가 그 히라가나 이름 b 인가"""
+    return ((a.get('_cat', '').startswith('05') or a['id'].startswith('SGL')) and b.get('_cat', '').startswith('05')
+            and int(a['offset'], 16) + int(a['budget']) + 1 == int(b['offset'], 16)
+            and (bool(_KANA.match(b['jp'].replace(BS + 'x02', ''))) or b['jp'] == '没アイテム') and not _KANA.match(a['jp']))   # 没アイテム = 미사용 아이템의 둘째 이름(같은 구조)
 MAX_GAP = 2                     # ★넘어도 되는 «메시지 사이 간격» 상한 (수치 레코드 보호)
 
 BS = chr(0x5c)
@@ -142,6 +162,9 @@ def plan_regions(rows, data, name, cm, max_gap=MAX_GAP, max_merge=MAX_MERGE):
     """
     bar = barriers(name, data)
     out, errs = [], []
+    # 아이템 이름 쌍 = 히라가나 이름 바로 뒤에 수치 블록(31 B↑)이 오는 것만(인장 라벨·검기 이름은 간격 1 — 미검증이라 뺀다)
+    heads = {rows[k]['id'] for k in range(len(rows) - 2) if name == 'SSCR.BIN' and pair_head(rows[k], rows[k + 1])
+             and int(rows[k + 2]['offset'], 16) - int(rows[k + 1]['offset'], 16) - int(rows[k + 1]['budget']) >= 31}
     seen_err = set()
 
     def note(kind, r, msg):
@@ -162,9 +185,10 @@ def plan_regions(rows, data, name, cm, max_gap=MAX_GAP, max_merge=MAX_MERGE):
             for k in range(i, j + 1):
                 r = rows[k]
                 off, bud = int(r['offset'], 16), int(r['budget'])
-                kr = r['kr'].strip()
+                kr = r['kr'].strip(' \t\r\n')   # ★전각 공백은 남긴다 — 인수 없는 strip 이 끝의 「　」를 지워 반각 공백 채움으로 바뀌었고,
+                #   가변폭 메뉴에서 반각 둘이 한 칸보다 넓어 대장간 가격 열이 어긋났다(2026-10-09 실기). 영향 18행(메뉴 라벨·비석 가운데 맞춤·이름표 빈칸)
                 try:
-                    body += cm.encode_tsv(kr) if kr else data[off:off + bud]
+                    body += b'' if kr == '=' else (cm.encode_tsv(kr) if kr else data[off:off + bud])   # «=» = ② 칸 비움(① 이름을 가리킴)
                 except KeyError as e:
                     note('인코딩누락', r, repr(e.args[0]))
                     body += data[off:off + bud]
@@ -177,7 +201,7 @@ def plan_regions(rows, data, name, cm, max_gap=MAX_GAP, max_merge=MAX_MERGE):
                 break
             # 넘친다 — 다음 메시지를 끌어들여 여유를 빌릴 수 있는가?
             gap = (int(rows[j + 1]['offset'], 16) - end) if j + 1 < len(rows) else None
-            if (gap is None or gap > max_gap or j - i + 1 >= max_merge
+            if (gap is None or gap > max_gap or (j - i + 1 >= max_merge and not (j == i and rows[i]['id'] in heads) and rows[j]['id'] not in MERGE_CHAIN)
                     or int(rows[j + 1]['offset'], 16) in bar):
                 note('예산초과', rows[i], '%dB 필요, %dB 가능 (+%d)%s'
                      % (len(body), need, len(body) - need,
@@ -376,7 +400,7 @@ def build(write=False):
         if not rows:
             continue
         regs, errs = plan_regions(rows, src[name], name, cm)
-        plans[name] = regs
+        plans[name] = regs; PLANS[name] = regs
         all_errs += [(name,) + e for e in errs]
         merged = sum(1 for r in regs if len(r['rows']) > 1)
         slack = sum(r['slack'] for r in regs)
@@ -428,6 +452,52 @@ def build(write=False):
             forced += 1 if over else 0
             assert len(new) == reg['end'] - reg['start'], (name, hex(reg['start']))
             d[reg['start']:reg['end']] = new
+            # ★아이템 이름 쌍을 묶었으면 기록 머리의 «② 히라가나 이름까지 거리»(u16, 그 칸 자신 기준)도 고친다.
+            #   안 고치면 설명 창 머리 【…】가 옛 위치를 읽어 «【Z리】»처럼 깨진다(2026-10-09 실기).
+            if len(reg['rows']) == 2 and pair_head(*reg['rows']):
+                ko, vo = int(reg['rows'][0]['offset'], 16), int(reg['rows'][1]['offset'], 16)
+                assert src[name][ko:vo].index(0) == vo - 1 - ko, reg['rows'][0]['id']
+                nvo = reg['start'] + new.index(0) + 1
+                fld = [q for q in range(ko - 64, ko) if struct.unpack_from('<H', src[name], q)[0] == vo - q][-1]
+                struct.pack_into('<H', d, fld, nvo - fld)
+                extra_ok.setdefault(name, set()).update((fld, fld + 1))
+            elif len(reg['rows']) > 1 and any(r['id'] in MERGE_CHAIN for r in reg['rows']):
+                # ★분류 목록도 앞에 «자기 기준 거리» u16 표가 있다(0x5D9E7‥, 15칸) — 밀린 칸마다 고친다(2026-10-09)
+                o = src[name]; pos = reg['start']
+                for r in reg['rows'][1:]:
+                    pos = d.index(0, pos) + 1                     # 새 시작 = 앞 칸 끝 0 다음
+                    oo = int(r['offset'], 16)
+                    f = [q for q in range(reg['start'] - 0x200, reg['start']) if struct.unpack_from('<H', o, q)[0] == oo - q]
+                    assert f, (r['id'], f)
+                    struct.pack_into('<H', d, f[-1], pos - f[-1])          # 여럿이면 가장 가까운 것(표 안)
+                    extra_ok.setdefault(name, set()).update((f[-1], f[-1] + 1))
+        if name == 'SSCR.BIN':
+            byid = {r['id']: r for r in per.get(name, [])}
+            for cid, (tid, word) in CAT_ALIAS.items():
+                c = byid[cid]; co = int(c['offset'], 16); w = cm.encode_tsv(word)
+                f = [q for q in range(co - 0x80, co) if struct.unpack_from('<H', src[name], q)[0] == co - q]
+                assert len(f) == 1, (cid, f)
+                tpos = None          # 낱말 바로 뒤가 0 인(채움 공백 없는) 행 — tid 먼저, 없으면 표 뒤 64 KB 안에서
+                for t in [byid[tid]] + per.get(name, []):
+                    to = int(t['offset'], 16)
+                    if t['kr'].endswith(word) and 0 < to - f[0] < 0xFF00:
+                        p0 = to + len(cm.encode_tsv(t['kr'][:len(t['kr']) - len(word)]))
+                        if d[p0:p0 + len(w) + 1] == w + bytes(1):
+                            tpos = p0; break
+                assert tpos is not None, (cid, word)
+                struct.pack_into('<H', d, f[0], tpos - f[0])
+                extra_ok.setdefault(name, set()).update((f[0], f[0] + 1))
+        # ★② 히라가나 칸이 «=» 이면 «② 까지 거리»를 ① 이름(앞머리 제어 코드·× 다음)으로 돌린다 —
+        #   설명 창 머리 【…】에 ① 이름이 그대로 나오고, ② 칸 바이트는 ① 이 써도 된다(2026-10-09)
+        rws = per.get(name, [])
+        for k in range(len(rws) - 1):
+            a, b = rws[k], rws[k + 1]
+            if b['kr'] == '=' and pair_head(a, b):
+                ko, vo = int(a['offset'], 16), int(b['offset'], 16)
+                plen = len(cm.encode_tsv(re.match('^[^가-힣]*', a['kr']).group(0)))
+                fld = [q for q in range(ko - 64, ko) if struct.unpack_from('<H', src[name], q)[0] == vo - q][-1]
+                struct.pack_into('<H', d, fld, ko + plen - fld)
+                extra_ok.setdefault(name, set()).update((fld, fld + 1))
         assert len(d) == len(src[name]), name
         outbin[name] = bytes(d)
     say('   패딩: 반각 공백 (VM 이 종단자를 원자리에서 읽어야 한다)%.0s' % forced)
@@ -495,6 +565,13 @@ def build(write=False):
     #   끝나는 4바이트 독립 문자열이라 추출기가 걸러버려 TSV 에 아예 없다.
     #   («조사 잔여 0행»인데 화면엔 일본어가 남는 지문이 이것이다)
     #   ⚠한글은 cp932 로 못 쓴다 — 반드시 «현재 빌드의 글리프 배정표»로 인코딩한다.
+    # ★조사 자동 선택 + 이름 끝 공백 건너뛰기 — printf %s 의 strlen 을 우리 함수로(tools/patch_josa.py, 2026-10-09)
+    import patch_josa
+    outbin['1NOSDC.BIN'], rgs = patch_josa.apply(outbin['1NOSDC.BIN'], cm)
+    for a, b2 in rgs:
+        extra_ok.setdefault('1NOSDC.BIN', set()).update(range(a, b2))
+    say('   1NOSDC.BIN   조사 자동 선택(은/는·을/를·이/가·과/와) + %%s 끝 공백 건너뛰기 0x%X~0x%X' % rgs[0])
+
     import patch_missed
     n_ex = 0
     for fname, jp, kr in patch_missed.RULES:
@@ -566,7 +643,7 @@ def build(write=False):
     return font, cm, outbin
 
 
-VERSION = '0.7'
+VERSION = '0.8'
 XDELTA = r"C:\claude\utils\xdelta.exe"
 
 
