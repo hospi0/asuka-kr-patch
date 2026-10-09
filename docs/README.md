@@ -45,3 +45,5 @@
 - 은총→은혜 8행(work/eunhye.py). Track5 0b100727…
 - 단지→항아리·봉→지팡이 전면(2026-10-09, work/term_swap.py 207행 + work/swap_hand.py 42행). ② 히라가나 칸 «=» = 설명 창 머리가 ① 이름을 가리킴(build_all, 쌍 35+α). 분류 목록은 밀기 대신 CAT_ALIAS(거리 표가 아이템 이름 속 방패·화살·지팡이·항아리·두루마리를 가리킴), 돌・탄·풀・씨. 346쌍 검산 0 틀림(work/verify_ptrs.py). Track5 `b862ac53…` F: 덮어씀 ⏳실기.
 - 백지 쓰기 목록(SYS02172‥02207) 표 0x674E4 기준 경계 옮김 → 두루마리 이름과 같은 꼴(항아리증대·몬스터하우스·하늘의은혜·날지않기 등). Track5 9c3168fc… ⏳실기
+- ✅배포 v0.8(2026-10-09): dist/Asuka_KR_v0.8/(xdelta·readme·xdelta.exe), 패치md5 9C3168FC4FD0004F38C4E201C9FD10D0(원본 적용 검증 일치), GitHub 커밋 aa39fe6 + 릴리즈 v0.8(asuka_KR_v0.8.zip md5 3083f624…, v0.72 릴리즈 삭제·교체). build_all VERSION=0.8.
+- 옵션 화면 값 열 정렬(SYS03378~03381, 전각 공백으로 10칸째). Track5 194376e2… — v0.8 배포 이후 변경
