@@ -54,3 +54,5 @@
 - 장비 비교 창 «↓盾» 미추출 → patch_missed «↓방»(사용자 지정). Track5 6c787a03…
 - 항아리 «〜의 항아리» 28행(work/pot_names.py) + 배포 dist v0.8 갱신 패치md5 0B6FCC46A8518CC06671D74DD44B926B (GitHub 미갱신)
 - 항아리 이름 띄어쓰기 없앰(〜의항아리 30행, 사용자). dist v0.8 패치md5 75C9C7F12CE06A6582AE3DDA1B71255B (GitHub 미갱신)
+- GitHub v0.8 갱신(패치md5 75C9C7F1…, 커밋 2c5473a)
+- ✅메모리카드 접근 때 BIOS 로 튕김(2026-10-09) 원인 = 조사 함수의 «끝 공백 지우기». 시험판 갈라 보기: nopot·noarrow·nosfd·nobracket·noalign·nolist·nofield·macl 튕김, nojosa·macl_notrim 안 튕김. 메모리카드 쪽이 공백으로 길이 맞춘 문자열을 «%s» 단독 서식으로 복사 → 잘라서 망가짐. 수정: 서식 's' 다음 바이트가 0 이면 공백 안 지움(tools/patch_josa.py), MACL 보존도 추가. Track5 `1a61813b…` F: 덮어씀 ⏳실기. ⚠VMU 는 «구버전(0.72) 세이브를 신버전으로 읽어도 튕김» = 세이브는 멀쩡, 게임 쪽 문제였다.

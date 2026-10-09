@@ -35,6 +35,9 @@ def run(s_bytes, fmt_bytes):
         h = op >> 12
         if op == 0x0009: pass
         elif op == 0x000B: d = pr
+        elif op & 0xF0FF == 0x4012: r[n] = (r[n] - 4) & M; wl(r[n], macl)
+        elif op & 0xF0FF == 0x4016: macl = rl(r[n]); r[n] = (r[n] + 4) & M
+        elif op & 0xFF00 == 0xC800: T = int((r[0] & op & 0xFF) == 0)
         elif op & 0xF0FF == 0x4022: r[n] = (r[n] - 4) & M; wl(r[n], pr)
         elif op & 0xF0FF == 0x4026: pr = rl(r[n]); r[n] = (r[n] + 4) & M
         elif op & 0xF0FF == 0x400B: d = r[n]; pr = pc + 4

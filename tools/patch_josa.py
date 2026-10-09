@@ -15,7 +15,7 @@
      → «%s이스»·«%s이구려» 처럼 «이»로 시작하는 서술 표현은 안 건드린다. 서식은 RAM 이라 쓸 수 있다.
   짝: 은/는 · 을/를 · 이/가 · 과/와  (으로/로는 길이가 달라 제자리에서 못 바꿔 뺌)
 """
-import struct
+import os, struct
 
 LOAD = 0x8C010000
 HOOK_LIT = 0x0FB6F4          # printf %s 의 strlen 리터럴
@@ -77,11 +77,19 @@ def assemble(tab_addr, pair_addr):
     W(0x4F22)            # sts.l pr,@-r15
     W(0x2F86)            # mov.l r8,@-r15
     W(0x2F96)            # mov.l r9,@-r15
+    W(0x4F12)            # sts.l macl,@-r15     ; ★SHC 는 MACL 을 «호출된 쪽 보존» — 곱셈 쓰니 저장(2026-10-09 메모리카드 접근 때 BIOS 로 튕김)
     W(0x6843)            # mov r4,r8            ; r8 = 문자열
     a.ldl(0, STRLEN)     # mov.l strlen,r0
     W(0x400B)            # jsr @r0
     W(0x0009)            # nop
     W(0x6903)            # mov r0,r9            ; r9 = 길이
+    # ★서식이 «%s» 에서 끝나면(문자열 통째 복사) 끝 공백을 지우지 않는다 — 메모리카드 쪽이 공백으로 길이를 맞춘
+    #   문자열을 «%s» 로 복사하는데 잘라 버리면 BIOS 화면으로 튕겼다(2026-10-09, 시험_macl_notrim 으로 확정).
+    #   «%s을 주웠다»·«【%s】» 처럼 뒤에 글자가 이어질 때만 지운다.
+    W(0x61C3)            # mov r12,r1           ; 서식 커서('s')
+    W(0x8411)            # mov.b @(1,r1),r0     ; 's' 다음 바이트
+    W(0xC8FF)            # tst #0xFF,r0
+    a.br('bt', 'scan')   # 0 이면 공백 그대로
     a.L('trim')
     W(0x2998)            # tst r9,r9
     a.br('bt', 'scan')   # 빈 문자열 — r5=0 으로 끝까지 가서 «조사 안 건드림»
@@ -232,6 +240,8 @@ def assemble(tab_addr, pair_addr):
     a.br('bra', 'out')
     W(0x0009)
     a.L('hit')
+    if os.environ.get('ASUKA_NOWRITE'):  # 시험: 조사 고쳐 쓰기 끔
+        a.br('bra', 'out'); W(0x0009)
     W(0x2778)            # tst r7,r7
     a.br('bt', 'usev')
     W(0x6543)            # mov r4,r5
@@ -243,6 +253,7 @@ def assemble(tab_addr, pair_addr):
     W(0x8011)            # mov.b r0,@(1,r1)
     a.L('out')
     W(0x6093)            # mov r9,r0
+    W(0x4F16)            # lds.l @r15+,macl
     W(0x69F6)            # mov.l @r15+,r9
     W(0x68F6)            # mov.l @r15+,r8
     W(0x4F26)            # lds.l @r15+,pr
