@@ -18,14 +18,15 @@
 ■ 구운 그림
    DATASZU.BIN  변경 14115 B — 상태바 「층」 + 이름입력 라벨 7종
    DATAIDA.BIN  변경 193031 B — 오프닝 나레이션 6화면
+   OP.SFD       오프닝 동영상 자막 8줄 (앞 29초 다시 인코딩)
    1NOSDC.BIN   LZ40 해제 루틴 패치 0x3768~0x37FC (148 B)
    DATABG.BIN   변경 1318910 B — 지명판 18 + 던전 이름표 105
-   1NOSDC.BIN   조사 자동 선택(은/는·을/를·이/가·과/와) + %s 끝 공백 건너뛰기 0x10D000~0x10D5AC
+   1NOSDC.BIN   조사 자동 선택(은/는·을/를·이/가·과/와) + %s 끝 공백 건너뛰기 0x10D000~0x10D614
    추가 문자열 115곳 — 모집단 누락분(`%sは` 등)
    DATASCR.BIN  변경 392978 B / 882688 B (계획 밖 0)
    SSCR.BIN     변경 165092 B / 809344 B (계획 밖 0)
-   1NOSDC.BIN   변경   1212 B / 1941796 B (계획 밖 0)
+   1NOSDC.BIN   변경   1303 B / 1941796 B (계획 밖 0)
    복사 track5 ...
 
-기록 완료. EDC/ECC 재계산 섹터 12342개 -> C:\claude\project\asuka-kr-patch\build\kr
-   xdelta v0.8  1723661 B  되적용 검증 일치 -> asuka_kr_v0.8.xdelta
+기록 완료. EDC/ECC 재계산 섹터 33416개 -> C:\claude\project\asuka-kr-patch\build\kr
+   xdelta v0.8  4580097 B  되적용 검증 일치 -> asuka_kr_v0.8.xdelta

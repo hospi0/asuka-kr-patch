@@ -1,0 +1,8 @@
+drawtext=fontfile=mjb.ttf:text='수많은 땅을 여행하며':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,2.55,5.35)',
+drawtext=fontfile=mjb.ttf:text='많은 사람들과 어울리고':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,5.50,8.05)',
+drawtext=fontfile=mjb.ttf:text='역경에 맞서':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,8.25,10.70)',
+drawtext=fontfile=mjb.ttf:text='자신의 지혜와 용기를 시험한다':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,10.85,13.35)',
+drawtext=fontfile=mjb.ttf:text='여행의 신 크론의 인도를 받은 그들을':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,13.55,16.60)',
+drawtext=fontfile=mjb.ttf:text='사람들은 풍래인이라 불렀다.':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,16.85,19.65)',
+drawtext=fontfile=mjb.ttf:text='그리고 이것은 풍래 수행 여행 도중\,':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,21.05,24.00)',
+drawtext=fontfile=mjb.ttf:text='두 나라를 찾은 한 여검사의 이야기……':fontsize=21:fontcolor=0x101010:borderw=2:bordercolor=white:x=(w-text_w)/2:y=h-46:enable='between(t,24.20,28.60)'

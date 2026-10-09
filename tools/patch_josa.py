@@ -84,7 +84,7 @@ def assemble(tab_addr, pair_addr):
     W(0x6903)            # mov r0,r9            ; r9 = 길이
     a.L('trim')
     W(0x2998)            # tst r9,r9
-    a.br('bt', 'out')
+    a.br('bt', 'scan')   # 빈 문자열 — r5=0 으로 끝까지 가서 «조사 안 건드림»
     W(0x6183)            # mov r8,r1
     W(0x319C)            # add r9,r1
     W(0x71FF)            # add #-1,r1
@@ -96,27 +96,50 @@ def assemble(tab_addr, pair_addr):
     W(0x79FF)            # (지연) add #-1,r9
     # --- 마지막 글자 코드 → r5 ---
     a.L('scan')
+    # ★괄호 안은 건너뛴다(2026-10-09 실기 «보존항아리[4]을») — 괄호 «바로 앞» 글자로 받침을 정한다.
+    #   여는 [ ( 【 ［ （ 를 만나면 r4 += 1, 닫는 ] ) 】 ］ ） 면 r4 -= 1, r4 == 0 일 때만 r5 를 갱신.
     W(0x6183)            # mov r8,r1            ; r1 = 커서
     W(0x6683)            # mov r8,r6
     W(0x369C)            # add r9,r6            ; r6 = 끝
     W(0xE500)            # mov #0,r5
+    W(0xE400)            # mov #0,r4            ; r4 = 괄호 깊이
     a.L('sloop')
     W(0x3162)            # cmp/hs r6,r1         ; r1 >= r6 ?
     a.br('bt', 'decide')
-    W(0x6014)            # mov.b @r1+,r0
-    W(0x600C)            # extu.b r0,r0
-    W(0x6503)            # mov r0,r5
+    W(0x6214)            # mov.b @r1+,r2
+    W(0x622C)            # extu.b r2,r2         ; r2 = 글자 코드
+    W(0x6023)            # mov r2,r0
     W(0xCA20)            # xor #0x20,r0         ; 선행 바이트면 0xA1‥0xDC
     W(0x7080)            # add #-128,r0
     W(0x70DF)            # add #-33,r0          ; r0 -= 0xA1
     W(0xE33C)            # mov #0x3C,r3
-    W(0x3032)            # cmp/hs r3,r0         ; (b^0x20)-0xA1 >= 0x3C → 1바이트
-    a.br('bt', 'sloop')
-    W(0x6214)            # mov.b @r1+,r2
-    W(0x622C)            # extu.b r2,r2
-    W(0x4518)            # shll8 r5
+    W(0x3032)            # cmp/hs r3,r0         ; 1바이트?
+    a.br('bt', 'one')
+    W(0x6014)            # mov.b @r1+,r0
+    W(0x600C)            # extu.b r0,r0
+    W(0x4218)            # shll8 r2
+    W(0x220B)            # or r0,r2
+    a.L('one')
+    for c in (0x5B, 0x28):                       # 여는 괄호(1바이트)
+        W(0xE300 | c); W(0x3320); a.br('bt', 'opn')      # mov #c,r3 · cmp/eq r2,r3
+    for c in (0x8179, 0x816D, 0x8169):           # 【 ［ （
+        a.ldl(3, c); W(0x3320); a.br('bt', 'opn')
+    for c in (0x5D, 0x29):                       # 닫는 괄호
+        W(0xE300 | c); W(0x3320); a.br('bt', 'cls')
+    for c in (0x817A, 0x816E, 0x816A):           # 】 ］ ）
+        a.ldl(3, c); W(0x3320); a.br('bt', 'cls')
+    W(0x2448)            # tst r4,r4
+    a.br('bf', 'sloop')  # 괄호 안 — 건너뜀
     a.br('bra', 'sloop')
-    W(0x252B)            # (지연) or r2,r5
+    W(0x6523)            # (지연) mov r2,r5     ; 마지막 글자 후보
+    a.L('opn')
+    a.br('bra', 'sloop')
+    W(0x7401)            # (지연) add #1,r4
+    a.L('cls')
+    W(0x2448)            # tst r4,r4
+    a.br('bt', 'sloop')  # 짝 없는 닫는 괄호 — 무시
+    a.br('bra', 'sloop')
+    W(0x74FF)            # (지연) add #-1,r4
     # --- 받침 r7 ---
     a.L('decide')
     W(0x6253)            # mov r5,r2

@@ -43,7 +43,8 @@ LBA = {'DATAAPP.BIN': 492080, 'DATASCR.BIN': 164129,
        'SSCR.BIN': 494158, '1NOSDC.BIN': 548051,
        'DATASZU.BIN': 144921,     # 구운 그림(상태바·이름입력 라벨)
        'DATAIDA.BIN': 150689,     # 구운 그림(오프닝 나레이션 OPfont_*)
-       'DATABG.BIN': 145004}      # 지명판·던전 이름표 (LZ40 컨테이너)
+       'DATABG.BIN': 145004,      # 지명판·던전 이름표 (LZ40 컨테이너)
+       'OP.SFD': 494633}          # 오프닝 동영상(앞 29초 자막 구움 — work/movie/op_subs.py)
 FONT_NAME = 'nanumb'
 PAD = 0x20                      # 반각 공백 — 구간 잔여 바이트 채움
 # 여유를 빌리려고 끌어들일 인접 메시지 최대 개수.
@@ -529,6 +530,14 @@ def build(write=False):
     outbin['DATAIDA.BIN'] = bytes(ida)
     n_op = sum(1 for a, b in zip(ida, src['DATAIDA.BIN']) if a != b)
     say('   DATAIDA.BIN  변경 %d B — 오프닝 나레이션 6화면' % n_op)
+
+    # ★오프닝 동영상 자막(2026-10-09) — work/movie/op_subs.py 가 만든 OP_kr.SFD(원본과 같은 크기, 앞 GOP 49개만 다시 인코딩)
+    sfp = os.path.join(ROOT, 'work', 'movie', 'OP_kr.SFD'); sfo = os.path.join(ROOT, 'work', 'movie', 'OP.SFD')
+    if os.path.exists(sfp) and os.path.exists(sfo):
+        src['OP.SFD'] = open(sfo, 'rb').read(); sf = open(sfp, 'rb').read()
+        assert len(sf) == len(src['OP.SFD'])
+        outbin['OP.SFD'] = sf
+        say('   OP.SFD       오프닝 동영상 자막 8줄 (앞 29초 다시 인코딩)')
 
     # ★지명판·던전 이름표 — `DATABG_rebuild.exe` 가 만든 컨테이너를 그대로 싣는다.
     #   ⚠재빌더 산출물은 «추출기로 되읽기»가 안 된다(무수정 왕복도 마찬가지).
