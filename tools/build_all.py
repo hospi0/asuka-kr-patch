@@ -372,6 +372,11 @@ def build(write=False):
             if kr:
                 syl.update(c for c in ESC.sub('', kr) if '가' <= c <= '힣')
 
+    import patch_missed as _pm                                  # ★2026-10-10 미식별 이름 216개도 글꼴에 배정
+    for _jp in _pm.GEM: syl.update(c for c in _pm.unid_kr(_jp + 'の腕輪') if '가' <= c <= '힣')
+    for _d, _suf in ((_pm.COLOR, '草'), (_pm.ANIMAL, 'の絵の巻物'), (_pm.WOOD, 'の杖'), (_pm.SHAPE, '壺')):
+        for _jp in _d: syl.update(c for c in _pm.unid_kr(_jp + _suf) if '가' <= c <= '힣')
+
     # ★남는 한자 칸까지 «KS X 1001 2,350자»로 채운다.
     #   이름입력 漢字 페이지가 폰트 문자표를 SJIS 순으로 훑으므로, 칸을 오름차순으로
     #   두고 음절을 가나다순으로 배정하면 그 화면이 «받침까지 되는 한글 음절표»가 된다.
@@ -606,6 +611,24 @@ def build(write=False):
     if n_ex:
         say('   추가 문자열 %d곳 — 모집단 누락분(`%%sは` 등)' % n_ex)
 
+    # ★미식별 이름 216개(2026-10-10) — 영역 안에 차례로 다시 채우고 포인터 표를 고쳐 쓴다(tools/patch_missed.py UNID_*)
+    fn = patch_missed.UNID_FILE
+    if fn in outbin:
+        d = bytearray(outbin[fn]); a0, a1 = patch_missed.UNID_AREA; p0, p1 = patch_missed.UNID_PTRS; base = patch_missed.UNID_BASE
+        blob = bytearray(); ptrs = []
+        for p in range(p0, p1, 4):
+            v = struct.unpack_from('<I', src[fn], p)[0] - base
+            assert a0 <= v < a1, hex(p)
+            jp = src[fn][v:src[fn].index(b'\x00', v)].decode('cp932')
+            ptrs.append(a0 + len(blob)); blob += cm.encode_tsv(patch_missed.unid_kr(jp)) + b'\x00'
+        assert len(blob) <= a1 - a0, ('미식별 이름 넘침', len(blob), a1 - a0)
+        d[a0:a1] = bytes(blob) + bytes(a1 - a0 - len(blob))
+        for k, v in enumerate(ptrs):
+            struct.pack_into('<I', d, p0 + 4 * k, base + v)
+        extra_ok.setdefault(fn, set()).update(range(a0, a1)); extra_ok[fn].update(range(p0, p1))
+        outbin[fn] = bytes(d)
+        say('   미식별 이름 %d개 %d / %d B — 포인터 표 다시 씀' % (len(ptrs), len(blob), a1 - a0))
+
     # ★최종 변경 검증 — 바뀐 바이트가 전부 «계획한 구간» 안인가
     for name, d in outbin.items():
         if name not in plans:          # 구운 그림 파일은 구간 계획이 없다
@@ -652,7 +675,7 @@ def build(write=False):
     return font, cm, outbin
 
 
-VERSION = '0.8'
+VERSION = '0.9'
 XDELTA = r"C:\claude\utils\xdelta.exe"
 
 

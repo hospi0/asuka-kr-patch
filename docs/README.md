@@ -58,3 +58,4 @@
 - ✅메모리카드 접근 때 BIOS 로 튕김(2026-10-09) 원인 = 조사 함수의 «끝 공백 지우기». 시험판 갈라 보기: nopot·noarrow·nosfd·nobracket·noalign·nolist·nofield·macl 튕김, nojosa·macl_notrim 안 튕김. 메모리카드 쪽이 공백으로 길이 맞춘 문자열을 «%s» 단독 서식으로 복사 → 잘라서 망가짐. 수정: 서식 's' 다음 바이트가 0 이면 공백 안 지움(tools/patch_josa.py), MACL 보존도 추가. Track5 `1a61813b…` F: 덮어씀 ⏳실기. ⚠VMU 는 «구버전(0.72) 세이브를 신버전으로 읽어도 튕김» = 세이브는 멀쩡, 게임 쪽 문제였다.
 - ✅v0.8 재갱신(메모리카드 튕김 수정): 패치md5 1A61813BD41B297A85E0E30C9FB551A5, dist + GitHub(비공개) 커밋 61f2736 릴리즈 v0.8.
 - 飲む «마심»→«먹다», 풀 설명·시스템 문장 «마시-»→«먹-» 16행(술·물 대사는 그대로). Track5 f15577db…
+- ✅v0.8 재갱신(먹다): 패치md5 F15577DBF75B7818B0D075DBE77097D7, dist + GitHub 공개 커밋 66a8d1f
