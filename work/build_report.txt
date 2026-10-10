@@ -30,4 +30,4 @@
    복사 track5 ...
 
 기록 완료. EDC/ECC 재계산 섹터 33416개 -> C:\claude\project\asuka-kr-patch\build\kr
-   xdelta v0.8  4583574 B  되적용 검증 일치 -> asuka_kr_v0.8.xdelta
+   xdelta v0.9  4583586 B  되적용 검증 일치 -> asuka_kr_v0.9.xdelta
