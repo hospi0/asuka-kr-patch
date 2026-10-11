@@ -6,13 +6,13 @@
 
 ■ 구간 재조립
    DATASCR.BIN  행  7890 -> 구간  7890개 (병합    0개)  잔여  65584 B
-   SSCR.BIN     행  4860 -> 구간  4700개 (병합  138개)  잔여  18489 B
+   SSCR.BIN     행  4860 -> 구간  4675개 (병합  163개)  잔여  18401 B
    1NOSDC.BIN   행    32 -> 구간    32개 (병합    0개)  잔여     23 B
 
 ■ 검증
    문제 없음
    상세 -> C:\claude\project\asuka-kr-patch\work\build_errors.txt
-   패딩: 10490구간, 중앙값 6B, 최대 84B
+   패딩: 10478구간, 중앙값 6B, 최대 84B
    패딩: 반각 공백 (VM 이 종단자를 원자리에서 읽어야 한다)
 
 ■ 구운 그림
@@ -25,9 +25,9 @@
    추가 문자열 116곳 — 모집단 누락분(`%sは` 등)
    미식별 이름 216개 3197 / 3240 B — 포인터 표 다시 씀
    DATASCR.BIN  변경 393009 B / 882688 B (계획 밖 0)
-   SSCR.BIN     변경 165322 B / 809344 B (계획 밖 0)
+   SSCR.BIN     변경 165361 B / 809344 B (계획 밖 0)
    1NOSDC.BIN   변경   4841 B / 1941796 B (계획 밖 0)
    복사 track5 ...
 
 기록 완료. EDC/ECC 재계산 섹터 33416개 -> C:\claude\project\asuka-kr-patch\build\kr
-   xdelta v0.91  4583691 B  되적용 검증 일치 -> asuka_kr_v0.91.xdelta
+   xdelta v0.91  4583682 B  되적용 검증 일치 -> asuka_kr_v0.91.xdelta
