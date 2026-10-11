@@ -5,29 +5,29 @@
    이름입력 漢字 페이지 = 가나다순 한글 2179자 (받침 포함)
 
 ■ 구간 재조립
-   DATASCR.BIN  행  7890 -> 구간  7890개 (병합    0개)  잔여  65629 B
-   SSCR.BIN     행  4860 -> 구간  4699개 (병합  139개)  잔여  18461 B
+   DATASCR.BIN  행  7890 -> 구간  7890개 (병합    0개)  잔여  65584 B
+   SSCR.BIN     행  4860 -> 구간  4700개 (병합  138개)  잔여  18489 B
    1NOSDC.BIN   행    32 -> 구간    32개 (병합    0개)  잔여     23 B
 
 ■ 검증
    문제 없음
    상세 -> C:\claude\project\asuka-kr-patch\work\build_errors.txt
-   패딩: 10478구간, 중앙값 6B, 최대 84B
+   패딩: 10490구간, 중앙값 6B, 최대 84B
    패딩: 반각 공백 (VM 이 종단자를 원자리에서 읽어야 한다)
 
 ■ 구운 그림
    DATASZU.BIN  변경 14115 B — 상태바 「층」 + 이름입력 라벨 7종
-   DATAIDA.BIN  변경 193304 B — 오프닝 나레이션 6화면
+   DATAIDA.BIN  변경 193392 B — 오프닝 나레이션 6화면
    OP.SFD       오프닝 동영상 자막 8줄 (앞 29초 다시 인코딩)
    1NOSDC.BIN   LZ40 해제 루틴 패치 0x3768~0x37FC (148 B)
    DATABG.BIN   변경 1318928 B — 지명판 18 + 던전 이름표 105
    1NOSDC.BIN   조사 자동 선택(은/는·을/를·이/가·과/와) + %s 끝 공백 건너뛰기 0x10D000~0x10D620
    추가 문자열 116곳 — 모집단 누락분(`%sは` 등)
    미식별 이름 216개 3197 / 3240 B — 포인터 표 다시 씀
-   DATASCR.BIN  변경 393001 B / 882688 B (계획 밖 0)
-   SSCR.BIN     변경 165314 B / 809344 B (계획 밖 0)
+   DATASCR.BIN  변경 393009 B / 882688 B (계획 밖 0)
+   SSCR.BIN     변경 165322 B / 809344 B (계획 밖 0)
    1NOSDC.BIN   변경   4841 B / 1941796 B (계획 밖 0)
    복사 track5 ...
 
 기록 완료. EDC/ECC 재계산 섹터 33416개 -> C:\claude\project\asuka-kr-patch\build\kr
-   xdelta v0.9  4583586 B  되적용 검증 일치 -> asuka_kr_v0.9.xdelta
+   xdelta v0.91  4583691 B  되적용 검증 일치 -> asuka_kr_v0.91.xdelta
