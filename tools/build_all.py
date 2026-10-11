@@ -629,6 +629,28 @@ def build(write=False):
         outbin[fn] = bytes(d)
         say('   미식별 이름 %d개 %d / %d B — 포인터 표 다시 씀' % (len(ptrs), len(blob), a1 - a0))
 
+    # ★미식별 아이템에 이름 붙일 때 앞에 붙는 분류 «腕輪:草:巻物:杖:壺:»(2026-10-11 카페 제보 04 «흰횃:NOKB») — 추출에서 빠져 있었음.
+    #   0x109678‥0x1096A3(뒤 «init %d»·«open %d» 디버그 출력 문자열 자리까지)에 다시 채우고 문자 풀 포인터 5개 + 디버그 2개를 고친다.
+    fn = '1NOSDC.BIN'
+    if fn in outbin:
+        d = bytearray(outbin[fn]); A0, A1, CBASE = 0x109678, 0x1096A4, 0x8C010000
+        CAT = [(0xB932C, '腕輪:', '팔찌:'), (0xB9340, '草:', '풀:'), (0xB94AC, '巻物:', '두루마리:'), (0xB94C0, '杖:', '지팡이:'), (0xB94D4, '壺:', '항아리:')]
+        DBG = [(0xBE3E0, 0x109694), (0xBE480, 0x10969C)]                 # init %d · open %d → 빈 문자열로
+        for p, o in DBG: assert struct.unpack_from('<I', src[fn], p)[0] == CBASE + o, hex(p)
+        blob = bytearray()
+        for p, jp, kr in CAT:
+            o = struct.unpack_from('<I', src[fn], p)[0] - CBASE
+            assert src[fn][o:o + len(jp.encode('cp932')) + 1] == jp.encode('cp932') + b'\0', (jp, hex(o))
+            struct.pack_into('<I', d, p, CBASE + A0 + len(blob)); blob += cm.encode(kr.rstrip(':')) + b':' + bytes(1)   # 반각 «:»는 원본 바이트 그대로
+        empty = A0 + len(blob); blob += b'\0'
+        assert len(blob) <= A1 - A0, ('분류 이름 넘침', len(blob), A1 - A0)
+        d[A0:A1] = bytes(blob) + bytes(A1 - A0 - len(blob))
+        for p, o in DBG: struct.pack_into('<I', d, p, CBASE + empty)
+        extra_ok.setdefault(fn, set()).update(range(A0, A1))
+        for p in [c[0] for c in CAT] + [x[0] for x in DBG]: extra_ok[fn].update(range(p, p + 4))
+        outbin[fn] = bytes(d)
+        say('   미식별 분류 이름 %d개 %d / %d B — 포인터 %d개 다시 씀' % (len(CAT), len(blob), A1 - A0, len(CAT) + len(DBG)))
+
     # ★최종 변경 검증 — 바뀐 바이트가 전부 «계획한 구간» 안인가
     for name, d in outbin.items():
         if name not in plans:          # 구운 그림 파일은 구간 계획이 없다
@@ -675,7 +697,7 @@ def build(write=False):
     return font, cm, outbin
 
 
-VERSION = '0.92'
+VERSION = '0.93'
 XDELTA = r"C:\claude\utils\xdelta.exe"
 
 
