@@ -675,7 +675,7 @@ def build(write=False):
     return font, cm, outbin
 
 
-VERSION = '0.91'
+VERSION = '0.92'
 XDELTA = r"C:\claude\utils\xdelta.exe"
 
 
