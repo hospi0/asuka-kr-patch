@@ -588,6 +588,7 @@ def build(write=False):
 
     import patch_missed
     n_ex = 0
+    rule_hits = {}
     for fname, jp, kr in patch_missed.RULES:
         if fname not in outbin:
             continue
@@ -607,7 +608,31 @@ def build(write=False):
             extra_ok.setdefault(fname, set()).update(range(i, i + len(old)))
             n_ex += 1
             i += len(old)
+            rule_hits[(fname, jp)] = rule_hits.get((fname, jp), 0) + 1
         outbin[fname] = bytes(d)
+    for fname, pre, jp, kr in getattr(patch_missed, 'RAW_RULES', []):
+        if fname not in outbin:
+            continue
+        old = pre + jp.encode('cp932') + b'\x00'
+        new = pre + cm.encode_tsv(kr) + b'\x00'
+        if len(new) != len(old):
+            say('   ⚠추가문자열 길이 불일치 %s: %d != %d — 건너뜀' % (kr, len(new), len(old)))
+            continue
+        d = bytearray(outbin[fname])
+        i = 0
+        while True:
+            i = d.find(old, i)
+            if i < 0:
+                break
+            d[i:i + len(old)] = new
+            extra_ok.setdefault(fname, set()).update(range(i + len(pre), i + len(old)))
+            n_ex += 1
+            i += len(old)
+            rule_hits[(fname, jp)] = rule_hits.get((fname, jp), 0) + 1
+        outbin[fname] = bytes(d)
+    with open(os.path.join(ROOT, 'work', 'missed_hits.txt'), 'w', encoding='utf-8') as fh:   # 규칙별 적용 수(검산용)
+        for (fn_, jp_), n_ in sorted(rule_hits.items()):
+            fh.write('%s\t%r\t%d\n' % (fn_, jp_, n_))
     if n_ex:
         say('   추가 문자열 %d곳 — 모집단 누락분(`%%sは` 등)' % n_ex)
 
@@ -697,7 +722,7 @@ def build(write=False):
     return font, cm, outbin
 
 
-VERSION = '0.93'
+VERSION = '0.94'
 XDELTA = r"C:\claude\utils\xdelta.exe"
 
 
